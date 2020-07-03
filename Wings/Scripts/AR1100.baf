@@ -1,0 +1,26 @@
+IF
+InParty("AERIE")
+Global("B2#LiliExists","AR1100",0)
+Global("B2#PhilExists","AR1100",0)
+Global("B2#KathExists","AR1100",0)
+Global("B2#RaptExists","AR1100",0)
+Global("B2#Comw1Exists","AR1100",0)
+Global("B2#Comm1Exists","AR1100",0)
+Global("B2#Comm2Exists","AR1100",0)
+THEN
+RESPONSE #100
+SetGlobal("B2#LiliExists","AR1100",1)
+CreateCreature("B2#Lili",[4060.2210],0)
+SetGlobal("B2#PhilExists","AR1100",1)
+CreateCreature("B2#Phil",[4040.1595],2)
+SetGlobal("B2#KathExists","AR1100",1)
+CreateCreature("B2#Kath",[4060.1560],4)
+SetGlobal("B2#RaptExists","AR1100",1)
+CreateCreature("B2#RAPT",[3980.1555],0)
+SetGlobal("B2#Comw1Exists","AR1100",1)
+CreateCreature("B2#COMW1",[3915.1565],14)
+SetGlobal("B2#Comm1Exists","AR1100",1)
+CreateCreature("B2#COMM1",[3900.1600],10)
+SetGlobal("B2#Comm2Exists","AR1100",1)
+CreateCreature("B2#COMM2",[3925.1640],10)
+END

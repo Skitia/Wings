@@ -1,0 +1,13 @@
+IF
+    InParty("AERIE")
+    !StateCheck("AERIE",STATE_SLEEPING)
+    GlobalLT("B2#NeerAer","GLOBAL",2)
+    See("AERIE")
+    AreaCheck("AR0406")
+    Global("HendakReleased","AR0406",4)
+    CombatCounter(0)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#NeerAer","GLOBAL",1)
+      Interact("AERIE")
+END

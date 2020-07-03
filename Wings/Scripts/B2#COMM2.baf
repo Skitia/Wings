@@ -1,0 +1,15 @@
+IF
+  Global("B2#Rapt","GLOBAL",2)
+THEN
+  RESPONSE #100
+    EscapeArea()
+END
+
+IF
+  Global("B2#Rapt","GLOBAL",1)
+THEN
+  RESPONSE #100
+    Wait(3)
+    SetGlobal("B2#Rapt","GLOBAL",2)
+    StartDialogueNoSet(LastSeenBy)
+END

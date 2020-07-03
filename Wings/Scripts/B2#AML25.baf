@@ -1,0 +1,14 @@
+IF
+    Allegiance(Myself,NEUTRAL)
+THEN
+  RESPONSE #100
+    ChangeEnemyAlly(Myself,CONTROLLED)
+END
+
+IF
+    Dead("AERIE")
+THEN
+  RESPONSE #100
+    SetGlobal("B2#AmmlSum","GLOBAL",2)
+    DestroySelf()
+END

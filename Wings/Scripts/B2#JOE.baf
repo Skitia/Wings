@@ -1,0 +1,17 @@
+IF
+  Global("B2#JoeImAer","GLOBAL",1)
+THEN
+  RESPONSE #100
+    EscapeArea()
+END
+
+IF
+  InParty("AERIE")
+  InParty("IMOEN2")
+  See("AERIE")
+  See("IMOEN2")
+  Global("B2#JoeImAer","GLOBAL",0)
+THEN
+  RESPONSE #100
+    StartDialogueNoSet(LastSeenBy)
+END

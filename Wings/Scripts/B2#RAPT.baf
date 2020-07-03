@@ -1,0 +1,33 @@
+IF
+     Global("B2#Rapt","GLOBAL",0)
+     AttackedBy([ANYONE],DEFAULT)
+THEN
+     RESPONSE #100
+     CreateVisualEffectObject("SPCLOUD2",Myself)
+     SetGlobal("B2#Rapt","GLOBAL",2)
+     JumpToPoint([920.1645])
+END
+
+IF
+     Global("B2#Rapt","GLOBAL",2)
+     Global("B2#RaptSht","GLOBAL",0)
+     Detect([PC])
+THEN
+     RESPONSE #100
+     SetGlobal("B2#RaptSht","GLOBAL",1)
+     StartDialogueNoSet(LastSeenBy(Myself))
+END
+
+IF
+     GlobalGT("B2#Rapt","GLOBAL",0)
+     AttackedBy([ANYONE],DEFAULT)
+THEN
+     RESPONSE #100
+     CreateVisualEffectObject("SPCLOUD2",Myself)
+     SetGlobal("B2#Rapt","GLOBAL",3)
+     CreateCreature("ELAIR01",[1015.1640],0)
+     CreateCreature("ELAIR01",[910.1740],12)
+     CreateCreature("B2#PHNX",[-1.-1],14)
+     CreateVisualEffectObject("SPFLSRIN","B2#PHNX")
+     DestroySelf()
+END

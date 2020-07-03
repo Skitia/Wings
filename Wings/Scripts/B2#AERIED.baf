@@ -1,0 +1,10 @@
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",45)
+    See(Player1)
+    CombatCounter(0)
+THEN
+    RESPONSE #100
+      IncrementGlobal("B2#AerieW","LOCALS",1)
+      Interact(Player1)
+END

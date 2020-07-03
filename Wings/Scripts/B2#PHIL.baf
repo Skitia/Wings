@@ -1,0 +1,19 @@
+IF
+  Global("B2#Rapt","GLOBAL",2)
+THEN
+  RESPONSE #100
+    EscapeArea()
+END
+
+IF
+  Global("B2#PHIL","GLOBAL",1)
+THEN
+  RESPONSE #100
+    StartCutsceneMode()
+    ClearAllActions()
+    ActionOverride("AERIE",ForceSpell("B2#Phil",CLERIC_CURE_LIGHT_WOUNDS))
+    Wait(5)
+    EndCutsceneMode()
+    SetGlobal("B2#PHIL","GLOBAL",2)
+    StartDialogueNoSet(LastSeenBy)
+END

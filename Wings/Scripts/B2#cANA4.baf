@@ -1,0 +1,10 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    ActionOverride("B2#ARTIS",EscapeArea())
+    SetGlobal("B2#NeerAer","GLOBAL",9)
+    Wait(4)
+    ActionOverride("NEERA",Interact("AERIE"))
+END

@@ -1,0 +1,21 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    ActionOverride("AERIE",MoveToObject(Player1))
+    SmallWait(12)
+    ActionOverride("AERIE",SetSequence(SEQ_ATTACK_SLASH))
+    SmallWait(12)
+    SetSequence(SEQ_ATTACK_JAB)
+    SmallWait(12)
+    ApplyDamage("AERIE",1,CRUSHING)
+    FadeToColor([30.0],0)
+    ActionOverride("AERIE",SetSequence(SEQ_ATTACK_JAB))
+    SmallWait(12)
+    SetSequence(SEQ_ATTACK_SLASH)
+    Wait(3)
+    FadeFromColor([20.0],0)
+    SmallWait(20)
+    ActionOverride("Aerie",Interact(Player1))
+END

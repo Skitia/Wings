@@ -1,0 +1,22 @@
+IF
+    InParty(Myself)
+    InParty("Aerie")
+    Dead("Aerie")
+    Global("AerieRaised","LOCALS",0)
+THEN
+    RESPONSE #100
+      SetGlobal("AerieRaised","LOCALS",1)
+END
+
+IF
+    InParty(Myself)
+    InParty("Aerie")
+    !Dead("Aerie")
+    Global("AerieRaised","LOCALS",1)
+    See("Aerie")
+    !StateCheck("Aerie",STATE_SLEEPING)
+THEN
+    RESPONSE #100
+      SetGlobal("AerieRaised","LOCALS",2)
+      Interact("Aerie")
+END

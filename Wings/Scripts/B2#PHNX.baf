@@ -1,0 +1,44 @@
+IF
+  ActionListEmpty()
+  See(NearestEnemyOf(Myself))
+  HaveSpell(WIZARD_FIREBALL)
+THEN
+  RESPONSE #100
+    Spell(LastSeenBy(Myself),WIZARD_FIREBALL)
+END
+
+IF
+  ActionListEmpty()
+  See(NearestEnemyOf(Myself))
+  HaveSpell(WIZARD_FIRE_SHIELD_RED)
+THEN
+  RESPONSE #100
+    Spell(Myself,WIZARD_FIRE_SHIELD_RED)
+END
+
+IF
+  ActionListEmpty()
+  See(NearestEnemyOf(Myself))
+  HaveSpell(WIZARD_AGANNAZAR_SCORCHER)
+THEN
+  RESPONSE #100
+    Spell(LastSeenBy(Myself),WIZARD_AGANNAZAR_SCORCHER)
+END
+
+IF
+  ActionListEmpty()
+  See(NearestEnemyOf(Myself))
+  HaveSpell(WIZARD_FLAME_ARROW)
+THEN
+  RESPONSE #100
+    Spell(LastSeenBy(Myself),WIZARD_FLAME_ARROW)
+END
+
+IF
+  ActionListEmpty()
+  See(NearestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    Attack(NearestEnemyOf(Myself))
+END
+

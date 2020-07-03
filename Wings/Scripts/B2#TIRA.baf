@@ -1,0 +1,17 @@
+IF
+  Global("B2#TirAer","GLOBAL",3)
+THEN
+  RESPONSE #100
+    StartCutsceneMode()
+    ClearAllActions()
+    MoveToObject("AERIE")
+    SetSequence(SEQ_ATTACK_JAB)
+    SmallWait(12)
+    ActionOverride("AERIE",ForceSpell("B2#TIRA",EFFECT_ONLY))
+    Wait(3)
+    Polymorph(CHICKEN)
+    Wait(3)
+    EndCutSceneMode()
+    SetGlobal("B2#TirAer","GLOBAL",4)
+    StartDialogueNoSet(LastSeenBy)
+END

@@ -1,0 +1,6 @@
+IF
+  Global("B2#Rapt","GLOBAL",2)
+THEN
+  RESPONSE #100
+    EscapeArea()
+END

@@ -1,0 +1,8 @@
+IF
+Global("B2#TiraExists","AR0607",0)
+THEN
+RESPONSE #100
+SetGlobal("B2#TiraExists","AR0607",1)
+CreateCreature("B2#Tira",[675.390],2)
+Continue()
+END

@@ -1,0 +1,17 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId(Player1)
+    FadeToColor([30.0],0)
+    Wait(1)
+    ActionOverride("NEERA",JumpToPoint([1030.520]))
+    ActionOverride("NEERA",Face(NW))
+    ActionOverride("AERIE",JumpToPoint([1060.530]))
+    ActionOverride("AERIE",Face(SE))
+    SetGlobal("B2#NeerAer","GLOBAL",3)
+    Wait(2)
+    FadeFromColor([20.0],0)
+    SmallWait(20)
+    ActionOverride("NEERA",Interact("AERIE"))
+END

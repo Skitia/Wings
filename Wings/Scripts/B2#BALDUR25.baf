@@ -1,0 +1,43 @@
+IF
+    Global("B2#Amml","GLOBAL",1)
+THEN
+  RESPONSE #100
+    SetGlobal("B2#Amml","GLOBAL",0)
+    SetGlobal("B2#AmmlSum","GLOBAL",1)
+    MoveGlobalObject("B2#AML25","AERIE")
+    ActionOverride("AERIE",TransformItem("B2#AMJ25","B2#AMMK"))
+END
+
+IF
+    Global("B2#AmmlSum","GLOBAL",1)
+    Dead("B2#AML25")
+THEN
+  RESPONSE #100
+    SetGlobal("B2#AmmlSum","GLOBAL",0)
+    SetGlobalTimer("B2#AmmlRest","GLOBAL",ONE_DAY)
+END
+
+IF
+    Global("B2#AmmlSum","GLOBAL",2)
+    !StateCheck("AERIE",STATE_DEAD)
+    PartyHasItem("B2#AMMK")
+THEN
+  RESPONSE #100
+    SetGlobal("B2#AmmlSum","GLOBAL",0)
+    ActionOverride("B2#AML25",Rest())
+    ActionOverride("AERIE",TransformItem("B2#AMMK","B2#AMJ25"))
+END
+
+IF
+    StateCheck("B2#AML25",STATE_DEAD)
+    GlobalTimerExpired("B2#AmmlRest","GLOBAL")
+    PartyHasItem("B2#AMMK")
+THEN
+  RESPONSE #100
+    MoveGlobalObject("B2#AML25","AERIE")
+    ApplySpell("B2#AML25",CLERIC_RESURRECTION)
+    ApplySpell("B2#AML25",RESTORE_FULL_HEALTH)
+    ActionOverride("B2#AML25",DestroySelf())
+    ActionOverride("B2#AML25",Rest())
+    ActionOverride("AERIE",TransformItem("B2#AMMK","B2#AMJ25"))
+END

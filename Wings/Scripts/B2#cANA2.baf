@@ -1,0 +1,22 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("NEERA")
+    FaceObject("AERIE")
+    ForceSpell("AERIE",EFFECT_ONLY)
+    Polymorph(RAT)
+    SetGlobal("B2#NeerAer","GLOBAL",5)
+    Wait(3)
+    Interact("AERIE")
+END
+
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("AERIE")
+    FaceObject("NEERA")
+    Wait(6)
+    Polymorph(RAT)
+END

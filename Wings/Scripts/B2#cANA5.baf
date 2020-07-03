@@ -1,0 +1,20 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("AERIE")
+    ForceSpell("NEERA",EFFECT_ONLY)
+    Polymorph(MAGE_FEMALE_ELF)
+END
+
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("NEERA")
+    Wait(6)
+    Polymorph(MAGE_FEMALE_ELF)
+    SetGlobal("B2#NeerAer","GLOBAL",11)
+    Wait(3)
+    Interact("AERIE")
+END

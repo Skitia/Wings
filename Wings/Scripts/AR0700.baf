@@ -1,0 +1,17 @@
+IF
+GlobalTimerExpired("CircusEnded","GLOBAL")
+Global("B2#WHKNExists","AR0700",0)
+Global("B2#BLKNExists","AR0700",0)
+Global("B2#GRKNExists","AR0700",0)
+Global("B2#PIKNExists","AR0700",0)
+THEN
+RESPONSE #100
+SetGlobal("B2#WHKNExists","AR0700",1)
+CreateCreature("B2#WHKN",[3225.1665],4)
+SetGlobal("B2#BLKNExists","AR0700",1)
+CreateCreature("B2#BLKN",[3160.1630],0)
+SetGlobal("B2#GRKNExists","AR0700",1)
+CreateCreature("B2#GRKN",[3120.1690],12)
+SetGlobal("B2#PIKNExists","AR0700",1)
+CreateCreature("B2#PIKN",[3195.1730],8)
+END

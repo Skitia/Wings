@@ -1,0 +1,12 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("AERIE")
+    CreateCreature("B2#AML25",[-1.-1],0)
+    CreateVisualEffectObject("SPFLSRIN","B2#AML25")
+    Wait(2)
+    ActionOverride("B2#AML25",MakeGlobal())
+    Wait(2)
+    ActionOverride("B2#AML25",Dialogue("AERIE"))
+END

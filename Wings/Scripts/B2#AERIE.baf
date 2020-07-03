@@ -1,0 +1,286 @@
+IF
+    Global("AerieMatch","GLOBAL",0)
+    Global("B2#AerieFriend","GLOBAL",0)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieFriend","GLOBAL",1)
+END
+
+IF
+    Global("AerieMatch","GLOBAL",1)
+    Global("B2#AerieW","LOCALS",0)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",2)
+END
+
+IF
+    Global("B2#AmmlSum","GLOBAL",1)
+    !InMyArea("B2#AMML")
+THEN
+  RESPONSE #100
+    MoveGlobalObject("B2#AMML","AERIE")
+END
+
+IF
+    InParty(Myself)
+    Global("B2#AerieW","LOCALS",0)
+    AreaCheck("AR0700")
+    Global("B2#AerieFriend","GLOBAL",1)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieFriend","GLOBAL",2)
+      SetGlobal("B2#AerieW","LOCALS",1)
+      RealSetGlobalTimer("B2#AerieFriends","GLOBAL",2500)
+END
+
+IF
+    InParty(Myself)
+    Global("AerieRomanceActive","GLOBAL",3)
+    Global("B2#AerieFriend","GLOBAL",0)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieFriend","GLOBAL",4)
+      RealSetGlobalTimer("B2#AerieFriends","GLOBAL",2500)
+END
+
+IF
+    InParty(Myself)
+    RealGlobalTimerExpired("B2#AerieFriends","GLOBAL")
+    Global("B2#AerieFriend","GLOBAL",4)
+    See(Player1)
+    !StateCheck(Player1,STATE_SLEEPING)
+    !AreaType(DUNGEON)
+    CombatCounter(0)
+    !See([ENEMY])
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieFriend","GLOBAL",5)
+      Interact(Player1)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",9)
+    GlobalGT("LoveTalk","LOCALS",3)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",11)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",11)
+    GlobalGT("LoveTalk","LOCALS",5)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",13)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",15)
+    GlobalGT("LoveTalk","LOCALS",9)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",17)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",17)
+    GlobalGT("LoveTalk","LOCALS",11)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",19)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",19)
+    GlobalGT("LoveTalk","LOCALS",13)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",21)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",37)
+    GlobalGT("LoveTalk","LOCALS",37)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",39)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",39)
+    GlobalGT("LoveTalk","LOCALS",39)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",41)
+END
+
+IF
+    Global("B2#AerieFriend","GLOBAL",2)
+    Global("B2#AerieW","LOCALS",41)
+    GlobalGT("LoveTalk","LOCALS",41)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AerieW","LOCALS",43)
+END
+
+IF
+    InParty(Myself)
+    RealGlobalTimerExpired("B2#AerieFriends","GLOBAL")
+    PartyRested()
+    Global("B2#AerieFriend","GLOBAL",2)
+    See(Player1)
+    !StateCheck(Player1,STATE_SLEEPING)
+    !AreaType(DUNGEON)
+    CombatCounter(0)
+    !See([ENEMY])
+    OR(2)
+      Global("B2#AerieW","LOCALS",21)
+      Global("B2#AerieW","LOCALS",31)
+THEN
+    RESPONSE #100
+      IncrementGlobal("B2#AerieW","LOCALS",1)
+      Interact(Player1)
+END
+
+IF
+    InParty(Myself)
+    RealGlobalTimerExpired("B2#AerieFriends","GLOBAL")
+    PartyRested()
+    Global("B2#AerieFriend","GLOBAL",2)
+    See(Player1)
+    !StateCheck(Player1,STATE_SLEEPING)
+    !AreaType(DUNGEON)
+    CombatCounter(0)
+    !See([ENEMY])
+    OR(20)
+      Global("B2#AerieW","LOCALS",1)
+      Global("B2#AerieW","LOCALS",3)
+      Global("B2#AerieW","LOCALS",5)
+      Global("B2#AerieW","LOCALS",7)
+      Global("B2#AerieW","LOCALS",9)
+      Global("B2#AerieW","LOCALS",11)
+      Global("B2#AerieW","LOCALS",13)
+      Global("B2#AerieW","LOCALS",15)
+      Global("B2#AerieW","LOCALS",17)
+      Global("B2#AerieW","LOCALS",19)
+      Global("B2#AerieW","LOCALS",23)
+      Global("B2#AerieW","LOCALS",25)
+      Global("B2#AerieW","LOCALS",27)
+      Global("B2#AerieW","LOCALS",29)
+      Global("B2#AerieW","LOCALS",33)
+      Global("B2#AerieW","LOCALS",35)
+      Global("B2#AerieW","LOCALS",37)
+      Global("B2#AerieW","LOCALS",39)
+      Global("B2#AerieW","LOCALS",41)
+      Global("B2#AerieW","LOCALS",43)
+THEN
+    RESPONSE #100
+      RealSetGlobalTimer("B2#AerieFriends","GLOBAL",30)
+END
+
+IF
+    InParty(Myself)
+    RealGlobalTimerExpired("B2#AerieFriends","GLOBAL")
+    Global("B2#AerieFriend","GLOBAL",2)
+    See(Player1)
+    !StateCheck(Player1,STATE_SLEEPING)
+    !AreaType(DUNGEON)
+    CombatCounter(0)
+    !See([ENEMY])
+    OR(20)
+      Global("B2#AerieW","LOCALS",1)
+      Global("B2#AerieW","LOCALS",3)
+      Global("B2#AerieW","LOCALS",5)
+      Global("B2#AerieW","LOCALS",7)
+      Global("B2#AerieW","LOCALS",9)
+      Global("B2#AerieW","LOCALS",11)
+      Global("B2#AerieW","LOCALS",13)
+      Global("B2#AerieW","LOCALS",15)
+      Global("B2#AerieW","LOCALS",17)
+      Global("B2#AerieW","LOCALS",19)
+      Global("B2#AerieW","LOCALS",23)
+      Global("B2#AerieW","LOCALS",25)
+      Global("B2#AerieW","LOCALS",27)
+      Global("B2#AerieW","LOCALS",29)
+      Global("B2#AerieW","LOCALS",33)
+      Global("B2#AerieW","LOCALS",35)
+      Global("B2#AerieW","LOCALS",37)
+      Global("B2#AerieW","LOCALS",39)
+      Global("B2#AerieW","LOCALS",41)
+      Global("B2#AerieW","LOCALS",43)
+THEN
+    RESPONSE #100
+      IncrementGlobal("B2#AerieW","LOCALS",1)
+      Interact(Player1)
+END
+
+IF
+    GlobalGT("JaheiraCursed","GLOBAL",1)
+    GlobalLT("JaheiraCursed","GLOBAL",8)
+    !InParty("jaheira")
+    !Dead("jaheira")
+    Global("B2#AEJaheira","LOCALS",0)
+THEN
+    RESPONSE #100
+      SetGlobal("B2#AEJaheira","LOCALS",1)
+      StartDialogueNoSet([PC])
+END
+
+IF
+    Allegiance("Hendak",ENEMY)
+    Global("SlavingJerk","GLOBAL",1)
+    Global("B2#SlaverScum","LOCALS",0)
+    !Dead("Hendak")
+    See([PC])
+THEN
+  RESPONSE #100
+    SetGlobal("B2#SlaverScum","LOCALS",1)
+    StartDialogueNoSet([PC])
+END
+
+IF
+    Global("B2#SlaverScum","LOCALS",2)
+THEN
+  RESPONSE #100
+    LeaveParty()
+    Enemy()
+    Continue()
+END
+
+IF
+    GlobalTimerExpired("B2#PHNXReturns","GLOBAL")
+    PartyHasItem("B2#PHNX")
+THEN
+    RESPONSE #100
+      SetGlobal("B2#PHNX","GLOBAL",1)
+      StartDialogueNoSet([PC])
+END
+
+IF
+    Global("B2#RapEnc","GLOBAL",2)
+THEN
+  RESPONSE #100
+    LeaveParty()
+    MoveToPoint([4050.2145])
+END
+
+IF
+	Global("B2#Rapt","GLOBAL",3)
+	See([PC])
+	InParty(Myself)
+	!StateCheck([PC],STATE_SLEEPING)
+	CombatCounter(0)
+	!See([ENEMY])
+THEN
+	RESPONSE #100
+		Wait(1)
+		StartDialogueNoSet([PC])
+END

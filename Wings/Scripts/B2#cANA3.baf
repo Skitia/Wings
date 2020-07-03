@@ -1,0 +1,12 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("NEERA")
+    CreateCreature("B2#ARTIS",[950.600],NW)
+    ActionOverride("B2#ARTIS",MoveToObject("NEERA"))
+    Wait(3)
+    SetGlobal("B2#NeerAer","GLOBAL",7)
+    Wait(2)
+    ActionOverride("B2#ARTIS",Dialogue("NEERA"))
+END

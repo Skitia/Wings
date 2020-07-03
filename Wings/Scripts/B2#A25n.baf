@@ -1,0 +1,29 @@
+IF
+  Global("AerieSummoned","GLOBAL",1)
+  Global("B2#AerieFamiliar","GLOBAL",1)
+THEN
+  RESPONSE #100
+    ApplySpell(Myself,B2#AERIEFAM)
+    SetGlobal("B2#AmmlSum","GLOBAL",0)
+    StartDialogNoSet([PC])
+END
+
+IF
+  Global("B2#AerieFamiliar","GLOBAL",1)
+  Global("B2#Amml25","GLOBAL",0)
+  InParty(Myself)
+THEN
+  RESPONSE #100
+    SetGlobal("B2#Amml25","GLOBAL",1)
+    Wait(2)
+    StartDialogNoSet([PC])
+END
+
+IF
+  Global("B2#AmmlSum","GLOBAL",1)
+  !InMyArea("B2#AML25")
+THEN
+  RESPONSE #100
+    MoveGlobalObject("B2#AML25","AERIE")
+END
+

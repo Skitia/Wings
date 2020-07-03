@@ -1,0 +1,13 @@
+If
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("AERIE")
+    CreateCreature("B2#AMML",[-1.-1],0)
+    CreateVisualEffectObject("SPFLSRIN","B2#AMML")
+    Wait(2)
+    ActionOverride("B2#AMML",MakeGlobal())
+    Wait(2)
+    PlaySong(34)
+    ActionOverride("B2#AMML",Dialogue("AERIE"))
+END
