@@ -1,0 +1,508 @@
+@0    = ~Fair Aerie, I can see you struggling there.  Allow me to carry some of that load.~
+
+@1    = ~No, Anomen… that is very kind of you, but I can manage on my own.  I really don't want to always rely on others to carry my weight for me.~
+
+@2    = ~I understand your desire to prove yourself.  But keep in mind that you'll be of little help fighting our enemies if at the same time you are fighting your own fatigue.  There is no shame in accepting a helping hand every now and then.~
+
+@3    = ~I suppose. But, what about you, Anomen? Is there any problem you need help with?~
+
+@4    = ~Of course not. I am a knight.~
+
+@5    = ~Aerie... you should not be carrying a load like that.~
+
+@6    = ~R-really?~
+
+@7    = ~No. You should keep your back straight and bend at the knees.~
+
+@8    = ~Ugh... just stay away from me, Anomen.~
+
+@9    = ~You seem nervous, Aerie.~
+
+@10   = ~That's rather normal, for me.~
+
+@11   = ~Perhaps I meant, apprehensive.~
+
+@12   = ~I-I suppose. I don't understand how you and others can be so calm when we may face danger at any moment. Are you never afraid?~
+
+@13   = ~It is not that I or anyone else are never afraid. To be without fear leads to foolhardiness, which quickly gets one killed. Fear should not be treated as an enemy – it is a gift from nature to preserve us. But, you must be careful not to let it control you. You must be in control of it.~
+@14   = ~I understand, Cernd. I think. Thank you.~
+@15   = ~You grow stronger with each passing day.~
+@16   = ~I don't feel like I've gotten much stronger. I am trying, but there are so many others who I know are more powerful, faster, and stronger than I will ever be.~
+@17   = ~Your modesty would be charming, were it not so misplaced. You are already stronger and more powerful than most.~
+@18   = ~I am?~
+@19   = ~Keep trying, Aerie. One day, you will have no choice but to believe my words.~
+@20   = ~Aerie?~
+@21   = ~Oh... N-Nalia, I... what is it?~
+@22   = ~Nothing. You've just been quiet for a while. Thought I would check on you.~
+@23   = ~Oh. I-I'm fine. I was just lost in thought, dreams, memories... the usual.~
+@24   = ~I just feel like, ever since I showed you my ring earlier, you've been avoiding me.~
+
+@25   = ~I haven't! I-I was just...~
+
+@26   = ~Aerie, I want... I need you to tell me the truth. Have you ever seen a ring like this before?~
+
+@27   = ~I... n-no. It's… not important. I'm sorry...~
+
+@28   = ~Aerie...~
+
+@29   = ~I... I-I can't. I'm sorry...~
+
+@30   = ~You have certainly travelled a long way! What was life in your homeland like?~
+
+@31   = ~People you find are much the same the world over, even if the dress or customs or the sounds they make are different.~
+
+@32   = ~I would like to learn some of your language.~
+
+@33   = ~Wherever a caged bird sings, young Aerie, you need not understand its words to know what it is it sings about.~
+
+@34   = ~That's beautiful... although also a little insulting...~
+
+@35   = ~*smiles* But... will you ever go back home?~
+
+@36   = ~Perhaps. One day.~
+
+@37   = ~But what about... I mean, do you have a family?~
+
+@38   = ~I... a sister. Yes.~
+
+@39   = ~Oh... I-I'm sorry. You must miss her very much.~
+
+@40   = ~I do... Ahh, but your pleasant company makes me feel at home once again. Come!~
+
+@41   = ~What are they?~
+
+@42   = ~You mean the stars?~
+
+@43   = ~Yes. So distant, and... so beautiful. But what are they? Why are they there?~
+
+@44   = ~Souls, some say, or the spirits of long dead gods drifting forever through the void. Still, others have claimed that they are other, distant suns, each with worlds around them like ours.~
+
+@45   = ~Or not like ours... that... that is what my father thought as well.~
+
+@46   = ~What do you think they are?~
+
+@47   = ~I don't know. I think... I think sometimes it's okay not to know. It means there is still a journey left, and that new things are waiting to be found. Some day, we will discover the truth. In the mean-time, I shall just let my spirit soar and dream of all the endless possibilities...~
+
+@48   = ~Psst! Aerie!~
+
+@49   = ~Neera?~
+
+@50   = ~See that man over there? He's watching us!~
+
+@51   = ~Wh-where?~
+
+@52   = ~Don't look! I don't want him to know that we're on to him...~
+
+@53   = ~We... we are?~
+
+@54   = ~... oh yeah, I am on to you, you beady eyed goatee having creep... Ha! I don't know why he bothers trying to hide it. So obviously a villain...~
+
+@55   = ~Are... a-are you sure you're not just being paranoid?~
+
+@56   = ~Paranoia has saved my life a lot of times over the years. I'm telling you, this guy is spying on us! He might be working for the Red Wizards... you have got to help me deal with him!~
+
+@57   = ~I think we should have more proof that he actually is a spy, before we do any dealing...~
+
+@58   = ~Well, maybe you're right... Okay, let's just keep an eye on him, for now...~
+
+@59   = ~Okay, this is his room! Get searching! You go through those drawers, and I guess I'll take a look under the bed.~
+
+@60   = ~*sighs*~
+
+@61   = ~Shoes... saddlebag... pantaloons...well, nothing incriminating, yet. I don't know... maybe I was being paranoid...~
+
+@62   = ~Oh, my...~
+
+@63   = ~What? What is it? What have you found?!~
+
+@64   = ~You were right... h-he really was spying on us...~
+
+@65   = ~I knew it! So what is it? Notes on our activities? Letters to his Red Wizard masters?~
+
+@66   = ~Well... not exactly. Take a look for yourself. It seems he's an artist, of sorts...~
+
+@67   = ~...that... that is just gross...~
+
+@68   = ~Oh, I don't know... m-my chest has been exaggerated, and nipples can't really shoot like that, but I-I think he's really captured your wild spirit...~
+
+@69   = ~Aerie... burn that... thing! Right now!~
+
+@70   = ~Seems a shame, but... okay...~
+
+@71   = ~This is worse than I'd imagined... he must be, like, a fan or something...~
+
+@72   = ~Oh no! I think I can hear him! Quick! Just... just stay still!~
+
+@73   = ~Dammit!~
+
+@74   = ~*chortles* Heh... Heheha!~
+
+@75   = ~Aerie... we just turned into mice. I fail to see why you find that so funny!~
+
+@76   = ~I've just... I've never seen such pink whiskers before...~
+
+@77   = ~Augh... Look, let's get back from the door before it opens and crushes us.~
+
+@78   = ~Oh... then, we'd be dormice...~
+
+@79   = ~Stop! Just... stop. Oh no...~
+
+@80   = ~Huh. Well, that was easier than I thought it'd be. Don't know how we're gonna get rid of our tails though...~
+
+@81   = ~Hold on... I think I can do it...~
+
+@82   = ~Hey Aerie, have you ever wanted to see a unicorn?~
+
+@83   = ~That would be both beautiful and fascinating to behold, yes.~
+
+@84   = ~I read once that to summon a unicorn, a ‘fair maiden must lie alone in a field and, after a time, a unicorn will come'.~
+
+@85   = ~That... seems unlikely...~
+
+@86   = ~Well, you're fair. And a maiden, I think. Why don't we try it and see?~
+
+@87   = ~So... you want me to lie by myself, in a field, a-and wait for a horny beast to sneak up on me?~
+
+@88   = ~Would you?~
+
+@89   = ~No.~
+
+@90   = ~I've heard of wizards performing the most horrible experiments on avariel. Are you ever worried?~
+
+@91   = ~No... I used to be. But, the truth is, it was my wings that everyone thought valuable. Without them, I'm... just an elf, I suppose.~
+
+@92   = ~Sometimes wish I could lose the thing everyone thinks is valuable about me...~
+
+@93   = ~Oh! I mean... w-what happened to you was terrible, of course! I was just... Oh no! I've done it again, haven't I?~
+
+@94   = ~I understand, Neera. In my experience, the cost - being forced to give up who and what you are - it's not worth it.~
+
+@95   = ~I guess. But, you are wrong about one thing. You're not just an elf. You're worth at least a dozen of most the elves I've met. We shall call you... half-gnome.  Is there such a thing as a half-gnome? I don't know.~
+
+@96   = ~O-one time in the circus, a trick involving a saw went wrong, and...~
+
+@97   = ~Stop! Sheez... you are dark...~
+
+@98   = ~Imoen? Are you okay?~
+
+@99   = ~Huh? W-wha... oh, Aerie, right? You've a light-step... almost snuck up on me there.~
+
+@100  = ~Are you sure?~
+
+@101  = ~Sure I'm sure. Just... caught a little bit of wind in my eye, is all.~
+
+@102  = ~I... I think you're trying not to worry <CHARNAME>. But, you don't have to... I-I mean, I know what it's like. Being shut in a cage, and... made to submit. And to have something so important taken away like that. If you ever need to talk, I... I-I can listen. And I wouldn't hold anything against you.~
+
+@103  = ~Thanks Aerie. You're real sweet, but I think I'm okay. You... you don't actually say a whole lot, do you?~
+
+@104  = ~Well, I... I try to be friends with people. But I suppose, I do still get lost in my own world, sometimes.~
+
+@105  = ~You're shy. That's okay. You can hang around with me and chat for a bit. I wanna know about everything <CHARNAME> has been up to while I've been gone. I expect they were lost without me, right?~
+
+@106  = ~Imoen... can I talk to you?~
+
+@107  = ~Oh, Aerrers... you don't have to ask! We're pals, right?~
+
+@108  = ~I... I think so. But, do pals usually read their friend's diary without asking first?~
+
+@109  = ~Of course not! Only very bestest pals care enough to be that nosy.~
+
+@110  = ~Well, s-some people might view it as a violation or invasion of their privacy...~
+
+@111  = ~Well that's silly. I mean, if you didn't  want anyone to see what you'd written, then why write it down at all?~
+
+@112  = ~It just helps me to make sense of things, sometimes. *sighs* I suppose I wouldn't mind too much, except, did you have to add so much annotation?~
+
+@113  = ~It needed lightening up in places. Let's face it, you can be a little bit maudlin. But I like the Chiktikka Fastpaws stories, and the things you wrote about the others. All so true...~
+
+@114  = ~Um... c-can we keep all that between us? Please? I-I really like breathing and being able to go outside every once in a while...~
+
+@115  = ~Hey, you think I would do anything that would get my bestest pal in trouble?~
+
+@116  = ~Not deliberately, I'm sure. But can you please at least ask in future?~
+
+@117  = ~Now, how am I gonna help you if I don't know what you're thinking?~
+
+@118  = ~Help me? There's no need. Really.~
+
+@119  = ~Nah. See, you've been so nice, helping me out after... y'know. And I just can't let that go. I gotta help you, too. And, I think now I've figured out what your problem is, and how I can solve it.~
+
+@120  = ~My problem? Imoen, m-my only problem right now is you going through my things.~
+
+@121  = ~Now we both know that ain't so. See, what I've learned is this:~
+
+@122  = ~Once, there was a little girl who had wings. She loved her life and her freedom and she had a head bursting with ideas and questions and she wanted to open up every crack and door in the multiverse and peek inside. But, something bad happened to that girl and she almost forgot who she was. How everything in the world used to be so vibrant and alive and colorful.~
+
+@123  = ~I almost lost myself back there as well. But you know what? We can get 'em back. We both can. Together.~
+
+@124  = ~You are... such an odd person...~
+
+@125  = ~It's why everyone loves me.~
+
+@126  = ~Oww! Hey. that's enough! Who keeps throwing these things at me? Whoever it is, you'd better stop it, or... oww!~
+
+@127  = ~Eek!~
+
+@128  = ~I saw you Aerie! Don't you try to run!~
+
+@129  = ~I-I'm sorry Imoen! I have no choice!~
+
+@130  = ~Whatcha talking about?~
+
+@131  = ~Well... we're friends, right?~
+
+@132  = ~That depends on your explanation. It had better be good.~
+
+@133  = ~Y-you see, as a follower of Baervan Wildwanderer, on special days, like today, I... I have to play pranks on and throw acorns at my friends.~
+
+@134  = ~What kind of crazy buffleheaded religion is this?~
+
+@135  = ~I-it's just... it's a gnome thing...~
+
+@136  = ~Well, you could warned your friends about all this, so that we could be armed as well.~
+
+@137  = ~Oh, y-you can borrow some of mine...~
+
+@138  = ~Oh, thanks! Now, stand still...~
+
+@139  = ~Oww... Ouch!~
+
+@140  = ~Oh, I get it now! This is fun!~
+
+@141  = ~Oww! Don't you...! You owe me more free shots... get back here!~
+
+@142  = ~I do wish sometimes you would take some things more seriously.~
+
+@143  = ~Are you still sore because you lost that pillow fight?~
+
+@144  = ~I... didn't really lose... but, I just wish you'd try harder some times. I mean, I-I'm always trying my hardest and best just to barely keep up with some people. But you... you make everything look so easy. Just think what you could do if you really applied yourself.~
+
+@145  = ~I apply myself to stuff. Like, for years I've been trying to get people to start using the phrase '<CHARNAME>'s Charm', as a slang term for something that probably doesn't exist.~
+
+@146  = ~How about 'Imoen's Brain' instead? You know they're over there listening, don't you?~
+
+@147  = ~Don't worry about it.~
+
+@148  = ~*sigh* I think you can be a little too carefree.~
+
+@149  = ~Well, you'll stand up to <CHARNAME> for me, won't you?~
+
+@150  = ~I-I've been depressed, sometimes, but never actually suicidal...~
+
+@151  = ~Okay, okay... tell you what - I'll take things more seriously, if you try to smile more often. That's fair, right?~
+
+@152  = ~I... I suppose I can try.~
+
+@153  = ~Some of the stuff that goes on around here... I just... I can't be bothered to say it. Aerie, you say it.~
+
+@154  = ~You... yer all buffleheaded! Hmph.~
+
+@155  = ~Well said.~
+
+@156  = ~Thank you.~
+
+@157  = ~Not sure about the foot stamp though.~
+
+@158  = ~Oh, I-I thought it needed some extra emphasis.~
+
+@159  = ~Hmmm... yeah, I don't know.~
+
+@160  = ~I suppose I still have a lot to learn.~
+
+@161  = ~Just stick with me kiddo. You'll get there.~
+
+@162  = ~You do not like me, do you?~
+
+@163  = ~Not really.~
+
+@164  = ~Because I am Drow?~
+
+@165  = ~I used to be afraid of you for that reason, because of all the stories I'd heard about Drow growing up. But I've learnt a lot since then, about the Drow and how their society has made them. They no longer frighten me.~
+
+@166  = ~No, now, I just don't like you because you're a bitch. But, I'll admit you're not quite as bad as I once thought. You've proven yourself loyal to <CHARNAME>, at least.~
+
+@167  = ~Well, as we are being honest, I once thought it a mistake for <CHARNAME> to allow something so pathetically fragile and weak as you along. But, perhaps I was as guilty as the majority of surfacers I've encountered in only judging by what I saw on the outside.~
+
+@168  = ~I'll admit, you have proven useful on occasion, and certainly surpassed all my expectations. Although they were exceedingly low to begin with.~
+
+@169  = ~Thank you?~
+
+@170  = ~Shall we catch up to the others?~
+
+@171  = ~Why don't you go ahead.~
+
+@172  = ~You still do not trust me?~
+
+@173  = ~There really is hope for you, yet.~
+
+@174  = ~Jaheira?~
+
+@175  = ~Yes, child.~
+
+@176  = ~Child? Do you really still think of me like that?~
+
+@177  = ~It is... a sign of affection. I have watched you grow from practically a newborn in this world, at least, into a strong young woman. Now, what was it you wanted?~
+
+@178  = ~I... just wanted to apologize.~
+
+@179  = ~What for?~
+
+@180  = ~I... think I might have said things, before, that... they were hurtful things. So, I'm sorry.~
+
+@181  = ~You do know that, the truth is, I've always admired and looked up to you. That was why it was so easy for you to hurt me, a-and I...~
+
+@182  = ~And you tried to hurt me back. I understand. There is no need to apologize. And the truth is that, while I was wounded, I was also impressed by the courage you showed standing up to me at all.~
+
+@183  = ~I still feel guilty about it...~
+
+@184  = ~You have learnt from your mistakes, as have I. So let us just leave them in the past where they belong.~
+
+@185  = ~I will try. Thank you.~
+
+@186  = ~And please - you do not have to bring me any more muffins you have made. I am quite full.~
+
+@187  = ~Are you okay, Edwin?~
+
+@188  = ~(Ha!NOW she cares.) *sniffs* Of course, girl. Everything is just peachy (aside from the tiny niggle of being at death's door, that is.) *sneezes*~
+
+@189  = ~Are… you sure?~
+
+@190  = ~I AM DYING, YOU FOOL!~
+
+@191  = ~You're really not...~
+
+@192  = ~(Bah! No sympathy even from this sappy tarsiiforme...) Eh, it matters not, now. Take this.~
+
+@193  = ~What is it?~
+
+@194  = ~Requests for my funeral. I would like it to be an austere and sombre occasion...~
+
+@195  = ~Uh-huh... and, w-where do you expect me to find a dozen black horses... or a string orchestra?~
+
+@196  = ~Oh... I know you can be resourceful.  You will think of something.~
+
+@197  = ~Edwin, enough. I told you already, you are not dying. All you have is a cold.~
+
+@198  = ~For which YOU claim to have NO cure!~
+
+@199  = ~I just cannot squander party resources on something you will recover from perfectly well on your own in just a day or two.~
+
+@200  = ~Tell me, why are you never ill?~
+
+@201  = ~Oh... j-just, lucky, I guess...~
+
+@202  = ~You have a brave and pure heart, young Aerie.~
+
+@203  = ~I'm no angel, Keldorn. I just do the best I can.  But, thank you.~
+
+@204  = ~But what is it you wish to fight for?~
+
+@205  = ~Fight for?  I suppose… my friends?~
+
+@206  = ~You have no grander goal? Do you not wish to see the forces of evil purged and driven from this world?~
+
+@207  = ~I do. But, honestly, my goal is to explore, see, and understand the world. Not to try and change all of it. Of course, I will help when I am able.~
+
+@208  = ~And what of the slavers? You know that others are still suffering as you once did.~
+
+@209  = ~I know. And I will fight them wherever I find them. But I have no wish for that to dominate my life... that life is mine, now. They have taken too much already. From now on, I will follow my dreams and live as I choose.~
+
+@210  = ~I fear the path will not be easy for you. Evil has a way of forcing itself into our lives, whether we want it there or not.~
+
+@211  = ~I'm just worried about you.~
+
+@212  = ~I know, Aerie. I'm sorry.~
+
+@213  = ~When I found out about <CHARNAME>, I never really gave it much thought. I guess I never truly believed it.~
+
+@214  = ~But now, after the slayer, and having actually been to Bhaal's plane... it's started to seem a whole lot more real.~
+
+@215  = ~Hey, how do you think I feel? I don't wanna turn into some monster with more teeth than on an orc shaman's necklace.~
+
+@216  = ~I'm sorry. I just... I want to help, but I'm not sure how I can...~
+
+@217  = ~Hey... you're my pal, right? Just... keep doing that. That's all I need.~
+
+@218  = ~Of course I will, Imoen. No matter what.~
+
+@219  = ~And smile for me, okay?~
+
+@220  = ~O--okay...~
+
+@221  = ~*yawns* Heya, Aerie. Whatchya doing?~
+
+@222  = ~Oh... nothing, really. N-nothing at all.~
+
+@223  = ~Hmmm... come on, Aerie. You know you can't hide anything from me. What are you really up to here?~
+
+@224  = ~I-I told you, nothing! But... how are you feeling? Are you okay?~
+
+@225  = ~Huh... why you wanna know?~
+
+@226  = ~Just... curious. Have you being experiencing any headaches? Sore throat? Shortness of breath?~
+
+@227  = ~Well, my shoulder has been a bit stiff. And my throat is a bit dry...~
+
+@228  = ~Oh, my... Imoen, I... I'm so sorry... you know I... I love you, like a sister. Y-you know that, right?~
+
+@229  = ~Uh-huh... Aerie, why are you acting weird? What's going on?~
+
+@230  = ~I... I suppose you should know. You see, the others had noticed you acting differently, and asked me to look into it.~
+
+@231  = ~I haven't been acting any differently...~
+
+@232  = ~Well, you see, you wouldn't notice because it's inside you, altering your perceptions...~
+
+@233  = ~Wha-what? What's inside me?!~
+
+@234  = ~I-it's a... a kind of demonic parasite. Must have been hiding around the pocket plane... it... it gets inside you while you sleep, a-and then it...~
+
+@235  = ~...it slowly consumes your brain from within. I'm sorry, Imoen... I'm so sorry.~
+
+@236  = ~B-but... I feel fine...~
+
+@237  = ~That... that's good. You see, it'll happen slowly and you won't feel a thing. That's why we... we thought about not telling you.~
+
+@238  = ~But I thought, as a friend, you deserved to know the truth.~
+
+@239  = ~Aerie, if there is some thing burrowing in head, then you've got to get it out! There must be something you can do! Is-is that it in your book there? Let me see it!~
+
+@240  = ~Oh, gods... that is disgusting...~
+
+@241  = ~I'm sorry. I've done all the research I can, but... every source says that once it's in, there's no way to get it out without killing you.~
+
+@242  = ~So, what, you were just going to let it happen? No one was going to tell me anything?!~
+
+@243  = ~Well, to be honest, I think everyone thought you wouldn't really miss your brain anyway. No one else would... *sniggers*~
+
+@244  = ~I can't believe, you...~
+
+@245  = ~Hey, wait a minute... are you... are you playing some kind of trick on me?~
+
+@246  = ~*giggles* I really didn't think I was that good an actress...~
+
+@247  = ~Ohh! That's... that was mean, Aerie!~
+
+@248  = ~I didn't think you'd really fall for it either...~
+
+@249  = ~I... I-I was tired, okay! Ohhh! I am so getting you back for this!~
+
+@250  = ~Don't you run away! I made you, Aerie... I can destroy you too!~
+
+@251  = ~...th-thank you, <CHARNAME>.~
+
+@252  = ~Korgan, please just leave me alone. I really don't want to cause trouble for the group because one person in it is a drunken, foul-mouthed bully.~
+
+@253  = ~Bah... I were bored of ye anyway.~
+
+@254  = ~Shallow, meaningless words! I have no need for them from you as well.~
+
+@255  = ~That's enough, Korgan. Aerie's not being a bother to anyone. It's your blasted blustering that's giving me a headache~
+
+@256  = ~......~
+
+@257  = ~Anomen, Aerie's just trying to be supportive. And she's right, you need not throw away all the things you've been taught.~
+
+@258  = ~*Don't say anything*~
+
+@259  = ~No, Anomen! Stop!~

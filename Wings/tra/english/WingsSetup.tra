@@ -1,0 +1,82 @@
+@0    = ~Wings~
+@1    = ~A pair of wings.~
+@2    = ~Ironic Hammer~
+@3    = ~Once confidently wielded in battle against a golem. Unfortunately, the golem didn't smash when hit. Instead, the vibrations travelled back up the wielders arm and shattered every bone in his body.~
+@4    = ~Slap Stick~
+@5    = ~You slap things with it.~
+@6    = ~Polearm of Parody~
+@7    = ~It's really old and long and like an axe with a big handle and a pointy bit.~
+@8    = ~Hyperbolic Helm~
+@9    = ~Quite simply the most amazing helm ever devised by mortal beings! Just really incredible, fantastic and so improbably superb that mere words could not even begin to do justice to sheer brilliant wondrousness of the thing!~
+@10   = ~Anecdotal Armor~
+@11   = ~So there I was, walking home, when all of sudden these Shadow Thieves jump out and kill me! 'Well,' I thought as my life essence drained away into the gutter, 'that wasn't very nice.' It was then I had the idea of wearing a suit of armor like this one, but of course it was too late.~
+@12   = ~Shield of Sarcasm~
+@13   = ~Nah. You'd rather let the arrows go through you, right?~
+@14   = ~Sword of Satire~
+@15   = ~The perfect weapon to bring low kings, nobles, politicians and any who might otherwise think themselves above reproach.~
+@16   = ~Ammale's Heart~
+@17   = ~This gem contains the soul of the small phoenix like creature that Aerie has named Ammale (Yellow Bird). He currently rests inside waiting to be summoned.
+
+STATISTICS:
+
+Hit Points: 24
+Armor Class: 6
+Magic Resistance: 10%
+
+Combat: 2 attacks per round at 13 THAC0 for 1d2 damage (+1d3 fire damage).
+Special abilities:
+100% resistance to fire.
+50% resistance to slashing, piercing and missile damage.
+Can cast Fireball and Fireshield Red once per day, and Agannazar's Scorcher and Flame Arrow twice per day.
+Regenerates 1 HP/round.
+Immune to level drain, sleep, and petrification.
+
+Weight: 1~
+@18   = ~This gem contains the soul of the small phoenix like creature that Aerie has named Ammale (Yellow Bird). If Ammale should fall in battle, he will always return to this gem to restore himself and be reborn.
+
+Weight: 1~
+@19   = ~Mysterious Gem~
+@20   = ~A mysterious gem, warm to the touch, and pulsating with a strange energy.
+
+Weight: 1~
+@21   = ~This gem contains the soul of the small phoenix like creature that Aerie has named Ammale (Yellow Bird). He currently rests inside waiting to be summoned.
+
+STATISTICS:
+
+Hit Points: 48
+Armor Class: 3
+Magic Resistance: 25%
+
+Combat: 2 attacks per round at 8 THAC0 for 1d2 damage (+1d3 fire damage).
+Special abilities:
+100% resistance to fire.
+60% resistance to slashing, piercing and missile damage.
+Can cast Fireball and Fireshield Red once per day, and Agannazar's Scorcher and Flame Arrow twice per day.
+Aura of Flaming Death, Sunfire and Firestorm once per day.
+Regenerates 1 HP/round.
+Immune to level drain, sleep, and petrification.
+
+Weight: 1~
+@22   = ~Steel Feathers~
+@23   = ~This elven chainmail was commissioned by a bladesinger who personally oversaw every aspect of its creation, testing each new facet to ensure it met her very precise requirements and high standards. It was to be worn into battle against an oncoming orc horde, and when the time came her fastidiousness was rewarded. While battles are not won by individual warriors, many orcs fell to her sword, and the mail's light weight and other enhancements enabled her to better support her allies on the field. There are some who say that long after her death, a piece of the bladesinger's soul lingers on in the armor, imparting a fraction of her own skill and experience to the wearer.
+
+STATISTICS:
+
+Armor Class: 2(0vs. slashing, 4vs. crushing)
+Magic Resistance: 10%
+Improves casting speed by 4
+
+Weight: 8~
+@24   = ~Raptair~
+@25   = ~Lilian~
+@26   = ~Philip~
+@27   = ~Kathy~
+@28   = ~Tira~
+@29   = ~Joe~
+@30   = ~White Knight~
+@31   = ~Black Knight~
+@32   = ~Green Knight~
+@33   = ~Pink Kinght~
+@34   = ~Ammale~
+@35   = ~Phoenix~
+@36   = ~Artist~

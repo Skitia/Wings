@@ -1,0 +1,169 @@
+@0    = ~Um... are you okay, miss?~
+
+@1    = ~Oh... I'm alright, little one. Thank you.~
+
+@2    = ~And, I'm sorry, <CHARNAME>. I know I should not have run off like that. I just...~
+
+@3    = ~I'm sorry, <CHARNAME>. I know I should not have run off like that. I just...~
+
+@4    = ~I... I thought about my own parents. About the... the pain I must have caused them when I...~
+
+@5    = ~...when I left...~
+
+@6    = ~I... I often wonder what happened to them. How--how long did they search for me? Are they still home, now, hoping, waiting... or, d-did they put me to rest and move on with their lives?~
+
+@7    = ~Honestly, I don't know which I would be happiest with. O-or if I'm better off just not knowing at all... or if they're better off not knowing about me...~
+
+@8    = ~In my experience, I've found it's always better to know the truth, rather than spend your life wondering.~
+
+@9    = ~I really don't know the answer to that, Aerie.~
+
+@10   = ~I don't care about that. You ran off with all my stuff!~
+
+@11   = ~Yes. I think you are right, <CHARNAME>. Even if you have to bury someone, at least then you can grieve for them and move on.~
+
+@12   = ~I think... I think it is better to know the truth. Even if you have to bury someone, at least then you can grieve for them and move on.~
+
+@13   = ~Oh. Yes... I'm sorry about that, <CHARNAME>.~
+
+@14   = ~Psst! Hey! Did you see that Deva?~
+
+@15   = ~Y-yes... we did...~
+
+@16   = ~I've warned people about him. There's something about him I just don't like...~
+
+@17   = ~You were right, little one. He isn't what he says he is.~
+
+@18   = ~He's... an avariel. A winged elf. He's lying to everyone.~
+
+@19   = ~I knew it!~
+
+@20   = ~Well, not about that winged elf stuff, but I knew he was lying!~
+
+@21   = ~He's been taking everyone's stuff but I've never really seen him do nothing for it.~
+
+@22   = ~... and now my mom's taken my brother to see him. She's going to give him the only things my father left so that Phil'll be cured... but he won't be cured, will he?~
+
+@23   = ~We have to convince everyone that he's a fake! But how?~
+
+@24   = ~I'm sorry. I want to help, but... what if he is right, <CHARNAME>? What if no one believes us if we try to tell them the truth?~
+
+@25   = ~We have to try something, Aerie. He can't be allowed to keep exploiting people like this.~
+
+@26   = ~Well, all we have to do is show them he's not some all powerful extra-dimensional being, right?~
+
+@27   = ~I know, but... hmm...~
+
+@28   = ~I-is that all? But how... hmm...~
+
+@29   = ~What was wrong with your brother?~
+
+@30   = ~I don't know. He's always been poorly, and now he's just gotten worse. He's always coughing really bad, and he can hardly even stand up without someone to help him.~
+
+@31   = ~Mother can't afford a priest, though. She thinks he... that he might not have long.~
+
+@32   = ~I'll help him. I promise.~
+
+@33   = ~<CHARNAME>, I think we can expose him. I want to talk to him again, but, if he won't listen, then at the very least I shall prove he's no angel.~
+
+@34   = ~Who are you all?~
+
+@35   = ~Adventurers. We're here to save the village.~
+
+@36   = ~Didn't your parents teach you not to talk to strangers?~
+
+@37   = ~None of your business.~
+
+@38   = ~Oh... that. I thought maybe you'd come to see the Deva.~
+
+@39   = ~Deva?~
+
+@40   = ~Nah. I mean, we don't get many strangers round here anyway. But talking of strange, they don't get much stranger than that Deva.~
+
+@41   = ~Everyone so rude where you come from? Maybe you should go with the rest of them and ask the Deva for forgiveness.~
+
+@42   = ~Well, that's what he says he is. His name's Raptair.~
+
+@43   = ~A little while ago, he appeared to this charcoal maker in the woods. And now, there's a bunch of folk practically worship him.  Even... even mom...~
+
+@44   = ~Ask me though, and no one has, something ain't right about him. I mean, he's got wings and he can fly and stuff, but otherwise, he just don't seem very Deva-like to me.~
+
+@45   = ~My brother's been really sick though, so mom hopes Raptair can cure him. She's taken him to see the deva, just north of here.~
+
+@46   = ~Hmmm... maybe I'll check it out myself.~
+
+@47   = ~You haven't gone with them?~
+
+@48   = ~Do what you want... but I'm telling you, something ain't right! Don't be taken in like the others.~
+
+@49   = ~Uh-uh. No way. I mean, I hope mom's right and he can help my brother, but I... I don't trust him. I think he knows it, too.~
+
+@50   = ~I've never seen him really help anyone. He just keeps asking for things like food and money and jewels, and everyone keeps giving them.~
+
+@51   = ~But that's not right, is it? If he was really good and powerful, he would just help people, right? And Devas don't need to eat, do they?~
+
+@52   = ~No one wants to listen to me, though. They just wanna believe him... but it ain't right.~
+
+@53   = ~Well, thank Ao that's over.~
+
+@54   = ~I tried following him once, but he always got away. But whenever he left the village, he always headed straight west, if you wanted to look for him.~
+
+@55   = ~Go check out the Deva for yourselves. Me? I'm staying put. Hopefully he'll fly back to wherever he came from soon...~
+
+@56   = ~Oh, er, miss! Thank you for helping my brother.~
+
+@57   = ~He's really annoying, but... I'm glad he's okay, thanks to you.~
+
+@58   = ~Oh, that's quite alright, little one. I was glad to help.~
+
+@59   = ~So, I was thinking, I'd like to be a healer some day, too.~
+
+@60   = ~I mean, if there's time when I'm not solving crimes and stuff.~
+
+@61   = ~Heh! You're a very bright girl. I'm sure you'll be able to do whatever you want when you are older.~
+
+@62   = ~Really? You think I'll be able to fly?~
+
+@63   = ~I--I... y-yes. If that is what you want. Anything is possible if you put your mind to it.~
+
+@64   = ~Oh, wow! Thanks lady!~
+
+@65   = ~Oh, hey, it's you all! You wanna play a game?~
+
+@66   = ~Er, sure. Why not.~
+
+@67   = ~Haven't the time.~
+
+@68   = ~Okay! So, I'll be the princess, and you all have to rescue me from this terrible evil dragon!~
+
+@69   = ~Okay... wait, what? A Dragon?~
+
+@70   = ~Uh-uh... no way I'm fighting a dragon. Not even for a girl I liked.~
+
+@71   = ~With huge gnashing teeth, and fire, and ginormous slashing claws, and bleeds acid!~
+
+@72   = ~And you want us to fight this thing? You can't be serious!~
+
+@73   = ~I've changed my mind. I really don't have time for this right now.~
+
+@74   = ~But I'm the princess! You have to rescue me!~
+
+@75   = ~Yeah, the whole damsel-in-distress thing... I think modern princesses should be able to rescue themselves...~
+
+@76   = ~Are you mad? Have you seen this thing?! It's got a hide as tough as steel and is as big as a mountain! You can't just leave your princess to face this beast herself!~
+
+@77   = ~Yeah... good luck with the dragon thing, but I think it's time we formed a republic anyway.~
+
+@78   = ~Fine! I'll take care of the dragon myself! And after I do, I'm going to find you and crush your little rebellion!~
+
+@79   = ~Beh... you're no fun at all!~
+
+@80   = ~So, um... th-thanks for all the help and stuff. Sorry I don't have anything to give you.~
+
+@81   = ~I wonder where all the boys have gone?~
+
+@82   = ~Hey, you wanna hear me sing?~
+
+@83   = ~*LA-LA-LA-LI-LA-LA-DI-DAAA*~
+
+@84   = ~I can dance too, you know!~

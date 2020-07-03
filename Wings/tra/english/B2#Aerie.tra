@@ -1,0 +1,1424 @@
+@0    = ~*sighs*~ [AERIE33]
+
+@1    = ~Aerie?~
+
+@2    = ~Hey! Quit staring into space! I need you focused.~
+
+@3    = ~Oh... <CHARNAME>. I... wasn't bothering you, was I? If I was distracting you, then I'll...~
+
+@4    = ~Did you want to say something?~
+
+@5    = ~You've been very quiet.~
+
+@6    = ~I'm sorry. I--I was just distracted there for a second. I'll not let it happen again, <SIRMAAM>.~
+
+@7    = ~Good. Well, see that it doesn't. Now get back in line.~
+
+@8    = ~N-no. I-I... no. It is kind of you to check, but I'm fine.~
+
+@9    = ~I have? I'm sorry. I-I don't mean to be, I just get carried off by my thoughts, some times. Did... d-did you want to talk about something?~
+
+@10   = ~No! I thought you did!~
+
+@11   = ~Well, if you have a question or want to say something, don't be afraid to do so.~
+
+@12   = ~Right, look... I've got no time for this. Just get back in line.~
+
+@13   = ~Right. Of course. I'm sorry...~
+
+@14   = ~Oh... I-I always have a head full of questions. I doubt you would want to hear all of them. I can work out most of it out on my own, I think.~
+
+@15   = ~Yes. O-of course. I'm sorry, again, <CHARNAME>.~
+
+@16   = ~There is just... just so much to take in. You know the world never looked so big from the sky.~
+
+@17   = ~So many different kinds of people and ways they live. It's all very exciting, but... a-also a little overwhelming and frightening at times.~
+
+@18   = ~You'll get used to it.~
+
+@19   = ~Well, look, if you ever want to talk about anything, then I won't bite your head off if you do.~
+
+@20   = ~Please. Aerie. I've no use for anyone who scares so easily.~
+
+@21   = ~Oh, I hope so. I will try my best, I promise!~
+
+@22   = ~You know I-I... I used to watch the people on the ground, when I was younger. Spy on them in the foothills, w-wondering who they were and where they were going in their strange houses on wheels.~
+
+@23   = ~But, that was a long time ago... far away...~
+
+@24   = ~I guess you found out, didn't you?~
+
+@25   = ~Thank you, <CHARNAME>.~
+
+@26   = ~I'd wanted to leave the circus for a long time, but I suppose I... I-I'm still a little apprehensive. I don't know if I'm ready for everything I may face.~
+
+@27   = ~But then, I do know I would never have ever been any more ready if I'd just stayed put.~
+
+@28   = ~And, I-I know I do have skills that can help people out here.~
+
+@29   = ~Don't worry Aerie. I was in shoes like yours not too long ago.~
+
+@30   = ~I already saw in the circus that you can be strong. Even when your own life is in danger, you put others first and don't freeze or flee. So I know you'll manage out here too.~
+
+@31   = ~Whatever. Just stay out of my way and I'm sure we'll get along fine.~
+
+@32   = ~Yes... I... I-I'm sorry, <CHARNAME>. I really didn't want to bother you.~
+
+@33   = ~You were, <SIRMAAM>?~
+
+@34   = ~I find that hard to believe, <CHARNAME>, but even if you just said it to cheer me up, thank you.~
+
+@35   = ~I try my best, <CHARNAME>, to do what I think is right. Although I can't promise I will always be right.~
+
+@36   = ~Thank you for... for taking the time to talk to me. I do appreciate it, more than you know.~
+
+@37   = ~<CHARNAME>... I heard about what happened to you in that dungeon. Are you okay?~
+
+@38   = ~I'm fine, Aerie.~
+
+@39   = ~Actually, I do still have a bit of a sore, here, do you see?~
+
+@40   = ~Don't bother me.~
+
+@41   = ~I... know what it's like. Being shut in a birdcage and treated like someones pet...~
+
+@42   = ~And having something so precious taken from you, and not being able to stop it.~
+
+@43   = ~I just want you to know that, I'll help in any way I can. Even if you just wanted to talk.~
+
+@44   = ~I'm... not so skilled at saying the right thing, but, I-I am good at listening, if you want.~
+
+@45   = ~Thanks, Aerie.~
+
+@46   = ~To be honest, I don't really remember much of it.~
+
+@47   = ~I really don't want to talk, no. There's no sense in dwelling on what's done.~
+
+@48   = ~You're comparing my experience to yours?! You couldn't even begin to understand what I've lost!~
+
+@49   = ~Go away.~
+
+@50   = ~Oh, I-I can take care that easily. I was... I was actually more concerned about any non-physical wounds you might have.~
+
+@51   = ~I'm sorry. I won't disturb you anymore, <SIRMAAM>.~
+
+@52   = ~You are welcome, <CHARNAME>.~
+
+@53   = ~I see. That... that may be as well.~
+
+@54   = ~T-that's okay too, <CHARNAME>. I... I do understand.~
+
+@55   = ~But, as... as a healer, I know that even the smallest wound can fester and grow far worse if not treated.~
+
+@56   = ~So, if you change your mind, I'll be here.~
+
+@57   = ~I'm sorry, <CHARNAME>... maybe I don't. But I would try, if you would let me.~
+
+@58   = ~But, i-if you don't want to talk, then I shan't bother you.~
+
+@59   = ~No... I'm sorry. I don't know why I snapped like that. Maybe you're right.~
+
+@60   = ~I didn't mean to upset you. It's just... I don't want to dwell on it.~
+
+@61   = ~Good.~
+
+@62   = ~It is terrible thing to lose one's freedom.~
+
+@63   = ~I know I must seem very naive, at times, as much of this world is still so strange to me. But, this is something I do know well.~
+
+@64   = ~So, if you need me, I'll be here.~
+
+@65   = ~I... I-I understand, <CHARNAME>.~
+
+@66   = ~I'm sorry, <SIRMAAM>.~
+
+@67   = ~There is so much to see out here, both strange and wonderful, but...~
+
+@68   = ~Do you ever miss your home? Do you miss Candlekeep?~
+
+@69   = ~Hm? Why do you ask?~
+
+@70   = ~Sometimes, I guess.~
+
+@71   = ~It was cramped, stuffy, and boring.~
+
+@72   = ~I've no time to answer your insipid questions, Aerie.~
+
+@73   = ~I would just like to learn more about you, a-and it's a place I've dreamed of visiting myself, one day.~
+
+@74   = ~It's a place I've dreamed of visiting myself, one day.~
+
+@75   = ~Oh, but, I-I've always found libraries to be exciting, wonderful places!~
+
+@76   = ~Oh. I--I'm sorry, <SIRMAAM>.~
+
+@77   = ~Is it true they have every book ever written?~
+
+@78   = ~It's what they claim. The monks are always looking for new manuscripts to translate and copy and preserve.~
+
+@79   = ~Who cares? Just get back to doing some work, would you?~
+
+@80   = ~It must be enormous... I-I imagine it would be easy to become lost among mazes of shelves.~
+
+@81   = ~Oh, but, w-what a place to be lost in! Where every tome is like a door to a whole new world...~
+
+@82   = ~Your head is really in the clouds, isn't it?~
+
+@83   = ~Sure, you could spend your life in there. Provided you develop a taste for papyrus and leather.~
+
+@84   = ~Ugh... I think I'm going to be sick...~
+
+@85   = ~Dreams were all I had for a long time, <CHARNAME>. But, I can't imagine ever growing bored in such a place.~
+
+@86   = ~You like books, I take it?~
+
+@87   = ~Eh... once you've seen one monk slip on his robes, tumble down the stairs, and stab his own brain with the quill he's holding, you've pretty much seen them all.~
+
+@88   = ~*sigh* I--I'm sorry, <CHARNAME>. Dreams were all I had for a long time, but I shan't bother you if you don't want to hear them.~
+
+@89   = ~Always.~
+
+@90   = ~Wait... d-did the quill go into his eye, or up through his nostril?~
+
+@91   = ~*sigh* It doesn't matter. I've always loved reading.~
+
+@92   = ~I used to go to the library and read all the time as a child.~
+
+@93   = ~I... I haven't been able to visit them as often as I'd like, lately.~
+
+@94   = ~But, Uncle Quayle used to read to me, and then he and others in the circus all had books they would let me borrow, some times.~
+
+@95   = ~When I was a little girl, I wanted to be a writer.~
+
+@96   = ~Really?~
+
+@97   = ~You know what I wanted? To not be continually pestered by some sappy, silly little girl who wanted to stay a child for the rest of her life.~
+
+@98   = ~Well, that, o-or an actress.~
+
+@99   = ~Or a general, or astonomer, o-or a warrior princess, or someone who took care of animals...~
+
+@100  = ~Or, a warrior-princess-general w-who owned a telescope and lived in a grove writing plays she performed with animals.~
+
+@101  = ~Ambitious.~
+
+@102  = ~I... I was a child, then. I had...~
+
+@103  = ~... I'm sorry. I-I suppose the truth is that I... I've been thinking more and more lately about my own home, Faenya-Dail.~
+
+@104  = ~I left much behind there. Friends, teachers... a mother and father I loved, that I... I shall never see again.~
+
+@105  = ~... even if I could, I'm not sure they would recognise me, now...~
+
+@106  = ~I understand, Aerie. I left a lot behind as well.~
+
+@107  = ~Gorion was like a father to me. I miss him.~
+
+@108  = ~If you're going to cry, do it somewhere else.~
+
+@109  = ~Of course you did... I'm sorry.~
+
+@110  = ~He must have been a wonderful father, a-and a great teacher. I'm sorry, <CHARNAME>.~
+
+@111  = ~I'm sorry, <CHARNAME>. I suppose it was silly. I shan't trouble you anymore.~
+
+@112  = ~You have so many of your own troubles... I-I shouldn't burden you with mine.~
+
+@113  = ~It's okay, Aerie. I don't mind.~
+
+@114  = ~Maybe there's something you need to talk about?~
+
+@115  = ~See that it doesn't.~
+
+@116  = ~No... I-I was just being silly. I know it's foolish to dwell on things you can no longer change.~
+
+@117  = ~I don't mind listening, Aerie. You've been through a lot.~
+
+@118  = ~As a healer, I'm sure you know that even the smallest wound can fester and grow if you don't treat it.~
+
+@119  = ~Yes, you're right. So let's hear no more about it.~
+
+@120  = ~M-my...~
+
+@121  = ~No, I've held us up long enough.~
+
+@122  = ~But... thank you for being so patient. Perhaps... perhaps another time.~
+
+@123  = ~Yes... I-I'm sorry to have troubled you.~
+@124  = ~You and Jaheira are...?~
+
+@125  = ~We're in love, Aerie.~
+
+@126  = ~I like you Aerie, but... yes.~
+
+@127  = ~You have a problem with that?~
+
+@128  = ~I... I'm glad. It's good that you've both found someone.~
+
+@129  = ~I... I-I like you too, <CHARNAME>. And I'm glad you have someone. Glad for both of you.~
+
+@130  = ~No. I... I-I'm just glad for you. For both of you.~
+
+@131  = ~Jaheira and I, we... we have had our differences, but...~
+
+@132  = ~The truth is, I do admire and respect her.~
+
+@133  = ~I only hope I can grow to be as strong as her one day.~
+
+@134  = ~Maybe you should tell her that.~
+
+@135  = ~You're a valuable ally, Aerie. And a good friend.~
+
+@136  = ~Whatever. I'm just tired of listening to you whine.~
+
+@137  = ~Oh, I-I have tried, <CHARNAME>. She just tells me to stop being silly. *sigh* Maybe she's right and I am, a little. But nature made me that way.~
+
+@138  = ~I don't mind you being silly from time to time. We're friends.~
+
+@139  = ~Friends? Oh, o-of course we are, <CHARNAME>! I'll never be able to thank you enough for helping me away from the circus.~
+
+@140  = ~And I... I'm going to keep working hard to prove myself to everyone. Even Jaheira.~
+
+@141  = ~If... i-if that's how you feel, <CHARNAME>, then I shan't bother you at all any more.~
+@142  = ~Do... d-do you really love her? Viconia?~
+
+@143  = ~Yes, Aerie, I do.~
+
+@144  = ~I'm sorry, Aerie.~
+
+@145  = ~You're not going to give us any trouble, are you?~
+
+@146  = ~If... i-if you're sure. I suppose you already know how I feel.~
+
+@147  = ~No, I-I'm, sorry, <CHARNAME>. If you truly are in love, then I'll respect that.~
+
+@148  = ~No, I-I think you'll have your hands full already. In more ways than one.~
+
+@149  = ~It's true I was afraid of her, a-and maybe still am, a little. I was raised on stories about the drow and how evil they are.~
+
+@150  = ~And I know it's more complicated than that, really. But she... s-she's such a... a...~
+
+@151  = ~Bitch?~
+
+@152  = ~There is good in her. I feel it.~
+
+@153  = ~She's been through a lot, Aerie, and had a hard time adjusting to this world. I think you can understand that, can't you?~
+
+@154  = ~Y-yes... exactly.~
+
+@155  = ~I do hope you are right, <CHARNAME>. I really do.~
+
+@156  = ~I-I... I suppose I can. I know people can treat you cruelly for no crime other than being different.~
+
+@157  = ~*sigh* I--I guess, we do have one other thing in common, at least.~
+
+@158  = ~We both care about you.~
+
+@159  = ~Thanks, Aerie. I hope we can still be friends.~
+
+@160  = ~Funny, because I really don't care much about you.~
+
+@161  = ~Of course, <CHARNAME>. I... I'll never be able to thank you enough for helping me away from the circus.~
+
+@162  = ~I want to keep travelling and learning from you for as long as I am able.~
+@163  = ~So, you and Neera are... together?~
+
+@164  = ~You sound surprised.~
+
+@165  = ~I'm sorry, Aerie. I should have told you sooner.~
+
+@166  = ~This isn't going to be a problem, is it?~
+
+@167  = ~No! I-I didn't mean to make it sound like that! I'm sorry.~
+
+@168  = ~Oh, t-that's quite alright, <CHARNAME>.~
+
+@169  = ~No... n-not from me, in any case.~
+
+@170  = ~I'm glad for you, <CHARNAME>. For both of you. Truly I am.~
+
+@171  = ~And I... I really like her. She's so... so...~
+
+@172  = ~Well, you won't ever be bored around her. W-which I think is good... mostly.~
+
+@173  = ~Thanks Aerie. And we're still friends, right?~
+
+@174  = ~Whatever. I'm just tired of hearing your whining.~
+
+@175  = ~I hope to stay by your side and keep helping you as best I can, for as long as I can.~
+
+@176  = ~Dorn... I--I don't like him, <CHARNAME>. I really don't.~
+
+@177  = ~Too bad. I do.~
+
+@178  = ~Oh? Are you going to fight him for me, then?~
+
+@179  = ~*sigh* I... I-I can see that. I suppose it's up to you to choose who to be with.~
+
+@180  = ~No one should be anyone else's possession to be bought or fought over, <CHARNAME>. I believe it's up to you to choose who to love.~
+
+@181  = ~No... I-I'm sorry. It's up to you to choose who you want to be with.~
+
+@182  = ~If... if he's what you want, then, I-I won't get in your way.~
+
+@183  = ~I don't like him. But, I-I do still want to be friends with you, <CHARNAME>.~
+
+@184  = ~Of course, Aerie. Don't worry about Dorn. I'll make sure he doesn't trouble you.~
+
+@185  = ~Just so long as I don't have to listen to any more of your whining.~
+
+@186  = ~Thank you, <CHARNAME>. You know, I... I'll never be able to thank you enough for helping me away from the circus.~
+@187  = ~<CHARNAME>, might I... might I have a word with you?~
+
+@188  = ~Of course, Aerie. You never need to ask.~
+
+@189  = ~Er... sure, I guess.~
+
+@190  = ~I don't have time for you, Aerie.~
+
+@191  = ~I-it's about, well... Haer'Dalis and I, I suppose.~
+
+@192  = ~*sighs* I... I have so little experience in these matters.~
+
+@193  = ~When we met, I... I suppose I found him attractive. But, when he started talking to me I thought that he was just being kind.~
+
+@194  = ~I never expected that... that we could be right, for each other. I suppose we'll see...~
+
+@195  = ~Aerie, whatever happens between you and Haer'Dalis, we'll still be friends. Okay?~
+
+@196  = ~Oh, I forgot - this is why I always get tired of you.~
+
+@197  = ~Oh. I-I'm sorry. But, I-I suppose that answers what I had to ask, anyway.~
+
+@198  = ~Thank you, <CHARNAME>. That... that's what I wanted to ask.~
+
+@199  = ~You know, I... I'll never be able to thank you enough for helping me away from the circus.~
+
+@200  = ~I hope to stay by your side and keep doing the best I can, for as long as I can.~
+@201  = ~What's it about, Aerie?.~
+
+@202  = ~I'm sorry it didn't work out between you.~
+
+@203  = ~On second thought, I don't have time for this.~
+
+@204  = ~It's not your fault, <CHARNAME>.~
+
+@205  = ~But I think I knew all along, really, that we were not really right for eachother. We're just too... different.~
+
+@206  = ~We're still friends, Aerie. If you ever need to talk...~
+
+@207  = ~Oh, I forgot - this is why I always get tired of you.~
+
+@208  = ~Thank you, <CHARNAME>. That... that is what I wanted to ask.~
+
+@209  = ~<CHARNAME>, might I talk with you?~
+
+@210  = ~You don't need to ask permission, Aerie.~
+
+@211  = ~Thank you, <CHARNAME>. But, i-it's just... I...~
+
+@212  = ~I want you to know that, despite of anything I might say when I'm low, I really can't thank you enough for helping me away from the circus.~
+
+@213  = ~I know I'm not the strongest, but I want... t-that is, I hope, I can still be useful to you and be able to do all I can to help you on your quest.~
+
+@214  = ~A-and that we can still be friends.~
+
+@215  = ~I wouldn't have it any other way.~
+
+@216  = ~Just keep quiet and don't bother me.~
+
+@217  = ~I-I suppose that answers what I had to ask, anyway. Thank you, <CHARNAME>.~
+
+@218  = ~Oh, thank you, <CHARNAME>!~
+
+@219  = ~I promise I'll try my best not to disappoint you!~
+
+@220  = ~Very well. I-I shall do as you ask, <CHARNAME>, and try not to be a bother anymore.~
+@221  = ~Imoen is like a sister to you?~
+
+@222  = ~Yes. We may not be related by blood, but we grew up together.~
+
+@223  = ~I suppose... I guess I've just grown accustomed to her being around.~
+
+@224  = ~Nope. Don't really care for her at all.~
+
+@225  = ~I never had any siblings like that.~
+
+@226  = ~I--I suppose family is like that. You take them for granted when they're there, but feel it when they're gone.~
+
+@227  = ~But, w-we are going to save her, aren't we? You would not abandon her to those wizards?~
+
+@228  = ~Of course, Aerie. I was just being facetious. I do care about her.~
+
+@229  = ~Irenicus took something from me. I intend to take it back.~
+
+@230  = ~She is irrelevant. I only care about what power this sorcerer claims to have.~
+
+@231  = ~But, we've already been through so much to save her...~
+
+@232  = ~I was just being facetious. Of course I care about her.~
+
+@233  = ~She is irrelevant. I only care about Irenicus.~
+
+@234  = ~I'm sorry. I-I suppose it's my lack of experience. I couldn't tell you were joking. Maybe it would have been different if I'd had sister growing up.~
+
+@235  = ~She is not mere property, <CHARNAME>. I hope you realise that...~
+
+@236  = ~*sighs*~
+
+@237  = ~I see... well, I shall help you, <CHARNAME>, b-but for the sake of helping someone wrongfully imprisoned. Nothing else.~
+
+@238  = ~I see... well, I shall help you, <CHARNAME>, i-if only to stop him before he does more harm to people. Nothing else.~
+
+@239  = ~I sometimes wish I had a brother or sister I could just spend time with and talk to.~
+
+@240  = ~What about Quayle?~
+
+@241  = ~You can talk to me.~
+
+@242  = ~And then there's all the fighting, arguing, stealing, sororicide, eventually...~
+
+@243  = ~Uncle Quayle? I--I love him, but... there are things I could just never say to him. He already did so much, that I didn't want to worry him any more.~
+
+@244  = ~Although he always knew what troubled me anyway. But I was talking about someone who you grow with and share the same experiences.~
+
+@245  = ~Well, you can talk to me.~
+
+@246  = ~You'll never be my equal. Just do what you're told and don't annoy me.~
+
+@247  = ~You... you've been very kind to me, <CHARNAME>.~
+
+@248  = ~There is really not much I can do but thank you for it, and keep trying my best.~
+
+@249  = ~Uh... j-just... forget it...~
+
+@250  = ~Joking again, Aerie. It's how friends and siblings are. You've got to be less sensitive.~
+
+@251  = ~Already have.~
+
+@252  = ~Please don't, <SIRMAAM>. I have so little experience of interacting with others...~
+
+@253  = ~Although, I-I think for someone who was stuck in a cage for many years, I'm doing rather well at it.~
+
+@254  = ~That you are, Aerie. That you are.~
+
+@255  = ~I'm sorry I tried, <SIRMAAM>.~
+
+@256  = ~Don't worry about Imoen. I-if she's anything like you, then I know she must be strong. We'll save her.~
+
+@257  = ~We shall stop Irenicus, I swear.~
+
+@258  = ~Whatever.  Just don't go turning anyone into a chicken... again.~
+
+@259  = ~*giggle!*  A chicken?  Now, that would be a neat trick!  I'll have to work on that!~
+
+@260  = ~I-it was an accident, I swear...~
+
+@261  = ~You... you have a tear, there. I could mend it for you, if you would like.~
+
+@262  = ~'Tis hardly anything. Don't worry about it.~
+
+@263  = ~It would be no problem. I--I used to fix costumes in the circus, a-and my own clothes. I just want to do all I can to make myself useful.~
+
+@264  = ~Maybe later. How are you holding up on our travels?~
+
+@265  = ~Look, just stop bothering me, you brat.~
+
+@266  = ~Oh, you do not have to worry for me, <CHARNAME>. In... in the circus, I was kicked and bitten all the time.~
+
+@267  = ~You worked with some of the animals?~
+
+@268  = ~Good. So you won't mind if I keep hitting you until you go away?~
+
+@269  = ~Animals? Well, yes... t-they could be pretty rough too, I suppose...~
+
+@270  = ~Owww... that's... um...~
+
+@271  = ~Oh... you made a joke! A little grim, but good effort.~
+
+@272  = ~Ugh... you just can't talk without depressing everyone around, can you?~
+
+@273  = ~I... I-I was joking, <CHARNAME>.~
+
+@274  = ~*smiles* I'm glad you liked it, <CHARNAME>.~
+
+@275  = ~Looking back, it... it wasn't really that bad, I suppose. Not once I was on the same side of the bars as everyone else, anyway.~
+
+@276  = ~There were many who were still cruel, but t-there were... several, who at least tried to be nice. And there was Uncle Quayle.~
+
+@277  = ~I suppose it... i-it's just, in the circus, people are... everyone is always in a hurry. Always a rush to get the next show ready.~
+
+@278  = ~S-sometimes, people get frustrated, and need to take it out on something.~
+
+@279  = ~Don't make excuses for them, Aerie. The way they treated you was just wrong.~
+
+@280  = ~I... don't know what to say. I'm so sorry Aerie...~
+
+@281  = ~Gawds... it just keeps getting worse...~
+
+@282  = ~I know that, <CHARNAME>! I-I wasn't... is it not better to try and understand the reasons people are cruel, so that we know what to avoid in the future?~
+
+@283  = ~I-I'm sorry. I was trying to be light-hearted. I suppose I... need more practice.~
+
+@284  = ~Well... what else did you do in the circus?~
+
+@285  = ~Whatever. Just stop talking to me.~
+
+@286  = ~For a long time, very little. But then it was all sorts. Everyone had to work hard, almost all of the time.~
+
+@287  = ~When we arrived in a place, everyone helped set up all of the tents and stalls. Then it was mostly cleaning up between shows, m-making sure the main tent was always ready for the next crowd to come in.~
+
+@288  = ~When shows were on, I-I would sometimes be outside, making sure the costumes and props were ready for whoever would be performing next. Sometimes I fed the tigers.~
+
+@289  = ~You see, contrary to how it looks out there, cats are not really that afraid of chairs. I would have to mix a sedative in with their food to make them drowsy and lazy. Too much and they'd fall asleep. T-too little and... no more tiger tamer.~
+
+@290  = ~You never made a mistake, right?~
+
+@291  = ~O-once, one of the young tigers was afraid to come out of her cage because of all the noise. The tamer... h-he got a plank and just broke it over her head. So, I-I was tempted to make a mistake...~
+
+@292  = ~But, no, of course I didn't.~
+
+@293  = ~I suppose the one thing I really enjoyed doing was helping Uncle Quayle design new tricks and illusions, or machines that created explosions of light and magic.~
+
+@294  = ~He was always searching for new ways to entertain the crowd and make everyone gasp and laugh. I enjoyed being able to solve problems and be creative. It... that was actually fun.~
+
+@295  = ~But you still wanted to leave?~
+
+@296  = ~Are you still going on?~
+
+@297  = ~Yes. Uncle Quayle, he... he loved the circus. He loved making people happy. I think he thought, for a long time, that I would learn to love it the same way he did.~
+
+@298  = ~B-but I... I could not...~
+
+@299  = ~The crowd comes in and they see these women dancing in wonderful costumes, and from where they sit it all looks so beautiful and glamorous.~
+
+@300  = ~But, I see those same dancers up close, how taut and wiry they really are, how their legs and bodies are covered in bruises from training so hard... it's all an illusion.~
+
+@301  = ~I loved Quayle dearly, but... he knew, and accepted it in the end that I had too many bad memories to stay there.~
+
+@302  = ~Now I feel the world has been passing me by and I've been stood still in the middle of it for so long. There's so much I have to see and learn.~
+
+@303  = ~I know it will not be easy, but, I-I hope you'll continue to have patience with me, <CHARNAME>.~
+
+@304  = ~Thank you.~
+
+@305  = ~I'm sorry, <CHARNAME>. I should not have bothered you.~
+
+@306  = ~I am quickly growing tired of listening to you.~
+
+@307  = ~Is it so bad that it should threaten you? But, then, I am mightily odd myself. A stranger, alone and cast off from all I have known.~
+
+@308  = ~Th-thank you, <CHARNAME>.~
+
+@309  = ~I had a dream.~
+
+@310  = ~Me too.~
+
+@311  = ~Flying again, I suppose?~
+
+@312  = ~I thought elves didn't need to sleep?~
+
+@313  = ~We elves do not need to sleep, you know.~
+
+@314  = ~Sorry Aerie... I don't have time to hear about it now.~
+
+@315  = ~Y-you did? Was it a nightmare, again? D-did you want to talk about it?~
+
+@316  = ~Maybe later. Why don't you tell me your dream first.~
+
+@317  = ~How do you know about those?~
+
+@318  = ~You weren't there. It was bliss.~
+
+@319  = ~I was flying again, over the mountains and their cloudy veil.~
+
+@320  = ~Well, to start with, I was.~
+
+@321  = ~I saw Faenya-Dail. A-all the white marble columns and huge statues of the elven gods jutting out of the snowy peaks.~
+
+@322  = ~I flew over the great theater, the baths, the academy I attended as a child. And glittering on the highest peak was our observatory, where our scholars mapped and charted and watched for signs from the heavens.~
+
+@323  = ~And then I saw my old home. My feet touched down on the platform outside, and I padded across the floor to my room. There were all my old toys, books from the library, some magic scrolls I... that I'd 'borrowed' from my mother.~
+
+@324  = ~It was like nothing had changed. And... there was momma. S-she was angry, at first, because I'd left the city without telling her again.~
+
+@325  = ~But then she took me into her arms and blanketed me with her wings. I felt... warm and safe once more.~
+
+@326  = ~Are... a-are these the feelings you have, when you think about Candlekeep?~
+
+@327  = ~Everyone gets homesick.~
+
+@328  = ~Sometimes. But there's no going back there, now.~
+
+@329  = ~No, and I'm tired of your maudlin mewling.~
+
+@330  = ~No, I know, <CHARNAME>.~
+
+@331  = ~Not for either of us, I fear. Our lives have been similar in some ways, I think.~
+
+@332  = ~And I know it was just a dream, and that really things have changed. I've changed.~
+
+@333  = ~I don't just mean my wings. I mean, th-the world is so much bigger now than it used to be. There is so much more suffering here than I ever thought possible.~
+
+@334  = ~Even if I could go back... I can't.~
+
+@335  = ~I'm beginning to accept that now, <CHARNAME>. And you... you've helped make it so much easier.~
+
+@336  = ~You... you mean the reverie? It is a form of meditation that refreshes the mind and body.~
+
+@337  = ~I-I know it's a skill that other elves possess, but I... I-I was taken when I was still too young to have mastered it.~
+
+@338  = ~You... you mean the reverie? I-I know it's a skill that other elves possess, but I... I-I was taken when I was still too young to have mastered it.~
+
+@339  = ~I could teach it to you, if you're willing.~
+
+@340  = ~No, I never really got the hang of it either.~
+
+@341  = ~But it's okay, really. Some times I have nightmares, but some times I enjoy the dreams I have.~
+
+@342  = ~I had a dream last night as well.~
+
+@343  = ~So, what was this dream? Flying again, I suppose?~
+
+@344  = ~Y-you would? I mean... I think I would like that, yes. But, I know it takes a long time to learn and you have an important quest right now.~
+
+@345  = ~It... it is strange how unused I am now to being around my own kin. Few elves ever even visited the circus...~
+
+@346  = ~Oh... it... it's okay. It was nothing, really.~
+
+@347  = ~I've... heard you at night, sometimes, and from the others too. Are you really alright, <CHARNAME>?~
+
+@348  = ~Maybe another time, Aerie. Tell me about your dream.~
+
+@349  = ~Keep your stubby little nose out of my business, brat!~
+
+@350  = ~I-I'm sorry... I was just worried about you, <CHARNAME>. But if that is what you want, then I suppose I'll keep to myself from now on.~
+
+@351  = ~Why would you keep me around if I really bothered you so, <CHARNAME>?~
+
+@352  = ~Regardless, I am not going to let you bother me. Even if you are determined to be grouchy and miserable, I will wish you a good day.~
+
+@353  = ~I-I thought... it doesn't matter. I see I was wrong.~
+
+@354  = ~What were you like as child, <CHARNAME>?~
+
+@355  = ~What an odd thing to ask all of a sudden.~
+
+@356  = ~None of your business, brat.~
+
+@357  = ~Is it? I-I suppose I am a little odd. But I was just curious. Were you very different to how you are now?~
+
+@358  = ~Smaller, and didn't know as many things... but otherwise not much different I suppose.~
+
+@359  = ~I was a very different person back then.~
+
+@360  = ~Sorry, Aerie. I don't really have time to talk about it.~
+
+@361  = ~Were you always this much of a bully? *sigh* I won't bother you anymore.~
+
+@362  = ~I couldn't imagine you being much different. But myself...~
+
+@363  = ~Truly? I shall have to ask you how you changed some time. Myself...~
+
+@364  = ~Oh, of course. I'm sorry, <CHARNAME>.~
+
+@365  = ~I was different. I used to drive my parents and teachers wild.~
+
+@366  = ~I was just adventurous even back then, I suppose. If I wanted an answer to any question, I would go to almost any length to discover it. If there was a place that was forbidden, then I had to know what was there.~
+
+@367  = ~I caused my elders all kinds of headaches. Especially when I would go flying for hours at a time, far beyond the bounds of the city. Sometimes it was for the glory of flying. S-sometimes... I just had to know what was beyond the next peak.~
+
+@368  = ~It doesn't sound like you were really much different.~
+
+@369  = ~Well, I guess you discovered it's true what they say about curiosity.~
+
+@370  = ~... s-slavers have... they have ways of making you forget about who you were.~
+
+@371  = ~But Uncle Quayle, he... he encouraged me to try again some of the things that used to make me happy when I was young.~
+
+@372  = ~I used to draw and sculpt and read books about... well, everything. All things that would fire my imagination and take me on adventures to faraway lands.~
+
+@373  = ~Didn't I hear you say once that you'd wanted to be an actress?~
+
+@374  = ~Well... a-among many other things, yes. Although that was really my mother's dream.~
+
+@375  = ~She was an artist, and a playwright. We would often read together and paint each others faces.~
+
+@376  = ~My father was... hm, w-what you call a natural philosopher, I believe. We would sit outside at night and he would show me the constellations, and I would dream of what it would be like to fly up to them.~
+
+@377  = ~It reminds me of some times I spent with Gorion.~
+
+@378  = ~That's about the stupidest thing I've ever heard.~
+
+@379  = ~I hope those memories aren't too sad, <CHARNAME>. Myself, I know that, e-even though I may never see my parents again, I can at least take solace in the fact that I was loved and cared for. I know that some people never even have that.~
+
+@380  = ~I-if it's not too much of an imposition, maybe you can tell me about him as we walk?~
+
+@381  = ~Y-yes... well, regardless, it was a wonderful dream.~
+
+@382  = ~Perhaps you are right, <CHARNAME>. But I was happy and free, a-and if you don't like me asking questions then I just won't ask them to you anymore.~
+
+@383  = ~I-I don't know if now is a really good time to admit this, but...~
+
+@384  = ~Before I joined this group, I-I'd never really had a fight before in my life.~
+
+@385  = ~What?! I had no idea you were so inexperienced!~
+
+@386  = ~A few scraps, especially when I was a child. N-nothing serious, and it was usually always broken up very quickly by adults.~
+
+@387  = ~I went to a school, in Faenya-Dail, and crossed paths with some bullies. There was a boy I got into some fisticuffs with, once...~
+
+@388  = ~Did you win?~
+
+@389  = ~You... you are joking again, yes? That was a joke. It had to be.~
+
+@390  = ~Of course it was a joke. So, you really never had a fight?~
+
+@391  = ~No! I'm going to have to think seriously now about bringing you along.~
+
+@392  = ~*sigh* I knew I shouldn't have said anything...~
+
+@393  = ~I broke his arm. Does that count as winning?~
+
+@394  = ~Yeah, that's usually a pretty convincing win.~
+
+@395  = ~How'd you break his arm?~
+
+@396  = ~It was an accident, really. W-we were fighting over a bag belonging to another girl. I don't even know what was in it, but for some reason he had decided he wanted it. And I tried to get it back.~
+
+@397  = ~He was bigger and stronger a-and would have beaten me easily. But I wouldn't let go of the bag. Eventually, he tugged on it with all his weight and it slipped from my grasp... but then he fell back, over a wall, and landed on a rock.~
+
+@398  = ~He left us all alone after that.~
+
+@399  = ~That sounds like you. Protecting someone, even if it means you might get hurt yourself.~
+
+@400  = ~Well, you seem able to fight okay now. I mean, better than the average commoner, at least.~
+
+@401  = ~I've never liked bullies.~
+
+@402  = ~My parents always told me that bullies are just people who are lonely, too, a-and were probably bullied themselves.~
+
+@403  = ~But most the bullies I've known always have lots of people around them, so have never seemed that lonely to me.~
+
+@404  = ~You've plenty of friends here, Aerie.~
+
+@405  = ~Well, now you fight better than the average commoner, at any rate.~
+
+@406  = ~That's... th-thank you, <CHARNAME>~
+
+@407  = ~You know, I wasn't always shy. I've never been comfortable in a crowd, but I was never afraid to speak to anyone when I was a child.~
+
+@408  = ~I-it's much easier again, now, when I'm talking with you at least.~
+
+@409  = ~Well, in any case, you seem to be getting the hang of fighting now.~
+
+@410  = ~Do you really think so, <CHARNAME>? It... i-it was the one thing Quayle never taught me. I think he hoped I would never have to do it.~
+
+@411  = ~I-I had to try and teach myself, from books, practicing on my own, w-when no one was looking.~
+
+@412  = ~Why did you want to do all that?~
+
+@413  = ~Well, for someone self-taught you really aren't bad.~
+
+@414  = ~I don't know. I suppose, even with all my magic, I know I'm still vulnerable at times. And I just don't to be in a situation where I'm completely helpless, again.~
+
+@415  = ~If I'm ever captured again, o-or find myself unable to wield the spells I have now, then even if the odds are still slim I want to at least have a chance of fighting back.~
+
+@416  = ~I understand.~
+
+@417  = ~You don't have to, Aerie. You know we'll protect you.~
+
+@418  = ~You really are too generous, <CHARNAME>. I know I will never be any match for some of your other companions, but it is nice of you to be so encouraging.~
+
+@419  = ~Why did you want to learn to fight, anyway?~
+
+@420  = ~Hopefully as I travel more I will get stronger. Thank you.~
+
+@421  = ~I know. A-and I am grateful, but... you can't protect me all the time, <CHARNAME>, a-and I don't want everyone watching me while your own lives may be in danger.~
+
+@422  = ~*sobs*~
+
+@423  = ~Aerie... why are you hiding over there?~
+
+@424  = ~Stop moping over there. Get back to work.~
+
+@425  = ~No... i-it's nothing, <CHARNAME>. I'm sorry.~
+
+@426  = ~Come here, silly. Tell me what's wrong.~
+
+@427  = ~Well then, stop moping and get back to work.~
+
+@428  = ~*sniffs* Yes... I-I'm sorry, <SIRMAAM>.~
+
+@429  = ~I was... just being foolish.~
+
+@430  = ~You have taken me from the circus and shown me so many wonderful things. But I...~
+
+@431  = ~My thoughts keep drifting back to home. To my lost wings, my parents... I-I keep wishing I could share the wondrous things I've seen and learnt with them.~
+
+@432  = ~But, I know I can't. I can't go back.~
+
+@433  = ~It's not foolish, Aerie. There are times I'd give anything to talk to Gorion again.~
+
+@434  = ~Good, well then stop crying and go and do something useful.~
+
+@435  = ~I'm sorry... I know you and others have suffered loss too. I should not be thinking of myself.~
+
+@436  = ~I think it's allowed on occasion, Aerie.~
+
+@437  = ~You're right. Get back to work.~
+
+@438  = ~You are... very kind, <CHARNAME>.~
+
+@439  = ~I don't even know if my parents are still alive. Or if they still even think or wonder about me.~
+
+@440  = ~Every possibility I consider for what might have happened to them ties another knot round my heart. I-I want them to remember me, but I don't want that memory to still be causing them pain either.~
+
+@441  = ~'Might have happened'. You don't know, so you're only going to make yourself feel worse if you keep thinking about it.~
+
+@442  = ~There has to be some way you can get in touch, at least.~
+
+@443  = ~I know. B-but I... I don't know how to stop...~
+
+@444  = ~It's hard to grieve for someone you don't even know is gone.~
+
+@445  = ~The avariel don't want anyone getting in touch with them. They go to great lengths to remain hidden.~
+
+@446  = ~The chances of finding another that would help us are... about as good as finding a pogonophobic dwarf...~
+
+@447  = ~I-I'm sorry.~
+
+@448  = ~I already said that I can't go back. Much as I miss my parents, I could never be content to lead that life again, knowing all I do now.~
+
+@449  = ~I can only hope that they're happy, wherever they are.~
+
+@450  = ~I suppose I won't be able to help still feeling sad, sometimes. But I'll be okay, <CHARNAME>.~
+
+@451  = ~I'm glad to hear it, Aerie. Stay strong.~
+
+@452  = ~You want a hug? Come here, have a hug...~
+
+@453  = ~I will try. Thank you, <CHARNAME>.~
+
+@454  = ~Oh... that's... y-you can let go now, <CHARNAME>. I feel better.~
+
+@455  = ~You're strong, <CHARNAME>. I-it can be... a little intimidating, at times.~
+
+@456  = ~Were you always this tough? Did you want to become a warrior?~
+
+@457  = ~Not always. What about you?~
+
+@458  = ~I think I knew early on what my talents were. What about you?~
+
+@459  = ~It's a long story, Aerie. What about you?~
+
+@460  = ~No. I wanted to be a bee. Buzzing around, making out with flowers... bees have great lives.~
+
+@461  = ~Sorry, Aerie. I've other things on my mind right now.~
+
+@462  = ~You should feel intimidated. And unless you want first hand experience of how strong I am, you'd better get.~
+
+@463  = ~As an elf, I-I suppose I should feel ashamed by how much more at one you are with nature than me.~
+
+@464  = ~Were you always attracted to the outdoors?~
+
+@465  = ~I always just wanted to be a bee. Buzzing around, making out with flowers... bees have great lives.~
+
+@466  = ~It's a great place to get away from annoying people like you.~
+
+@467  = ~I wonder... when did realize you wanted to be a healer?~
+
+@468  = ~It didn't really come about until recently. What about you?~
+
+@469  = ~I think I knew early on it was what I wanted. What about you?~
+
+@470  = ~In truth, I always wanted to be a bee. Buzzing around, making out with flowers... bees have great lives.~
+
+@471  = ~There was a monk who performed in the circus, once. I was so in awe of his skills, and... m-maybe there were one or two people I dreamed of being able to break with my fists.~
+
+@472  = ~But his skills were nothing compared to yours, <CHARNAME>. I suppose you must have started training at an early age?~
+
+@473  = ~It's never too late to learn a new skill, Aerie. What about you?~
+
+@474  = ~I did, yes. I trained every day since I was young. What about you?~
+
+@475  = ~I'll break you if you don't stop bothering me.~
+
+@476  = ~Your skills with magic truly put mine to shame, <CHARNAME>. D-did you always find yourself drawn to the arcane?~
+
+@477  = ~I think you're being too modest, but no, I only began to learn recently. What about you?~
+
+@478  = ~I did, yes. But I think you underestimate your own skills. So, what about you?~
+
+@479  = ~It's a long story, Aerie, but I think you are being too modest. What about you?~
+
+@480  = ~Actually, I always wanted to be a bee. Buzzing around, making out with flowers... bees have great lives.~
+
+@481  = ~Indeed they do. Don't forget it, brat.~
+
+@482  = ~Did you always want to be a bard? D-did you have an interest in music o-or storytelling when you were young?~
+
+@483  = ~No... it's something I only discovered recently. What about you?~
+
+@484  = ~Indeed I did. What about you?~
+
+@485  = ~Now there's a story, which I shall tell you later. What about you?~
+
+@486  = ~I have this one story about the murder of an elven girl from the circus, because she kept annoying her leader too much...~
+
+@487  = ~I... I can't keep up with you sometimes, <CHARNAME>. It... i-it can be a little disheartening.~
+
+@488  = ~W-were you always a... a rogue?~
+
+@489  = ~Nah... I only took to it recently. What about you?~
+
+@490  = ~I was always a rascal, I suppose. What about you?~
+
+@491  = ~That's a long tale, Aerie. What about you?~
+
+@492  = ~You want a kick to the head? Get away from me.~
+
+@493  = ~I... I-I know the circumstances that led you here were not of your choosing. But did you ever think about a life of adventure before this all happened?~
+
+@494  = ~I certainly didn't. What about you?~
+
+@495  = ~I'd thought about travelling before, yes. What about you?~
+
+@496  = ~Kind of hard to explain. What about you?~
+
+@497  = ~Stop annoying me, please.~
+
+@498  = ~M-me?~
+
+@499  = ~Did you always have an interest in magic and healing?~
+
+@500  = ~Ah... that old soliloquy. To be a bee or not to be a bee...~
+
+@501  = ~What about you, Aerie?~
+
+@502  = ~Oh, I'm sorry, <CHARNAME>. Another time, then.~
+
+@503  = ~I-I thought.... I'm sorry. I won't disturb you again.~
+
+@504  = ~No... well, I had always been fascinated by arcane magic. My mother used to have several cantrips she used to make me smile. But I never really started to learn myself until Quayle taught me.~
+
+@505  = ~He also inspired me to pray to Baervar. As a child, I had always honored the elven gods as we were taught, but in Faenya=Dail the priests hardly ever leave the temple so I was never interested in being one.~
+
+@506  = ~Strictly speaking, I'm not one now. I-I mean, Quayle taught me to have faith, but I never trained to be a priestess and no-one came along to give me a little green hat or anything.~
+
+@507  = ~I-it was... actually quite a shock to learn the Masked Leaf himself not only heard my prayers, but had deigned to grant me some divine power.~
+
+@508  = ~How did you find out?~
+
+@509  = ~You know, my least favorite animal there ever was in the circus, was the chimpanzees.~
+
+@510  = ~At least when a tiger is mad, all it's going to do is kill you. But chimps are... they hurt you. And they gang up and they bully.~
+
+@511  = ~Really? Most descriptions I've heard describe them as cute.~
+
+@512  = ~Sounds like they're just too much like people.~
+
+@513  = ~They are pure hairy evil.~
+
+@514  = ~Yes... maybe... m-maybe that was it.~
+
+@515  = ~Well... I-I suppose they weren't so bad all the time.~
+
+@516  = ~But one day a huge fight broke out between them, and a little one was badly wounded. I was tasked with carrying him to Quayle, the only healer around at the time.~
+
+@517  = ~The little animal shivered in my arms, and I-I could see the shock and pain in his eyes. For a moment it felt like he was a baby, and I wanted to whisper to him and tell him it would all be okay.~
+
+@518  = ~But then... I... I don't quite know the words to describe it. I-it... it was like geyser of energy burst out of the ground, lifting my whole body and soul, and then rushing out through my hands, into him. And after the moment had passed, I saw that he was healed.~
+
+@519  = ~And so, from then on, I implored Quayle to teach me about healing in addition to the the arcane arts I was already learning.~
+
+@520  = ~I'm sorry... i-it's not such a grand tale as others you've heard, I'm sure. But it is the truth.~
+
+@521  = ~I thought it was a lovely story.~
+
+@522  = ~Maybe you could embellish it more - like change the chimp into an orphan boy you pulled out of a fire.~
+
+@523  = ~That's nice of you, <CHARNAME>, to lie to me like that. Thank you.~
+
+@524  = ~Well... th-there was a puppy, once... oh, I-I'll tell you about it later.~
+
+@525  = ~I have been watching you, <CHARNAME>.~
+
+@526  = ~Okay. That's... weird.~
+
+@527  = ~It was nothing sordid, <CHARNAME>. I mean, we have been travelling together for some time, s-so of course I notice you a lot.~
+
+@528  = ~I suppose I've always been something of a people-watcher, since I was a child. And my cage I was watching people pass me by all the time, and thought about them. Of, I thought about many things.~
+
+@529  = ~You see, even caged and unable to interact with the outside world, the mind never stops completely. I spent a long time pondering all kinds of puzzles. Like... moths...~
+
+@530  = ~Moths?~
+
+@531  = ~That's... fascinating. Well, I think we should probably be going.~
+
+@532  = ~I don't think I've ever seen a moth during the day. Not a live one. They're supposed to be attracted to light, and yet there's all that light and you never see them. Then, someone lights a tiny lamp at night and there are suddenly moths all around it! Where were they before?~
+
+@533  = ~Yeah... that is a mystery.~
+
+@534  = ~It is, isn't it? *sighs* well, apart from that manner of abstract thinking, all I could really do was watch the people bustle around me.~
+
+@535  = ~Did you ever learn anything from doing that?~
+
+@536  = ~No... I don't know. It just passed the time. I--I would often invent stories about some of the people I saw.~
+
+@537  = ~I saw a man and a woman, and he had his arm around, protecting her, while always he was glancing and checking every direction. So I guessed he was probably a soldier or mercenary - someone used to danger.~
+
+@538  = ~Or I saw woman wearing the finest dress and all these jewels, but, y-you could tell by the lines on her face that none of her riches made her happy.~
+
+@539  = ~Or once, there was this girl, who... w-who was just sitting by herself, silently crying, unable to stop. Maybe hoping someone would notice and come to help her because no-nothing she tried herself made the pain go away...~
+
+@540  = ~Um... things... things like that.~
+
+@541  = ~Did you help her?~
+
+@542  = ~You're really dumb. She'd probably just twisted her ankle or something.~
+
+@543  = ~I was in a cage. I couldn't reach her...~
+
+@544  = ~And, anyway, s-she might have just twisted her ankle for all I knew. I'm sure she was probably fine.~
+
+@545  = ~Now I've been watching you, <CHARNAME>, and I-I wanted to say how much I admire and respect you.~
+
+@546  = ~I know you were not expecting any of this, but you've adapted so well despite everything.~
+
+@547  = ~I... I-I may not agree with everything you do, but you've taken charge of your life and you are your own person regardless of what the world throws at you.~
+
+@548  = ~I only hope I can grow to be as strong, one day.~
+
+@549  = ~You're already much stronger than you know, Aerie.~
+
+@550  = ~Hey... you're right! I am pretty great, aren't I?~
+
+@551  = ~You're joking... Aerie, I am nothing like the person you just described.~
+
+@552  = ~Never going to happen.~
+
+@553  = ~People keep saying, but I... I don't know. I'll try my best, regardless. And thank you, <CHARNAME>.~
+
+@554  = ~Heh... y-yes. You are.~
+
+@555  = ~Maybe you just don't know it yet? Regardless, it is what I believe.~
+
+@556  = ~I-If you're so sure then why do you bring me with you? Fine... I'll prove myself without your help!~
+
+@557  = ~Sorry... I was just being a bit silly, I suppose.~
+
+@558  = ~Well, maybe I am dumb. A-at least I'm not a... an ass!~
+
+@559  = ~<CHARNAME>?~
+
+@560  = ~Yes, Aerie?~
+
+@561  = ~Not now, Aerie.~
+
+@562  = ~I... I-I know you have suffered great loss in your life. As have I.~
+
+@563  = ~I lost my home, my family, my wings... e-everything that made me who and what I was been stripped and taken from me.~
+
+@564  = ~I know Aerie. I'm sorry.~
+
+@565  = ~You're not going to start whining, are you?~
+
+@566  = ~P-please?~
+
+@567  = ~Well... okay, what is it?~
+
+@568  = ~I said no.~
+
+@569  = ~Y-you don't have to be sorry, <CHARNAME>. You've made me feel that, maybe, there is a place for me in this world after all.~
+
+@570  = ~N-no...~
+
+@571  = ~My old life is gone. But now, I have a new one. There's a whole universe to explore, filled with wonderful people and places and secrets to be found. In a way, I am more free now than I ever would have been as an avariel, too afraid to stray far from their home in the mountains.~
+
+@572  = ~I can go anywhere and do anything I set my mind to. But, there are a lot of decisions I must make. Like what it is I really want to do with this life? What kind of person do I want to be?~
+
+@573  = ~Well, what's wrong with just being you?~
+
+@574  = ~It seems to me you've already found your calling.~
+
+@575  = ~Me?~
+
+@576  = ~You're a wonderful person Aerie, just the way you are.~
+
+@577  = ~On second thought, that's a terrible idea. Never be you.~
+
+@578  = ~Th-thank you, <CHARNAME>. But you are making me embarrassed...~
+
+@579  = ~As for what you should do... it seems to me you've already found your calling.~
+
+@580  = ~Well, I-I don't know that I am that good of an actress, so I may have no choice...~
+
+@581  = ~What do you mean?~
+
+@582  = ~Exploration, adventure, helping others... that's kind of what we do. When there aren't evil wizards around to distract us, anyway.~
+
+@583  = ~But, am I really any use out there? I feel so scared so much of the time.~
+
+@584  = ~People who are never afraid are just foolhardy. Doing what must be done despite fear? That's courage.~
+
+@585  = ~You think I'd keep you around if you weren't useful?~
+
+@586  = ~Yes... I shall think on what you've said, <CHARNAME>. Thank you~
+
+@587  = ~I'm sorry... I suppose I... it doesn't matter.~
+
+@588  = ~You were right, <CHARNAME>.~
+
+@589  = ~I was?~
+
+@590  = ~Of course I was right. I'm always right. What was I right about this time?~
+
+@591  = ~I was so restless in the circus. I had been taught magic and healing, but I could never really put those skills to use. I wanted to explore and see outside.~
+
+@592  = ~I needed to get out and find my own way, but I think it would have been near impossible on my own. I had no idea where to go or what people I could trust, but I could never learn those things if I stayed put, and so I was trapped in that cycle.~
+
+@593  = ~But then you helped me, even though you did not have to. So thank you, f-for... for believing in and trusting in me. I know you must have thought it a great risk to bring someone so inexperienced along.~
+
+@594  = ~You're welcome.~
+
+@595  = ~Is that what I was right about? I suppose you have proven quite useful...~
+
+@596  = ~Please stop gushing. It makes me sick.~
+
+@597  = ~N-no... well, y-yes, but... that isn't really the point.~
+
+@598  = ~So, i-is the only reason you've pretended to be my friend so long so that your words can hurt me more?~
+
+@599  = ~Well, regardless, I am content now with the choices I've made. I don't need you, or your words.~
+
+@600  = ~But this... this was my choice, really. It was what I wanted all along.~
+
+@601  = ~Uncle Quayle, he... h-he saw my future differently, I think. He thought I would learn to see the joy in the circus, and then take over for him when he was gone. But I couldn't and that just wasn't me anyway.~
+
+@602  = ~His tales of his own adventures helped rekindle in me the sense of wonder and joy at discovery I'd felt as a child.~
+
+@603  = ~In the end, he accepted that I did not belong there in the circus, and he let me go. And I love him for that.~
+
+@604  = ~I-I think, toward the end, h-he was starting to accept that I did not belong in the circus. Regardless, I'll still always hold him dearly in my heart.~
+
+@605  = ~Now, I-I want to travel. I want to explore, see, experience and understand everything I can on this world, and beyond.~
+
+@606  = ~I want to venture forth and seek out excitement and beauty and find secrets in all the hidden places as my faith demands.~
+
+@607  = ~A-and... I want to fight. By your side, if you'll let me.~
+
+@608  = ~No one else should have to suffer or go through any of the things I did... I want to help those who are cruelly abused and trapped whenever I can as well.~
+
+@609  = ~But that is the future. I know you have an important quest, and I am determined to see that through first.~
+
+@610  = ~So, i-is that all... acceptable to you, <CHARNAME>?~
+
+@611  = ~Of course, Aerie.~
+
+@612  = ~I don't know what the future will hold, Aerie. But so long as you want to keep travelling by my side, I'm glad to have you.~
+
+@613  = ~So as long as our interests coincide, you can stay.~
+
+@614  = ~Thank you, <CHARNAME>. Now, let us continue on our journey.~
+
+@615  = ~And I'm glad to be with you, <CHARNAME>. Now, let us continue our journey.~
+
+@616  = ~Despite how you are at times, <CHARNAME>, I-I've enjoyed the time I've spent with you, so far.~
+
+@617  = ~Exciting?  That's not the word I would use.~
+
+@618  = ~Aerie, you don't know what you're talking about.  Please shut up.~
+
+@619  = ~Oh, I know it must sound strange... but if I'm going to face my life as it is, I want to experience everything that I can.~
+
+@620  = ~<CHARNAME>... d-do you... would you consider me your friend?~
+
+@621  = ~More than that, Aerie. In the time I've known you, I've come to think of you like a sister.~
+
+@622  = ~Of course, Aerie. I'm surprised you would even ask.~
+
+@623  = ~You're a useful ally. Nothing more.~
+
+@624  = ~A sister? I-I don't... I never had a sibling, <CHARNAME>. I don't really know what that means...~
+
+@625  = ~It means we're family. It means, no matter what happens, whatever challenges you face, I'll be there to help you through.~
+
+@626  = ~I just... o-other than Quayle, I've never felt so close to anyone since I was a child. I guess I had to be sure. Thank you.~
+
+@627  = ~I see. Well, I-I appreciate your honesty, at least. Hopefully I can go on being useful. Thank you, <CHARNAME>.~
+
+@628  = ~Like family... th-thank you, <CHARNAME>. I feel the same way. No matter what is to come, I want to help you.~
+
+@629  = ~No matter what challenges we face, I'm going to try the best I can to get us all through.~
+
+@630  = ~I-I'm sorry, Imoen. Of... of course I meant you as well.~
+
+@631  = ~I-Imoen?~
+
+@632  = ~Shut up.~
+
+@633  = ~Good. B-but thank you, again, <CHARNAME>. Thank everyone.~
+@634  = ~<CHARNAME>, I have a favor I need to ask of you. It may seem like a strange request...~
+
+@635  = ~What is it, Aerie?~
+
+@636  = ~Not now.~
+
+@637  = ~I--I...~
+
+@638  = ~I-I want you to fight me!~
+
+@639  = ~Fight you?~
+
+@640  = ~Have... have you gone completely insane?~
+
+@641  = ~I don't want to fight you...~
+
+@642  = ~Well... spar with me, really. I-I don't know why I said it so dramatically as that.~
+
+@643  = ~N-no... I don't think so. Maybe.~
+
+@644  = ~But I mean just spar with me. I-I don't know why I said it so dramatically as that.~
+
+@645  = ~I don't want to be a burden to anyone in this group, <CHARNAME>. I want to be strong and able to defend myself.~
+
+@646  = ~So I think I should practice, rather than wait until a real battle to have to learn those skills. That's what I have been doing, so far, but I think I can do better.~
+
+@647  = ~A-and... I can't really think of anyone I trust more to that with than you.~
+
+@648  = ~If you're sure, Aerie.~
+
+@649  = ~I'm really not much of a fighter, myself...~
+
+@650  = ~But I don't want to hurt you, Aerie...~
+
+@651  = ~I am.~
+
+@652  = ~Then, w-we can help each other get better. And you can spar with whatever you choose - weapons, magic, er... c-chairs. Anything.~
+
+@653  = ~W-who... who says you will? Besides, I am hardly unused to physical or any other kind of pain.~
+
+@654  = ~Please... d-don't treat me like some soft, weak and delicate little flower. You know I've acquitted myself in battle before.~
+
+@655  = ~Y-you know I was... I was conscious all the while, when they sawed the wings from my back.~
+
+@656  = ~I know I'm not as tough as some others, but I can handle being hurt. You do not have to protect me from it.~
+
+@657  = ~I don't want you to. In fact, the only way I can really improve is if you don't go easy on me at all.~
+
+@658  = ~If you're sure.~
+
+@659  = ~Come at me, then, <CHARNAME>. I'm ready...~
+
+@660  = ~W-won't you at least hear my request? That won't take up much of your time.~
+
+@661  = ~Okay... what is it?~
+
+@662  = ~I-I thought we were friends... but if you won't even take a moment to listen to me, then perhaps we're not. I'm sorry to have bothered you.~
+
+@663  = ~*panting* Y-you... you are strong, <CHARNAME>.~
+
+@664  = ~You're lucky you weren't more badly hurt.~
+
+@665  = ~Are you okay, Aerie?~
+
+@666  = ~I won. No surprises there.~
+
+@667  = ~*panting* A-again, I... I-I just can't keep up with you, <CHARNAME>.~
+
+@668  = ~You're no slouch, Aerie. But you're going to need a bit more to catch me.~
+
+@669  = ~*panting* Why... w-why are we stopping? Y-you're not getting tired, are you <CHARNAME>?~
+
+@670  = ~Very funny. I think you're the one who's exhausted.~
+
+@671  = ~*panting* Why... w-why are we stopping, <CHARNAME>? Did I... d-did I win?~
+
+@672  = ~You... came second.~
+
+@673  = ~Oh... so, y-you're not ready to give up yet? I-I can go a little longer... just need a minute...~
+
+@674  = ~I think that's enough, for now.~
+
+@675  = ~Okay... I surrender. Your pig-headed unwillingness to give in despite the facts has won the day.~
+
+@676  = ~You're no match for me, Aerie. Hopefully now you won't be stupid enough to ever challenge me again.~
+
+@677  = ~I'm okay, <CHARNAME>. I-I can go a little longer... i-in a minute...~
+
+@678  = ~I-I wasn't really... r-really expecting to win, <CHARNAME>. I know you are more experienced than I am.~
+
+@679  = ~Well, I think that's enough, for now.~
+
+@680  = ~Per... perhaps you are right. Thank you.~
+
+@681  = ~Heh... t-there is... something to be said for being stubborn, I suppose. Thank you.~
+
+@682  = ~Y-you must be cruel to me, now? I... I tried my best.~
+
+@683  = ~And I won't give up, <CHARNAME>. I-I will keep striving to become stronger, with or without your help. You'll see.~
+
+@684  = ~Thank you for... treating me as an equal, I suppose.~
+
+@685  = ~And... for all your help. I feel as though I should have some speech prepared, but... t-that is not me.~
+
+@686  = ~I'm just lucky to have found such good friends in this world.~
+
+@687  = ~It--it was an accident, I swear...~
+
+@688  = ~What, am I just <CHARNAME>'s shadow? I thought we were getting along.~
+
+@689  = ~Now, just a hobgobbing minute there...~
+
+@690  = ~You know you already have a really cute sister, right?~
+
+@691  = ~Of course, Imoen. I hadn't forgotten about you.~
+
+@692  = ~No... can't think who you mean...~
+
+@693  = ~What, I can't have more than one?~
+
+@694  = ~Good point. I couldn't possibly manage more than one... You two are just going to have to fight to the death.~
+
+@695  = ~Great! So we're all one big happy family.~
+
+@696  = ~Bleh! Well, whatever you say, I'm part of this family too.~
+
+@697  = ~Fine by me. It'll be great to have a family member who isn't totally buffleheaded for a change.~
+
+@698  = ~Yeah... that's about as likely to happen as you winning a prize for most charming bhaalspawn. We're all a family here, so...~
+
+@699  = ~What I suggest we do, is we all try to get into some kind of big group hug situation...~
+
+@700  = ~Yeah?~
+
+@701  = ~Oh... um, o-okay...~
+
+@702  = ~How... how could you just leave Jaheira like that? When she's sick and needs you...~
+
+@703  = ~She'd be too much of a hindrance to us in her condition. She has other allies who can help her.~
+
+@704  = ~I can't have her slowing the rest of us down.~
+
+@705  = ~Shut up, Aerie.~
+
+@706  = ~Maybe she does, but I... I still can not believe you would abandon a friend like that!~
+
+@707  = ~I was sick once... dying. If Quayle had just turned his back on me like that, I...~
+
+@708  = ~If this how you treat your friends, <CHARNAME>, th-then... I will have to reconsider my opinion of you.~
+
+@709  = ~No, <CHARNAME>! I will not help you murder this man! If... i-if you would do this, then, I must try my best to stop you!~
+
+@710  = ~No, I... I am sorry, <CHARNAME>. You are not to blame for what happened. This--this society treats its males as... as slaves.~
+
+@711  = ~Just being in this place has me so much on edge. The sooner we can get out, the better off we all shall be.~
+
+@712  = ~I had no choice, Aerie. I'm sorry.~
+
+@713  = ~Whatever. Just don't go turning anyone into a chicken... again.~
+
+@714  = ~You'll never be worthless, child, no... no matter what men like that tell you. Remember that.~
+
+@715  = ~You're my hero, miss! Thank you, again!~
