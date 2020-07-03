@@ -1,0 +1,260 @@
+// --------------------------------------------
+// Basics
+BACKUP ~Wings/backup~
+AUTHOR ~Coutelier (mail@coutelier.org.uk)~
+
+// --------------------------------------------
+// BG2 Wings v0.91b
+// --------------------------------------------
+
+// Language
+AUTO_TRA ~Wings/tra/%s~
+
+LANGUAGE 
+         ~English~
+         ~english~
+         ~Wings/tra/english/WingsSetup.tra~
+
+// Component setup
+BEGIN ~Wings for BG2:EE~
+
+//Spells
+ADD_SPELL "Wings/Spells/B2#SARFM.spl" 4 0 B2#AERIEFAM
+
+// Compiling dialogue...
+COMPILE ~Wings/dialogue/B2#Aerie.d~
+USING   ~Wings/tra/%s/B2#Aerie.tra~
+COMPILE ~Wings/dialogue/B2#Banters.d~
+USING   ~Wings/tra/%s/B2#Banters.tra~
+COMPILE ~Wings/dialogue/B2#Lilian.d~
+USING   ~Wings/tra/%s/B2#Lilian.tra~
+COMPILE ~Wings/dialogue/B2#Raptair.d~
+USING   ~Wings/tra/%s/B2#Raptair.tra~
+COMPILE ~Wings/dialogue/B2#Tira.d~
+USING   ~Wings/tra/%s/B2#Tira.tra~
+COMPILE ~Wings/dialogue/B2#Joe.d~
+USING   ~Wings/tra/%s/B2#Joe.tra~
+COMPILE ~Wings/dialogue/B2#QCIRC01.d~
+USING   ~Wings/tra/%s/B2#QCIRC01.tra~
+COMPILE ~Wings/dialogue/B2#SPEK.d~
+USING   ~Wings/tra/%s/B2#SPEK.tra~
+COMPILE ~Wings/dialogue/B2#AMML.d~
+USING   ~Wings/tra/%s/B2#AMML.tra~
+COMPILE ~Wings/dialogue/B2#AML25.d~
+USING   ~Wings/tra/%s/B2#AML25.tra~
+COMPILE ~Wings/dialogue/B2#Artist.d~
+USING   ~Wings/tra/%s/B2#Artist.tra~
+
+// Scripts
+  EXTEND_TOP ~AR1100.bcs~ ~Wings/Scripts/AR1100.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_TOP ~AR0300.bcs~ ~Wings/Scripts/AR0300.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_TOP ~AR0607.bcs~ ~Wings/Scripts/AR0607.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_TOP ~AR0700.bcs~ ~Wings/Scripts/AR0700.baf~
+    EVALUATE_BUFFER
+  
+  COPY_EXISTING ~AERI25.BCS~ ~override~
+DECOMPILE_AND_PATCH BEGIN
+   REPLACE_TEXTUALLY
+~Global("AerieSummoned","GLOBAL",1)~   
+~Global("AerieSummoned","GLOBAL",1)!Global("B2#AerieFamiliar","GLOBAL",1)~
+ END
+  BUT_ONLY_IF_IT_CHANGES
+  
+  EXTEND_TOP ~AERI25.BCS~ ~Wings/Scripts/B2#A25n.baf~
+    EVALUATE_BUFFER  
+  
+  EXTEND_TOP ~AERIE.bcs~ ~Wings/Scripts/B2#AERIE.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_TOP ~AERIED.bcs~ ~Wings/Scripts/B2#AERIED.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_BOTTOM ~BALDUR.bcs~ ~Wings/Scripts/B2#BALDUR.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_BOTTOM ~BALDUR25.bcs~ ~Wings/Scripts/B2#BALDUR25.baf~
+    EVALUATE_BUFFER
+
+  EXTEND_TOP ~NEERAD.bcs~ ~Wings/Scripts/B2#NEERAD.baf~
+    EVALUATE_BUFFER
+
+COMPILE ~Wings/Scripts/B2#PHIL.baf~
+COMPILE ~Wings/Scripts/B2#COMM1.baf~
+COMPILE ~Wings/Scripts/B2#COMM2.baf~
+COMPILE ~Wings/Scripts/B2#RAPT.baf~
+COMPILE ~Wings/Scripts/B2#TIRA.baf~
+COMPILE ~Wings/Scripts/B2#JOE.baf~
+COMPILE ~Wings/Scripts/B2#SPEK.baf~
+COMPILE ~Wings/Scripts/B2#SPEK1.baf~
+COMPILE ~Wings/Scripts/B2#AMML.baf~
+COMPILE ~Wings/Scripts/B2#PHNX.baf~
+COMPILE ~Wings/Scripts/B2#cutAF.baf~
+COMPILE ~Wings/Scripts/B2#cAF25.baf~
+COMPILE ~Wings/Scripts/B2#AML25.baf~
+COMPILE ~Wings/Scripts/B2#cACNF.baf~
+COMPILE ~Wings/Scripts/B2#cANA1.baf~
+COMPILE ~Wings/Scripts/B2#cANA2.baf~
+COMPILE ~Wings/Scripts/B2#cANA3.baf~
+COMPILE ~Wings/Scripts/B2#cANA4.baf~
+COMPILE ~Wings/Scripts/B2#cANA5.baf~
+
+// Copying files
+COPY ~Wings/Portraits~ ~override~
+COPY ~Wings/Effects~ ~override~
+
+// Items
+COPY ~Wings/Items/B2#Wings.itm~ ~override~
+  SAY NAME1 @0
+  SAY NAME2 @0
+  SAY DESC @1
+
+COPY ~Wings/Items/B2#HAM01.itm~ ~override~
+  SAY NAME1 @2
+  SAY NAME2 @2
+  SAY DESC @3
+
+COPY ~Wings/Items/B2#CLB01.itm~ ~override~
+  SAY NAME1 @4
+  SAY NAME2 @4
+  SAY DESC @5
+
+COPY ~Wings/Items/B2#HLB01.itm~ ~override~
+  SAY NAME1 @6
+  SAY NAME2 @6
+  SAY DESC @7
+
+COPY ~Wings/Items/B2#HLM01.itm~ ~override~
+  SAY NAME1 @8
+  SAY NAME2 @8
+  SAY DESC @9
+
+COPY ~Wings/Items/B2#PLT01.itm~ ~override~
+  SAY NAME1 @10
+  SAY NAME2 @10
+  SAY DESC @11
+
+COPY ~Wings/Items/B2#SHD01.itm~ ~override~
+  SAY NAME1 @12
+  SAY NAME2 @12
+  SAY DESC @13
+
+COPY ~Wings/Items/B2#SWL01.itm~ ~override~
+  SAY NAME1 @14
+  SAY NAME2 @14
+  SAY DESC @15
+
+COPY ~Wings/Items/B2#AMMJ.itm~ ~override~
+  SAY NAME1 @16
+  SAY NAME2 @16
+  SAY DESC @17
+
+COPY ~Wings/Items/B2#AMMK.itm~ ~override~
+  SAY NAME1 @16
+  SAY NAME2 @16
+  SAY DESC @18
+
+COPY ~Wings/Items/B2#PHNX.itm~ ~override~
+  SAY NAME1 @19
+  SAY NAME2 @19
+  SAY DESC @20
+
+COPY ~Wings/Items/B2#PHHM.itm~ ~override~
+COPY ~Wings/Items/B2#PHAT.itm~ ~override~
+
+COPY ~Wings/Items/B2#AMJ25.itm~ ~override~
+  SAY NAME1 @16
+  SAY NAME2 @16
+  SAY DESC @21
+
+COPY ~Wings/Items/B2#ACHAN.itm~ ~override~
+  SAY NAME1 @22
+  SAY NAME2 @22
+SAY DESC @23
+
+// Creatures
+COPY ~Wings/Creatures/AERIE6.cre~ ~override/AERIE6.cre~
+COPY ~Wings/Creatures/AERIE7.cre~ ~override/AERIE7.cre~
+COPY ~Wings/Creatures/AERIE9.cre~ ~override/AERIE9.cre~
+COPY ~Wings/Creatures/AERIE10.cre~ ~override/AERIE10.cre~
+COPY ~Wings/Creatures/AERIE11.cre~ ~override/AERIE11.cre~
+COPY ~Wings/Creatures/AERIE12.cre~ ~override/AERIE12.cre~
+
+COPY ~Wings/Creatures/B2#RAPT.cre~ ~override/B2#RAPT.cre~
+  SAY NAME1 @24
+  SAY NAME2 @24
+
+COPY ~Wings/Creatures/B2#Lili.cre~ ~override/B2#Lili.cre~
+  SAY NAME1 @25
+  SAY NAME2 @25
+
+COPY ~Wings/Creatures/B2#Phil.cre~ ~override/B2#Phil.cre~
+  SAY NAME1 @26
+  SAY NAME2 @26
+
+COPY ~Wings/Creatures/B2#Kath.cre~ ~override/B2#Kath.cre~
+  SAY NAME1 @27
+  SAY NAME2 @27
+
+COPY ~Wings/Creatures/B2#COMW1.cre~ ~override/B2#COMW1.cre~
+COPY ~Wings/Creatures/B2#COMM1.cre~ ~override/B2#COMM1.cre~
+COPY ~Wings/Creatures/B2#COMM2.cre~ ~override/B2#COMM2.cre~
+
+COPY ~Wings/Creatures/B2#Tira.cre~ ~override/B2#Tira.cre~
+  SAY NAME1 @28
+  SAY NAME2 @28
+
+COPY ~Wings/Creatures/B2#Joe.cre~ ~override/B2#Joe.cre~
+  SAY NAME1 @29
+  SAY NAME2 @29
+
+COPY ~Wings/Creatures/B2#WHKN.cre~ ~override/B2#WHKN.cre~
+  SAY NAME1 @30
+  SAY NAME2 @30
+
+COPY ~Wings/Creatures/B2#BLKN.cre~ ~override/B2#BLKN.cre~
+  SAY NAME1 @31
+  SAY NAME2 @31
+
+COPY ~Wings/Creatures/B2#GRKN.cre~ ~override/B2#GRKN.cre~
+  SAY NAME1 @32
+  SAY NAME2 @32
+
+COPY ~Wings/Creatures/B2#PIKN.cre~ ~override/B2#PIKN.cre~
+  SAY NAME1 @33
+  SAY NAME2 @33
+
+COPY ~Wings/Creatures/B2#AMML.cre~ ~override/B2#AMML.cre~
+  SAY NAME1 @34
+  SAY NAME2 @34
+
+COPY ~Wings/Creatures/B2#PHNX.cre~ ~override/B2#PHNX.cre~
+  SAY NAME1 @35
+  SAY NAME2 @35
+
+COPY ~Wings/Creatures/B2#AML25.cre~ ~override/B2#AML25.cre~
+  SAY NAME1 @34
+  SAY NAME2 @34
+
+COPY ~Wings/Creatures/B2#ARTIS.cre~ ~override/B2#ARTIS.cre~
+  SAY NAME1 @36
+  SAY NAME2 @36
+
+// Optional Stuff
+
+BEGIN ~Restore missing banters?~
+
+COMPILE EVALUATE_BUFFER ~Wings/Dialogue/B2#MissBant.d~
+
+  EXTEND_BOTTOM ~YOSHIMO.bcs~ ~Wings/Scripts/B2#YOSHIMm.baf~
+    EVALUATE_BUFFER
+
+BEGIN ~Remove conflict with Hexxat?~
+
+COMPILE ~Wings/dialogue/B2#Hex.d~
+USING   ~Wings/tra/%s/B2#Hex.tra~
