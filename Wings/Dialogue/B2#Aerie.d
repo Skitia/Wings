@@ -86,7 +86,7 @@ END
 
 IF ~~ THEN BEGIN B2#AerW1k
   SAY @32
-   IF ~Global("AerieRomanceActive","GLOBAL",0)~ THEN DO ~SetGlobal("B2#AerieFriend","GLOBAL",3)~ EXIT
+   IF ~!Global("AerieRomanceActive","GLOBAL",1)~ THEN DO ~SetGlobal("B2#AerieFriend","GLOBAL",3)~ EXIT
    IF ~Global("AerieRomanceActive","GLOBAL",1)~ THEN DO ~SetGlobal("B2#AerieFriend","GLOBAL",3)
    SetGlobal("AerieRomanceActive","GLOBAL",3)~ EXIT
 END
@@ -104,7 +104,7 @@ END
 
 IF ~~ THEN BEGIN B2#AerW1n
   SAY @36
-   IF ~Global("AerieRomanceActive","GLOBAL",0)~ THEN DO ~IncrementGlobal("B2#AerieW","LOCALS",1)
+   IF ~!Global("AerieRomanceActive","GLOBAL",1)~ THEN DO ~IncrementGlobal("B2#AerieW","LOCALS",1)
 RealSetGlobalTimer("B2#AerieFriends","GLOBAL",3600)~ EXIT
    IF ~Global("AerieRomanceActive","GLOBAL",1)~ THEN DO ~SetGlobal("B2#AerieW","LOCALS",4)
    SetGlobal("LoveTalk","LOCALS",1)
