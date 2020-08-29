@@ -1,10 +1,10 @@
 // --------------------------------------------
 // Basics
 BACKUP ~Wings/backup~
-AUTHOR ~Coutelier (mail@coutelier.org.uk)~
+AUTHOR ~Coutelier (Original: mail@coutelier.org.uk) & Skitia (Later Versions: skitias-stories.com/contact)~
 
 // --------------------------------------------
-// BG2 Wings v0.91d
+// BG2 Wings v0.91b
 // --------------------------------------------
 
 // Language
@@ -14,7 +14,10 @@ LANGUAGE
          ~English~
          ~english~
          ~Wings/tra/english/WingsSetup.tra~
-
+LANGUAGE 		 
+         ~Russian (razor1213 & arcanecoast.ru)~
+         ~russian~
+         ~Wings/tra/russian/WingsSetup.tra~
 // Component setup
 BEGIN ~Wings for BG2:EE~
 
