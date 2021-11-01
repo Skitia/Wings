@@ -1,0 +1,28 @@
+IF 
+Global("X3WingsQuest","GLOBAL",16)
+Global("X3WAmbushSpawn","AR0022",0)
+THEN RESPONSE #100 
+SetGlobal("X3WAmbushSpawn","AR0022",1)
+ActionOverride("X3WTrent",DestroySelf())
+CreateCreature("X3WML",[844.406],NW) 
+CreateCreature("X3WFME",[541.389],NE) 
+CreateCreature("X3WFRE",[907.354],NE) 
+CreateCreature("X3WFRM",[851.304],NE) 
+CreateCreature("X3WFRM",[707.401],NE) 
+CreateCreature("X3WRE",[581.120],SW) 
+CreateCreature("X3WCE",[781.440],NW) 
+CreateCreature("X3WFMM",[678.351],NW)
+CreateCreature("X3WFMM",[610.323],NW) 
+END 
+
+IF 
+GlobalLT("X3WingsQuest","GLOBAL",18)
+Global("X3WingsJournal","AR0022",0)
+PartyHasItem("X3WLet2")
+THEN RESPONSE #100 
+SetGlobal("X3WingsJournal","AR0022",1)
+SetGlobalTimer("X3WingsTimer","GLOBAL",ONE_DAY)
+SetGlobal("X3WingsQuest","GLOBAL",17) //We want this again in case the wizard is killed without dialogue, or entirely uninteracted with.
+AddJournalEntry(@10017,QUEST)
+END 
+

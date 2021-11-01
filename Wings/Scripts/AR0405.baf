@@ -1,0 +1,110 @@
+//A lot of scripts need to fire. Keep the Global at 17 as long as possible.
+IF 
+Global("X3WingsQuest","GLOBAL",17)
+Global("X3PraxisSpawn","AR0405",0)
+THEN RESPONSE #100
+SetGlobal("X3PraxisSpawn","AR0405",1)
+CreateCreature("X3WLara",[537.1035],S) 
+CreateCreature("X3WPrax",[411.1284],SE)
+CreateCreature("cutspy",[411.1284],SE) 
+CreateCreature("X3WTrent",[479.1317],NW)
+CreateCreature("X3WME",[620.1071],S) 
+CreateCreature("X3WFRE",[432.1105],SE) 
+CreateCreature("X3WFRE",[276.1127],SE) 
+CreateCreature("X3WFRE",[649.1262],S) 
+CreateCreature("X3WRM",[475.1233],SW) 
+CreateCreature("X3WRE",[505.1432],NE) 
+CreateCreature("X3WFE",[559.1368],NE) 
+CreateCreature("X3WFMM",[597.1321],S) 
+Continue()
+END 
+
+IF 
+Global("B2#Rapt","GLOBAL",4)
+Global("X3WingsQuest","GLOBAL",17)
+THEN RESPONSE #100 
+SetGlobal("B2#Rapt","GLOBAL",5)
+CreateCreature("B2#Rapt",[763.1464],NE)
+CreateCreature("X3WFRM",[715.1502],NE) 
+Continue()
+END 
+//Did not make it on time, failed both rod quests.
+IF 
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",17)
+Global("X3PraxisSpawn","AR0405",1)
+Global("X3WFail","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",18)
+SetInterrupt(FALSE)
+ClearAllActions()
+FadeToColor([0.0],0)
+SmallWait(1)
+StartCutSceneMode()
+MultiPlayerSync()
+Wait(1)
+MoveViewObject("X3WPrax",INSTANT)
+Wait(1)
+FadeFromColor([30.0],0)
+StartCutScene("X3WCut04")
+END 
+//Did not make it on time, have artifact or passed one of the quests.
+IF 
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",17)
+Global("X3PraxisSpawn","AR0405",1)
+!Global("X3WFail","GLOBAL",2)
+THEN RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",18)
+SetInterrupt(FALSE)
+ClearAllActions()
+FadeToColor([0.0],0)
+SmallWait(1)
+StartCutSceneMode()
+MultiPlayerSync()
+Wait(1)
+MoveViewObject("X3WPrax",INSTANT)
+Wait(1)
+FadeFromColor([30.0],0)
+StartCutScene("X3WCut05")
+END 
+
+IF 
+GlobalTimerNotExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",17)
+Global("X3PraxisSpawn","AR0405",1)
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuest","GLOBAL",18)
+SetInterrupt(FALSE)
+ClearAllActions()
+FadeToColor([0.0],0)
+SmallWait(1)
+StartCutSceneMode()
+MultiPlayerSync()
+Wait(1)
+MoveViewObject("X3WPrax",INSTANT)
+Wait(1)
+FadeFromColor([30.0],0)
+StartCutScene("X3WCut06")
+END 
+
+IF 
+PartyHasItem("X3WGem")
+PartyHasItem("X3WRod")
+THEN RESPONSE #100 
+TakePartyItem("X3WGem")
+TakePartyItem("X3WRod")
+ActionOverride(Player1,CreateItem("X3WArt",1,1,1))
+DisplayStringHead(Player1,@72)
+END  
+
+IF 
+Dead("X3WPrax")
+Global("X3WingsQuest","GLOBAL",19)
+Dead("X3WTrent")
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuest","GLOBAL",20)
+AddexperienceParty(45000)
+AddJournalEntry(@10019,QUEST_DONE)
+END  
+

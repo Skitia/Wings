@@ -1,0 +1,11 @@
+IF 
+See(FarthestEnemyOf(Myself))
+Global("X3WMessage","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WMessage","LOCALS",1)
+DisplayStringHead(Myself,@73)
+Wait(6)
+PlaySound("ACT_07")	
+CreateCreature("X3WRE",[1416.1956],SE)
+CreateCreature("X3WRM",[1541.1864],SE)
+END 

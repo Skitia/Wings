@@ -1,0 +1,55 @@
+IF 
+See(NearestEnemyOf(Myself))
+Global("X3WSpells","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",1)
+ReallyForceSpell(Myself,WARRIOR_RESIST_MAGIC)
+ReallyForceSpell(Myself,WARRIOR_HARDINESS)
+Attack(FarthestEnemyOf(Myself))
+END 
+
+IF 
+HPLT(Myself,160)
+Global("X3WSpells","LOCALS",1)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",2)
+UseItem("potn14",Myself) 
+RunAwayFrom(NearestEnemyOf(Myself),30)
+Attack(FarthestEnemyOf(Myself))
+END
+
+IF 
+HPLT(Myself,120)
+Global("X3WSpells","LOCALS",2)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",3)
+UseItem("potn55",Myself) 
+RunAwayFrom(NearestEnemyOf(Myself),75)
+Attack(FarthestEnemyOf(Myself))
+END
+
+IF 
+HPLT(Myself,80)
+Global("X3WSpells","LOCALS",3)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",4)
+UseItem("potn10",Myself)
+RunAwayFrom(NearestEnemyOf(Myself),75)
+Attack(FarthestEnemyOf(Myself))
+END
+
+IF
+  See(SecondFarthestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackOneRound(SecondFarthestEnemyOf())
+END
+
+IF
+  !See(SecondFarthestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackOneRound(NearestEnemyOf())
+END
+
+

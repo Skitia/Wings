@@ -1,0 +1,62 @@
+IF 
+See(NearestEnemyOf(Myself))
+Global("X3WSpells","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",1)
+ReallyForceSpell(Myself,WARRIOR_RESIST_MAGIC)
+END 
+
+IF 
+See(NearestEnemyOf(Myself))
+Global("X3WSpells","LOCALS",1)
+THEN RESPONSE #100 
+Wait(3)
+SetGlobal("X3WSpells","LOCALS",2)
+ReallyForceSpell(Myself,WARRIOR_HARDINESS)
+END 
+
+
+IF
+  See(NearestEnemyOf(Myself))
+  HasItem("X3WArt",Myself)
+  Global("X3WSpells","LOCALS",2)
+  NumInPartyGT(1)
+THEN RESPONSE #100 
+Wait(3)
+SetGlobal("X3WSpells","LOCALS",3)
+DisplayStringHead(Myself,@74) 
+ReallyForceSpellRES("X3WSPL",Player2)
+END 
+
+IF
+  See(NearestEnemyOf(Myself))
+  HasItem("X3WArt",Myself)
+  Global("X3WSpells","LOCALS",2)
+  !NumInPartyGT(1)
+THEN RESPONSE #100 
+Wait(3)
+SetGlobal("X3WSpells","LOCALS",3)
+DisplayStringHead(Myself,@74) 
+ReallyForceSpellRES("X3WSPL",Player1)
+END 
+
+IF 
+HPLT(Myself,50)
+Global("X3WSpells","LOCALS",3)
+THEN RESPONSE #100 
+SetGlobal("X3WSpells","LOCALS",4)
+ReallyForceSpell(Myself,WARRIOR_SMITE)
+END
+
+
+
+
+
+IF
+  See(NearestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackOneRound(NearestEnemyOf(Myself))
+END
+
+

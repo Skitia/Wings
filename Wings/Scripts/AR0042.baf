@@ -1,0 +1,24 @@
+IF
+	Global("X3RaptEvent","GLOBAL",1)
+	OnCreation()
+THEN
+	RESPONSE #100
+		SetGlobal("X3RaptEvent","GLOBAL",2)
+		Explore()
+		ActionOverride(Player1,JumpToPoint([741.374]))
+		ActionOverride(Player2,JumpToPoint([689.352]))
+		ActionOverride(Player3,JumpToPoint([614.344]))
+		ActionOverride(Player4,JumpToPoint([746.319]))
+		ActionOverride(Player5,JumpToPoint([662.284]))
+		ActionOverride(Player6,JumpToPoint([710.271]))
+		CreateCreature("X3WME",[500.454],NE)  // Slaver
+		CreateCreature("X3WFM",[589.542],NE)  // Slaver
+		CreateCreature("X3WRL",[488.558],NE)  // Slaver Lieutenant
+		CreateCreature("REFIGH01",[552.476],NE)  // Slaver
+		CreateCreature("REMAGE01",[427.548],NE)  // Slaver Wizard
+		CreateCreature("RECLER01",[525.591],NE)  // Slaver
+		CreateCreature("RETHIE01",[585.542],NE)  // Slaver
+		CreateCreature("B2#Rapt",[299.536],SW)  // Raptair		
+		SmallWait(1)
+		ActionOverride("X3WRL",StartDialogueNoSet(Player1))
+END

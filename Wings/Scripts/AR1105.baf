@@ -1,0 +1,11 @@
+IF 
+//Minsc/Aerie Dialogue happened 
+Global("X3WMinscQuest","GLOBAL",3)
+//Never Fired Before 
+Global("X3WSpawn","AR1105",0)
+//Then Create Poacher Merchant 
+THEN RESPONSE #100 
+SetGlobal("X3WSpawn","AR1105",1)
+CreateCreature("X3WPM",[858.357],SE)
+Continue()
+END 

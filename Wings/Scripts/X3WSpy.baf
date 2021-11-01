@@ -1,0 +1,7 @@
+IF 
+Range(Player1,30)
+Global("X3WingsQuest","GLOBAL",12) 
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuest","GLOBAL",13) 
+AddJournalEntry(@10011,QUEST)
+END 

@@ -1,0 +1,15 @@
+IF 
+Global("X3WMinscQuest","GLOBAL",5)
+Global("X3WEnemy","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WEnemy","LOCALS",1)
+Enemy()
+END 
+
+IF 
+Global("X3WMinscQuest","GLOBAL",4)
+See(Player1)
+AreaCheck("AR1100")
+THEN RESPONSE #100 
+StartDialogueNoSet(Player1)
+END 

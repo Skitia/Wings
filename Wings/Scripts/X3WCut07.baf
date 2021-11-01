@@ -1,0 +1,12 @@
+
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("X3WLar25")
+		DisplayStringHead("X3WRap25",@33)
+		Attack("X3WRap25")		
+		SmallWait(1)
+		MoveToPoint([788.1722])
+		StartDialogueNoSet(Player1)
+END

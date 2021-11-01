@@ -15,3 +15,12 @@ CreateCreature("B2#GRKN",[3120.1690],12)
 SetGlobal("B2#PIKNExists","AR0700",1)
 CreateCreature("B2#PIKN",[3195.1730],8)
 END
+
+IF 
+Global("X3WingsQuest","GLOBAL",9)
+Global("X3WMerSpawn","AR0700",0)
+THEN 
+RESPONSE #100
+SetGlobal("X3WMerSpawn","AR0700",1)
+CreateCreature("X3WMer",[466.2257],15)
+END 

@@ -1,0 +1,7 @@
+
+IF 
+Die()
+GlobalLT("X3WingsQuest","GLOBAL",18)
+THEN RESPONSE #100
+AddJournalEntry(@10005,QUEST_DONE)
+END 

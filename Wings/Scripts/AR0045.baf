@@ -1,0 +1,83 @@
+// Add to TOP of AR0046
+IF
+	OnCreation()
+	Global("X3WingsQuest","GLOBAL",2)
+	!Global("FreeSlaves","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Explore()	
+		FadeToColor([0.0],0)
+		CreateCreature("X3WGD",[731.213],15)  // Dead Guard
+		ActionOverride(Player1,JumpToPoint([493.701]))
+		ActionOverride(Player2,JumpToPoint([472.743]))
+		ActionOverride(Player3,JumpToPoint([457.702]))
+		ActionOverride(Player4,JumpToPoint([492.725]))
+		ActionOverride(Player5,JumpToPoint([531.706]))
+		ActionOverride(Player6,JumpToPoint([479.678]))
+		Kill("X3WGD")	
+		Wait(1)
+		SetInterrupt(FALSE)
+		ClearAllActions()
+		StartCutSceneMode()
+		MultiPlayerSync()
+		Wait(1)
+		SetGlobal("X3WingsQuest","GLOBAL",3)
+
+		CreateCreature("X3WG",[801.194],15)  // Guard
+		CreateCreature("cutspy",[920.178],15)  // Cutscene Spy
+		CreateCreature("X3WFMM",[679.221],11)  // Slaver (Melee Fighter)	
+		CreateCreature("X3WFMM",[846.238],6)  // Slaver (Melee Fighter)		
+		CreateCreature("X3WFMM",[849.165],3)  // Slaver (Melee Fighter)		
+		CreateCreature("X3WFMM",[723.317],SW)  // Slaver (Melee Fighter)				
+		CreateCreature("X3WFRM",[979.266],NW)  // Slaver (Ranged Fighter)		
+		CreateCreature("X3WFRM",[605.267],NE)  // Slaver (Ranged Fighter)			
+		CreateCreature("X3WLara",[943.156],SW)  // Laravyl
+		CreateCreature("X3WCE",[989.197],SW)  // Slaver (Cleric)			
+	
+		MoveViewObject("X3WG",INSTANT)
+		FadeFromColor([30.0],0)
+		Wait(4)
+		StartCutScene("X3WCut01")
+END
+
+IF
+	OnCreation()
+	Global("X3WingsQuest","GLOBAL",2)
+	Global("FreeSlaves","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Explore()	
+		FadeToColor([0.0],0)
+		CreateCreature("X3WGD",[731.213],15)  // Dead Guard
+		ActionOverride(Player1,JumpToPoint([493.701]))
+		ActionOverride(Player2,JumpToPoint([472.743]))
+		ActionOverride(Player3,JumpToPoint([457.702]))
+		ActionOverride(Player4,JumpToPoint([492.725]))
+		ActionOverride(Player5,JumpToPoint([531.706]))
+		ActionOverride(Player6,JumpToPoint([479.678]))
+		Kill("X3WGD")	
+		Wait(1)
+		SetInterrupt(FALSE)
+		ClearAllActions()
+		StartCutSceneMode()
+		MultiPlayerSync()
+		Wait(1)
+		SetGlobal("X3WingsQuest","GLOBAL",3)
+
+		CreateCreature("X3WG",[801.194],15)  // Guard
+		CreateCreature("cutspy",[920.178],15)  // Cutscene Spy
+		CreateCreature("X3WFMM",[679.221],11)  // Slaver (Melee Fighter)	
+		CreateCreature("X3WFMM",[846.238],6)  // Slaver (Melee Fighter)		
+		CreateCreature("X3WFMM",[849.165],3)  // Slaver (Melee Fighter)		
+		CreateCreature("X3WFMM",[723.317],SW)  // Slaver (Melee Fighter)				
+		CreateCreature("X3WFRM",[979.266],NW)  // Slaver (Ranged Fighter)		
+		CreateCreature("X3WFRM",[605.267],NE)  // Slaver (Ranged Fighter)			
+		CreateCreature("X3WLara",[943.156],SW)  // Laravyl
+		CreateCreature("X3WCE",[989.197],SW)  // Slaver (Cleric)			
+	
+		MoveViewObject("X3WG",INSTANT)
+		FadeFromColor([30.0],0)
+		Wait(4)
+		StartCutScene("X3WCut02")
+END
+

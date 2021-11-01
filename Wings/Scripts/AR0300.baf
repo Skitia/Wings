@@ -4,4 +4,5 @@ THEN
 RESPONSE #100
 SetGlobal("B2#JoeExists","AR0300",1)
 CreateCreature("B2#Joe",[3360.2665],15)
+Continue()
 END

@@ -1,0 +1,38 @@
+		/*
+		Scene: Laravyl and her henchmen are killing two city guards who they blame for the setback in the inn. One should already be dead.
+		The dialogue varies depending on if just the inn was stopped, or if the children were freed as well.
+		The second one is murdered during the first dialogue sequence, then the player approaches, and she and her companions should turn to face them.
+		Again, the dialogue will slightly vary depending on how far they have gone, and if Aerie is Alive and in party. (Aerie is required to trigger the event, but not to be alive during it.)
+		After combat is ended, and the lead man is dead, Aerie will do a short dialogue sequence. The end of it should set another timer for Trent to spawn.
+		*/
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("X3WLara")
+		DisplayStringHead("X3WLara",@0)
+		Wait(9)
+		DisplayStringHead("X3WG",@1)
+		Wait(8)
+		DisplayStringHead("X3WLara",@2)
+		Wait(6)
+		DisplayStringHead("X3WG",@3)
+		Wait(4)
+		DisplayStringHead("X3WLara",@4)
+		Wait(1)
+		Attack("X3WG")
+		Wait(1)
+		Kill("X3WG")
+		Wait(1)
+		DisplayStringHead("X3WLara",@5)
+		Wait(1)
+		ActionOverride(Player1, MoveToPoint([616.387]))
+		ActionOverride(Player2, MoveToPoint([546.374]))
+		ActionOverride(Player3, MoveToPoint([648.439]))
+		ActionOverride(Player4, MoveToPoint([457.433]))
+		ActionOverride(Player5, MoveToPoint([552.467]))
+		ActionOverride(Player6, MoveToPoint([618.510]))
+		Wait(6)
+		StartDialogueNoSet(Player1)
+END
+

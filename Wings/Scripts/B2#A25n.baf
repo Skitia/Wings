@@ -27,3 +27,27 @@ THEN
     MoveGlobalObject("B2#AML25","AERIE")
 END
 
+
+IF 
+Dead("X3WLar25")
+See([PC])
+InParty(Myself)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WAvenger","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WAvenger","LOCALS",1)
+END 
+
+
+IF 
+See([PC])
+InParty(Myself)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WAvenger","LOCALS",1)
+THEN RESPONSE #100
+StartDialogueNoSet(Player1)
+END 

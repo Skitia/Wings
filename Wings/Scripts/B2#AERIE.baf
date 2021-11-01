@@ -284,3 +284,158 @@ THEN
 		Wait(1)
 		StartDialogueNoSet([PC])
 END
+//Version 1.0 additions
+IF 
+//Neera Compatibility
+!Global("OHN_NEERA_RENC","GLOBAL",1)
+//Recorder Compatibility
+!Global("X3RebQuest","GLOBAL",2)
+!Global("X3RebQuest","GLOBAL",5)
+//General Checks
+Global("X3WingsQuest","GLOBAL",1)
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+OR(7) // Any Althkata area except the city gates, in case they're traveling into forest or some such and not city to  city.
+AreaCheck("AR0400")
+AreaCheck("AR0300")
+AreaCheck("AR0500")  
+AreaCheck("AR0700") 
+AreaCheck("AR0800") 
+AreaCheck("AR0900") 
+AreaCheck("AR1000") 
+THEN RESPONSE #100
+ForceRandomEncounter("AR0045")
+SetGlobal("X3WingsQuest","GLOBAL",2)
+END
+//Raptair Random Encounter IF quest finished before Raptair found.
+IF 
+Global("DrizztEncounter","GLOBAL",1)
+Global("B2#Rapt","GLOBAL",4)
+GlobalGT("X3WingsQuest","GLOBAL",17)
+OR(14)
+AreaCheck("AR0042") 
+AreaCheck("AR1100") 
+AreaCheck("AR1200") 
+AreaCheck("AR1300") 
+AreaCheck("AR1304") 
+AreaCheck("AR1400") 
+AreaCheck("AR1401") 
+AreaCheck("AR1700") 
+AreaCheck("AR1800") 
+AreaCheck("AR1900") 
+AreaCheck("AR2000") 
+AreaCheck("AR2500") 
+AreaCheck("AR2600") 
+AreaCheck("AR2601") 
+THEN RESPONSE #100 
+ForceRandomEncounter("AR0042")
+SetGlobal("X3RaptEvent","GLOBAL",1)
+SetGlobal("B2#Rapt","GLOBAL",5)
+END 
+
+IF
+Global("X3WingsQuest","GLOBAL",4)
+See([PC])
+InParty(Myself)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+THEN RESPONSE #100 
+StartDialogueNoSet(Player1)
+END 
+
+IF 
+//General Checks
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+OR(8) // Any Althkata area
+AreaCheck("AR0020")
+AreaCheck("AR0300")
+AreaCheck("AR0400")
+AreaCheck("AR0500")  
+AreaCheck("AR0700") 
+AreaCheck("AR0800") 
+AreaCheck("AR0900") 
+AreaCheck("AR1000") 
+OR(2) //Either one is acceptable.
+Global("X3WingsQuest","GLOBAL",4)
+Global("X3WingsQuest","GLOBAL",5)
+THEN RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",6)
+PlaySound("ACT_07")
+CreateCreatureObject("X3WTrent",Player1,6,6,6)
+SmallWait(1)
+ActionOverride("X3WTrent",FaceObject(Player1))
+Wait(1)
+ActionOverride("X3WTrent",StartDialogueNoSet(Player1))
+END
+
+IF 
+See([PC])
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WingsQuest","GLOBAL",12)
+PartyHasItem("X3WRod")
+Global("X3WingsMerchantTalk","LOCALS",0) 
+THEN RESPONSE #100 
+SetGlobal("X3WingsMerchantTalk","LOCALS",1) 
+StartDialogueNoSet(Player1) 
+END 
+
+IF 
+See([PC])
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WingsQuest","GLOBAL",13)
+Global("X3WingsMerchantTalk","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WingsMerchantTalk","LOCALS",1) 
+END 
+
+IF 
+See([PC])
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WingsQuest","GLOBAL",17)
+PartyHasItem("X3WLet2")
+Global("X3WingsTrentTaken","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WingsTrentTaken","LOCALS",1)
+END 
+
+IF 
+See([PC])
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+OR(3)
+Global("X3WingsTrentTaken","LOCALS",1)
+Global("X3WingsMerchantTalk","LOCALS",1) 
+Global("X3WingsQuestEndTalk","LOCALS",1)
+THEN RESPONSE #100 
+StartDialogueNoSet(Player1)
+END 
+
+IF 
+See([PC])
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+!StateCheck([PC],STATE_SLEEPING)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WingsQuest","GLOBAL",20)
+Global("X3WingsQuestEndTalk","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuestEndTalk","LOCALS",1)
+END
+
+

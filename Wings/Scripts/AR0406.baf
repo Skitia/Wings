@@ -1,0 +1,10 @@
+// Ambush Timer
+IF
+GlobalGT("HendakReleased","AR0406",2)
+Global("X3WingsQuest","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",1)
+SetGlobalTimer("X3WingsTimer","GLOBAL",ONE_DAY)
+END
+

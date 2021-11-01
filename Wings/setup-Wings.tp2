@@ -4,7 +4,7 @@ BACKUP ~Wings/backup~
 AUTHOR ~Coutelier (Original: mail@coutelier.org.uk) & Skitia (Later Versions: skitias-stories.com/contact)~
 
 // --------------------------------------------
-// BG2 Wings v0.91b
+// BG2 Wings v0.99
 // --------------------------------------------
 
 // Language
@@ -23,7 +23,10 @@ BEGIN ~Wings for BG2:EE~
 
 //Spells
 ADD_SPELL "Wings/Spells/B2#SARFM.spl" 4 0 B2#AERIEFAM
-
+COPY	"%MOD_FOLDER%/Spells/X3WSPL.spl" override
+	SAY NAME1 @47
+	SAY NAME2 @47
+	SAY 0x50 @48
 // Compiling dialogue...
 COMPILE ~Wings/dialogue/B2#Aerie.d~
 USING   ~Wings/tra/%s/B2#Aerie.tra~
@@ -47,20 +50,63 @@ COMPILE ~Wings/dialogue/B2#AML25.d~
 USING   ~Wings/tra/%s/B2#AML25.tra~
 COMPILE ~Wings/dialogue/B2#Artist.d~
 USING   ~Wings/tra/%s/B2#Artist.tra~
-
+COMPILE ~Wings/dialogue/X3WLara.d~
+USING   ~Wings/tra/%s/X3WLara.tra~
+COMPILE ~Wings/dialogue/X3WLar25.d~
+USING   ~Wings/tra/%s/X3WLar25.tra~
+COMPILE ~Wings/dialogue/X3WTrent.d~
+USING   ~Wings/tra/%s/X3WTrent.tra~
+COMPILE ~Wings/dialogue/X3WMer.d~
+USING   ~Wings/tra/%s/X3WMer.tra~
+COMPILE ~Wings/dialogue/X3WFML.d~
+USING   ~Wings/tra/%s/X3WFML.tra~
+COMPILE ~Wings/dialogue/X3WML.d~
+USING   ~Wings/tra/%s/X3WML.tra~
+COMPILE ~Wings/dialogue/X3WPrax.d~
+USING   ~Wings/tra/%s/X3WPrax.tra~
+COMPILE ~Wings/dialogue/X3WRL.d~
+USING   ~Wings/tra/%s/X3WRL.tra~
+COMPILE ~Wings/dialogue/X3WRap25.d~
+USING   ~Wings/tra/%s/X3WRap25.tra~
+COMPILE ~Wings/dialogue/X3WAer25.d~
+USING   ~Wings/tra/%s/X3WAer25.tra~
+COMPILE ~Wings/dialogue/X3WPM.d~
+USING   ~Wings/tra/%s/X3WPM.tra~
+COMPILE ~Wings/dialogue/Merchant.d~
+USING   ~Wings/tra/%s/Merchant.tra~
 // Scripts
   EXTEND_TOP ~AR1100.bcs~ ~Wings/Scripts/AR1100.baf~
     EVALUATE_BUFFER
-
+  EXTEND_TOP ~AR1105.bcs~ ~Wings/Scripts/AR1105.baf~
+    EVALUATE_BUFFER	
+  EXTEND_TOP ~AR6400.bcs~ ~Wings/Scripts/AR6400.baf~
+    EVALUATE_BUFFER
   EXTEND_TOP ~AR0300.bcs~ ~Wings/Scripts/AR0300.baf~
     EVALUATE_BUFFER
+  EXTEND_TOP ~AR0405.bcs~ ~Wings/Scripts/AR0405.baf~
+    EVALUATE_BUFFER
+  EXTEND_TOP ~AR0406.bcs~ ~Wings/Scripts/AR0406.baf~
+    EVALUATE_BUFFER
+
 
   EXTEND_TOP ~AR0607.bcs~ ~Wings/Scripts/AR0607.baf~
     EVALUATE_BUFFER
-
+  EXTEND_TOP ~AR0022.bcs~ ~Wings/Scripts/AR0022.baf~
+    EVALUATE_BUFFER
   EXTEND_TOP ~AR0700.bcs~ ~Wings/Scripts/AR0700.baf~
     EVALUATE_BUFFER
-  
+  EXTEND_TOP ~AR0045.bcs~ ~Wings/Scripts/AR0045.baf~
+    EVALUATE_BUFFER
+ COPY_EXISTING ~AR0810.are~ ~override~
+      WRITE_ASCII 0x94 ~AR0810~ #8 
+COMPILE ~Wings/Scripts/AR0810.baf~	
+ EXTEND_TOP ~AR0800.bcs~ ~Wings/Scripts/AR0800.baf~	EVALUATE_BUFFER
+  EXTEND_TOP ~AR0400.bcs~ ~Wings/Scripts/AR0400.baf~
+    EVALUATE_BUFFER	
+  EXTEND_TOP ~AR0511.bcs~ ~Wings/Scripts/AR0511.baf~
+    EVALUATE_BUFFER	  
+  EXTEND_TOP ~AR0042.bcs~ ~Wings/Scripts/AR0042.baf~
+    EVALUATE_BUFFER	 	
   COPY_EXISTING ~AERI25.BCS~ ~override~
 DECOMPILE_AND_PATCH BEGIN
    REPLACE_TEXTUALLY
@@ -74,6 +120,9 @@ DECOMPILE_AND_PATCH BEGIN
   
   EXTEND_TOP ~AERIE.bcs~ ~Wings/Scripts/B2#AERIE.baf~
     EVALUATE_BUFFER
+	
+  EXTEND_TOP ~MINSC.bcs~ ~Wings/Scripts/X3WMinsc.baf~
+    EVALUATE_BUFFER	
 
   EXTEND_TOP ~AERIED.bcs~ ~Wings/Scripts/B2#AERIED.baf~
     EVALUATE_BUFFER
@@ -106,7 +155,26 @@ COMPILE ~Wings/Scripts/B2#cANA2.baf~
 COMPILE ~Wings/Scripts/B2#cANA3.baf~
 COMPILE ~Wings/Scripts/B2#cANA4.baf~
 COMPILE ~Wings/Scripts/B2#cANA5.baf~
-
+//Version 1.0 Scripts 
+COMPILE ~Wings/Scripts/X3WLara.baf~
+COMPILE ~Wings/Scripts/X3WLar25.baf~
+COMPILE ~Wings/Scripts/X3WPrax.baf~
+COMPILE ~Wings/Scripts/X3WTrent.baf~
+COMPILE ~Wings/Scripts/X3WMer.baf~
+COMPILE ~Wings/Scripts/X3WSpy.baf~
+COMPILE ~Wings/Scripts/X3WCL.baf~
+COMPILE ~Wings/Scripts/X3WML.baf~
+COMPILE ~Wings/Scripts/X3WCut01.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WCut02.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WCut03.baf~
+COMPILE ~Wings/Scripts/X3WCut04.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WCut05.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WCut06.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WCut07.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
+COMPILE ~Wings/Scripts/X3WRap25.baf~
+COMPILE ~Wings/Scripts/X3WPM.baf~
+COMPILE ~Wings/Scripts/X3WPF.baf~
+COMPILE ~Wings/Scripts/X3WPA.baf~
 // Copying files
 COPY ~Wings/Portraits~ ~override~
 COPY ~Wings/Effects~ ~override~
@@ -179,6 +247,83 @@ COPY ~Wings/Items/B2#ACHAN.itm~ ~override~
   SAY NAME1 @22
   SAY NAME2 @22
 SAY DESC @23
+//Item additions for version 1 and onwards
+COPY ~Wings/Items/X3WSBOW.itm~ ~override~
+  SAY NAME1 @38
+  SAY NAME2 @38
+SAY DESC @39
+
+COPY ~Wings/Items/X3WARROW.itm~ ~override~
+  SAY NAME1 @40 
+  SAY NAME2 @40    //No description, cannot be taken by a player.
+COPY ~Wings/Items/X3WNIN.itm~ ~override~ 
+SAY NAME1 @43
+SAY NAME2 @43
+SAY DESC @44
+
+COPY ~Wings/Items/X3WCHAIN.itm~ ~override~
+  SAY NAME1 @41
+  SAY NAME2 @41
+SAY DESC @42
+
+COPY ~Wings/Items/X3WArt.itm~ ~override~
+  SAY NAME1 @47
+  SAY NAME2 @47
+SAY DESC @48
+
+COPY ~Wings/Items/X3WRod.itm~ ~override~
+  SAY NAME1 @49
+  SAY NAME2 @49
+SAY DESC @50
+
+COPY ~Wings/Items/X3WGem.itm~ ~override~
+  SAY NAME1 @51
+  SAY NAME2 @51
+SAY DESC @52
+
+COPY ~Wings/Items/X3WFGem.itm~ ~override~
+  SAY NAME1 @51
+  SAY NAME2 @51
+SAY DESC @68
+
+COPY ~Wings/Items/X3WLET1.itm~ ~override~
+  SAY NAME1 @53
+  SAY NAME2 @53
+SAY DESC @54
+
+COPY ~Wings/Items/X3WLET2.itm~ ~override~
+  SAY NAME1 @55
+  SAY NAME2 @55
+SAY DESC @56
+
+COPY ~Wings/Items/X3WLET3.itm~ ~override~
+  SAY NAME1 @66
+  SAY NAME2 @66
+SAY DESC @67
+
+COPY ~Wings/Items/X3WLET4.itm~ ~override~
+  SAY NAME1 @69
+  SAY NAME2 @69
+SAY DESC @70
+
+COPY ~Wings/Items/X3WLENS.itm~ ~override~
+  SAY NAME1 @63
+  SAY NAME2 @63
+SAY DESC @64
+
+COPY ~Wings/Items/X3WRING.itm~ ~override~
+  SAY NAME1 @61
+  SAY NAME2 @61
+SAY DESC @62
+//Chapter 2-7 Aerie Quest, Aerie must be in party for it to trigger initially, the rest doesn't matter.
+ADD_JOURNAL TITLE (@10000) @10001 @10002 @10003 @10004 @10005 @10006 @10007 @10008 @10009 @10010 @10011 @10012 @10013 @10014 @10015 @10016 @10017 @10018 @10019 @10020 @10021 @10022 @10023 @10024
+//Chapter 6 Aerie Quest Event/Post first quest, Aerie must be in party.
+ADD_JOURNAL TITLE (@20000) @20001
+//Raptair Journal Entries
+ADD_JOURNAL TITLE (@30000) @30001 @30002 @30003
+//Silly Quest Journal Entries 
+ADD_JOURNAL TITLE (@40000) @40001 @40002 @40003 @40004
+
 
 // Creatures
 COPY ~Wings/Creatures/AERIE6.cre~ ~override/AERIE6.cre~
@@ -191,6 +336,13 @@ COPY ~Wings/Creatures/AERIE12.cre~ ~override/AERIE12.cre~
 COPY ~Wings/Creatures/B2#RAPT.cre~ ~override/B2#RAPT.cre~
   SAY NAME1 @24
   SAY NAME2 @24
+  
+COPY ~Wings/Creatures/X3WRAP25.cre~ ~override/X3WRAP25.cre~
+  WRITE_ASCII 0x248 ~X3WRap25~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WRap25~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WRap25~ #8   // Dialogue 
+  SAY NAME1 @24
+  SAY NAME2 @24  
 
 COPY ~Wings/Creatures/B2#Lili.cre~ ~override/B2#Lili.cre~
   SAY NAME1 @25
@@ -247,7 +399,164 @@ COPY ~Wings/Creatures/B2#AML25.cre~ ~override/B2#AML25.cre~
 COPY ~Wings/Creatures/B2#ARTIS.cre~ ~override/B2#ARTIS.cre~
   SAY NAME1 @36
   SAY NAME2 @36
+//Creature Additions for Version 1.00 and onward:
+COPY ~%MOD_FOLDER%/Creatures/X3WLara.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WLara~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WLara~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WLara~ #8   // Dialogue 
+  SAY NAME1 @37
+  SAY NAME2 @37
+  
+COPY ~%MOD_FOLDER%/Creatures/X3WPrax.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WPrax~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WPrax~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WPrax~ #8   // Dialogue 
+  SAY NAME1 @45
+  SAY NAME2 @45
+  
+COPY ~%MOD_FOLDER%/Creatures/X3WTrent.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WTrent~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WTrent~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WTrent~ #8   // Dialogue 
+  SAY NAME1 @46
+  SAY NAME2 @46  
+  
+COPY ~%MOD_FOLDER%/Creatures/X3WLar25.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WLar25~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WLar25~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WLar25~ #8   // Dialogue 
+  SAY NAME1 @37
+  SAY NAME2 @37    
+  
+ COPY ~%MOD_FOLDER%/Creatures/X3WMER.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WMER~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WMER~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WMER~ #8   // Dialogue 
+  SAY NAME1 @57
+  SAY NAME2 @57  
+  
 
+ COPY ~%MOD_FOLDER%/Creatures/X3WML.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WML~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WML~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WML~ #8   // Dialogue 
+  SAY NAME1 @59
+  SAY NAME2 @59   
+  
+ COPY ~%MOD_FOLDER%/Creatures/X3WG.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WG~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WG~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WG~ #8   // Dialogue 
+  SAY NAME1 @60
+  SAY NAME2 @60   
+
+ COPY ~%MOD_FOLDER%/Creatures/X3WGD.cre~ ~override~
+  WRITE_ASCII 0x248 ~X3WGD~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WGD~ #32  //DV
+  SAY NAME1 @60
+  SAY NAME2 @60    
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WCL.cre~ ~override~ 
+    WRITE_ASCII 0x248 ~X3WCL~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WCL~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WCL~ #8   // Dialogue   
+  SAY NAME1 @59
+  SAY NAME2 @59   
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WFML.cre~ ~override~ 
+  WRITE_ASCII 0x248 ~X3WFML~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WFML~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WFML~ #8   // Dialogue   
+  SAY NAME1 @59
+  SAY NAME2 @59    
+  
+    COPY ~%MOD_FOLDER%/Creatures/X3WSpy.cre~ ~override~ 
+  WRITE_ASCII 0x248 ~X3WSpy~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WSpy~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WSpy~ #8   // Dialogue   
+  SAY NAME1 @65
+  SAY NAME2 @65   
+  
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WFRL.cre~ ~override~ 
+  SAY NAME1 @59
+  SAY NAME2 @59  
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WRL.cre~ ~override~ 
+  SAY NAME1 @59
+  SAY NAME2 @59    
+  WRITE_ASCII 0x248 ~X3WRL~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WRL~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WRL~ #8   // Dialogue  
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WRM.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58 
+  WRITE_ASCII 0x248 ~X3WRM~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WRM~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WRM~ #8   // Dialogue    
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WRE.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58 
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WFRE.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58 
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WFRM.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58 
+  WRITE_ASCII 0x248 ~X3WFRM~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WFRM~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WFRM~ #8   // Dialogue     
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WFMM.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58 
+  WRITE_ASCII 0x248 ~X3WFMM~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WFMM~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WFMM~ #8   // Dialogue     
+
+  COPY ~%MOD_FOLDER%/Creatures/X3WFME.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58   
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WME.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58   
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WCE.cre~ ~override~ 
+  SAY NAME1 @58
+  SAY NAME2 @58    
+  
+  COPY ~%MOD_FOLDER%/Creatures/X3WPM.cre~ ~override~ 
+  SAY NAME1 @75
+  SAY NAME2 @75   
+  WRITE_ASCII 0x248 ~X3WPM~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WPM~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WPM~ #8   // Dialogue       
+  
+    COPY ~%MOD_FOLDER%/Creatures/X3WPF.cre~ ~override/X3WPF.cre~ 
+  SAY NAME1 @76
+  SAY NAME2 @76 
+  WRITE_ASCII 0x248 ~X3WPF~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WPF~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WPF~ #8   // Dialogue   
+  
+    COPY ~%MOD_FOLDER%/Creatures/X3WPA.cre~ ~override/X3WPA.cre~ 
+  SAY NAME1 @76
+  SAY NAME2 @76  
+  WRITE_ASCII 0x248 ~X3WPA~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WPA~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WPA~ #8   // Dialogue   
+  
+    COPY ~%MOD_FOLDER%/Creatures/X3WPR.cre~ ~override/X3WPR.cre~ 
+  SAY NAME1 @76
+  SAY NAME2 @76  
+  WRITE_ASCII 0x248 ~X3WPR~ #8  //override script
+  WRITE_ASCII 0x280 ~X3WPR~ #32  //DV
+  WRITE_ASCII 0x2cc ~X3WPR~ #8   // Dialogue   
 // Optional Stuff
 
 BEGIN ~Restore missing banters?~

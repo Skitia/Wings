@@ -1,0 +1,24 @@
+IF 
+Dead("X3WPM")
+Global("X3WMinscQuest","GLOBAL",5)
+InParty(Myself)
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+See(Player1)
+CombatCounter(0)
+!See([ENEMY])
+THEN RESPONSE #100 
+SetGlobal("X3WMinscQuest","GLOBAL",6)
+END 
+
+IF 
+InParty(Myself)
+IsValidForPartyDialogue(Myself)
+IsValidForPartyDialogue(Player1)
+See(Player1)
+CombatCounter(0)
+!See([ENEMY])
+Global("X3WMinscQuest","GLOBAL",6)
+THEN RESPONSE #100 
+StartDialogueNoSet(Player1)
+END 

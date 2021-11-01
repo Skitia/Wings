@@ -1,0 +1,31 @@
+//Variation of X3WCut01
+IF
+	True()
+THEN
+	RESPONSE #100
+		CutSceneId("X3WLara")
+		DisplayStringHead("X3WLara",@6)
+		Wait(8)
+		DisplayStringHead("X3WG",@7)
+		Wait(8)
+		DisplayStringHead("X3WLara",@8)
+		Wait(7)
+		DisplayStringHead("X3WG",@9)
+		Wait(4)
+		DisplayStringHead("X3WLara",@4)
+		Wait(1)
+		Attack("X3WG")
+		Wait(1)
+		Kill("X3WG")
+		Wait(1)
+		DisplayStringHead("X3WLara",@10)
+		Wait(1)
+		ActionOverride(Player1, MoveToPoint([616.387]))
+		ActionOverride(Player2, MoveToPoint([546.374]))
+		ActionOverride(Player3, MoveToPoint([648.439]))
+		ActionOverride(Player4, MoveToPoint([457.433]))
+		ActionOverride(Player5, MoveToPoint([552.467]))
+		ActionOverride(Player6, MoveToPoint([618.510]))
+		Wait(6)
+		StartDialogueNoSet(Player1)
+END

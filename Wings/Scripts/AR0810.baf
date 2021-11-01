@@ -1,0 +1,51 @@
+IF
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",14)
+THEN
+RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",15)
+IncrementGlobal("X3WFail","GLOBAL",1)
+ActionOverride("Container1",CreateItem("X3WFGem",0,0,0))
+END
+
+IF
+GlobalTimerNotExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",14)
+THEN
+RESPONSE #100
+SetGlobal("X3WingsQuest","GLOBAL",15)
+ActionOverride("Container1",CreateItem("X3WGem",0,0,0))
+END
+
+IF 
+PartyHasItem("X3WFGem")
+Global("X3WingsQuest","GLOBAL",15)
+THEN RESPONSE #100 
+TakePartyItem("X3WFGem")
+ActionOverride(Player1,CreateItem("X3WLet4",0,0,0))
+DisplayStringHead(Player1,@71)
+AddJournalEntry(@10014,QUEST)
+SetGlobal("X3WingsQuest","GLOBAL",16)
+END 
+
+IF 
+PartyHasItem("X3WGem")
+PartyHasItem("X3WRod")
+Global("X3WingsQuest","GLOBAL",15)
+THEN RESPONSE #100 
+TakePartyItem("X3WGem")
+TakePartyItem("X3WRod")
+ActionOverride(Player1,CreateItem("X3WArt",1,1,1))
+DisplayStringHead(Player1,@72)
+AddJournalEntry(@10024,QUEST)
+SetGlobal("X3WingsQuest","GLOBAL",16)
+END 
+
+IF 
+PartyHasItem("X3WGem")
+!PartyHasItem("X3WRod")
+Global("X3WingsQuest","GLOBAL",15)
+THEN RESPONSE #100 
+AddJournalEntry(@10015,QUEST)
+SetGlobal("X3WingsQuest","GLOBAL",16)
+END 

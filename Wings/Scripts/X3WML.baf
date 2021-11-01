@@ -1,0 +1,6 @@
+IF 
+See(FarthestEnemyOf(Myself))
+Global("X3WMessage","LOCALS",0)
+THEN RESPONSE #100 
+StartDialogueNoSet(FarthestEnemyOf(Myself))
+END 

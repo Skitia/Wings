@@ -23,4 +23,22 @@ SetGlobal("B2#Comm1Exists","AR1100",1)
 CreateCreature("B2#COMM1",[3900.1600],10)
 SetGlobal("B2#Comm2Exists","AR1100",1)
 CreateCreature("B2#COMM2",[3925.1640],10)
+Continue()
 END
+
+IF 
+GlobalTimerExpired("X3WMinscTimer","GLOBAL")
+Global("X3WMinscQuest","GLOBAL",4)
+Global("X3WSpawn","AR1100",0)
+THEN RESPONSE #100 
+SetGlobal("X3WSpawn","AR1100",1)
+CreateCreature("X3WPM",[1384.2935],E)
+CreateCreature("X3WPA",[1164.2840],SE)
+CreateCreature("X3WPA",[1060.2911],SE)
+CreateCreature("X3WPA",[903.3318],E)
+CreateCreature("X3WPF",[1490.2812],E)
+CreateCreature("X3WPF",[1347.3119],E)
+CreateCreature("X3WPF",[1480.2802],E)
+END 
+
+

@@ -1,0 +1,16 @@
+IF 
+Global("X3WingsQuest","GLOBAL",16)
+Global("X3WingsGraveBattle","AR0800",0)
+OR(2)
+PartyHasItem("X3WGem")
+PartyHasItem("X3WArt")
+THEN RESPONSE #100 
+SetGlobal("X3WingsGraveBattle","AR0800",1)
+CreateCreature("X3WCL",[1811.1770],SW) 
+CreateCreature("X3WFME",[1716.1810],SW) 
+CreateCreature("X3WFRE",[1808.1666],SW) 
+CreateCreature("X3WFRM",[1667.1649],SW) 
+CreateCreature("X3WFMM",[1213.2029],NE)
+CreateCreature("X3WME",[1728.1652],SW) 
+END 
+

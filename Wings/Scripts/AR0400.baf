@@ -1,0 +1,38 @@
+IF 
+GlobalTimerExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",11) 
+THEN RESPONSE #100 
+ActionOverride("X3WMer",CreateItem("X3WLet3",0,0,0))
+SetGlobal("X3WingsQuest","GLOBAL",12) 
+SetGlobal("X3WMerKill","AR0400",1)
+CreateCreature("X3WSpy",[346.2085],SW)
+Continue()
+END
+
+IF 
+Global("X3WMerKill","AR0400",1) 
+THEN RESPONSE #100 
+SetGlobal("X3WMerKill","AR0400",2)
+Kill("X3WMer") 
+END 
+
+IF 
+GlobalTimerNotExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",11) 
+Global("X3WingsLRoute","GLOBAL",1)
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuest","GLOBAL",12) 
+ActionOverride("X3WMer",CreateItem("X3WRod",0,0,0))
+CreateCreature("X3WG",[405.2104],SW)
+CreateCreature("X3WGD",[329.2027],SW)
+END 
+
+IF 
+GlobalTimerNotExpired("X3WingsTimer","GLOBAL")
+Global("X3WingsQuest","GLOBAL",11) 
+!Global("X3WingsLRoute","GLOBAL",1)
+THEN RESPONSE #100 
+SetGlobal("X3WingsQuest","GLOBAL",12) 
+END 
+
+

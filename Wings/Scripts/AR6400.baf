@@ -1,0 +1,8 @@
+IF 
+InParty("Aerie")
+Global("B2#Rapt","GLOBAL",6)
+THEN RESPONSE #100 
+SetGlobal("B2#Rapt","GLOBAL",7)
+CreateCreature("X3WRap25",[788.1722],NW)
+Continue()
+END 

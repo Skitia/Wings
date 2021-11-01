@@ -1,0 +1,18 @@
+IF
+Global("X3WFML","AR0511",0)
+Global("X3WingsQuest","GLOBAL",10)
+THEN
+RESPONSE #100
+SetGlobal("X3WFML","AR0511",1)
+CreateCreature("X3WFML",[1238.355],SW)
+Continue()
+END
+
+IF 
+PartyHasItem("X3WLens")
+Global("X3WLensJournal","AR0511",0)
+THEN RESPONSE #100 
+SetGlobal("X3WLensJournal","AR0511",1)
+AddJournalEntry(@10007,QUEST)
+Continue()
+END 

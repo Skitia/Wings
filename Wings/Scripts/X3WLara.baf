@@ -1,0 +1,34 @@
+IF 
+	GlobalGT("X3WingsQuest","GLOBAL",17)
+	Dead("X3WPrax")
+	AreaCheck("AR0405")
+THEN RESPONSE #100 
+	StartDialogueNoSet(Player1)
+END 
+
+IF 
+	GlobalGT("X3WingsQuest","GLOBAL",17)
+	!Dead("X3WPrax")
+	HPPercentLT(Myself,50)
+	AreaCheck("AR0405")
+THEN RESPONSE #100 
+	StartDialogueNoSet(Player1)
+END 
+
+
+IF
+  Allegiance(Myself,ENEMY)
+  See(SecondFarthestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackOneRound(SecondFarthestEnemyOf())
+END
+
+IF
+  Allegiance(Myself,ENEMY)
+  !See(SecondFarthestEnemyOf(Myself))
+THEN
+  RESPONSE #100
+    AttackOneRound(NearestEnemyOf())
+END
+

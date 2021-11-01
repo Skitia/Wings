@@ -1,0 +1,7 @@
+IF 
+Global("X3WMinscQuest","GLOBAL",5)
+Global("X3WEnemy","LOCALS",0)
+THEN RESPONSE #100 
+SetGlobal("X3WEnemy","LOCALS",1)
+Enemy()
+END 
