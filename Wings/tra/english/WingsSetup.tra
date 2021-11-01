@@ -80,3 +80,156 @@ Weight: 8~
 @34   = ~Ammale~
 @35   = ~Phoenix~
 @36   = ~Artist~
+//Version 1.0 Additions 
+@37 = ~Laravyl~
+@38 = ~Elven Tuigan Bow~
+@39 = ~This bow is a blend of both the Tuigan and Elven bowyer traditions of archery. Its origins can be traced to Laravyl's favorite slave, a Tuigan warrior who marveled in the slave pits in Athkata's Copper Coronet. In exchange for his freedom, she compelled out of him the secrets of his bow-work. Whether she was good on her word remains unknown, but the powerful bow is very much real in your hands.
+  
+STATISTICS:
+
+Combat abilities:
+– 3 shots per round
+
+THAC0: +4
+Damage: +4 (missile)
+Speed Factor: 5
+Proficiency Type: Shortbow
+Type: Two-handed
+Requires:
+ 6 Strength
+
+Weight: 2~
+@40 = ~Laravyl Arrow~
+@41 = ~Laravyl's Chain~
+@42 = ~Laravyl's chain was specially commissioned for a singular purpose: dueling other archers, particularly those who might try to stop her slave operations from a distance. This armor certainly helped, for very few raiders were ever able to rescue slaves that she was responsible for.
+
+STATISTICS:
+
+Equipped abilities:
+- 25% Missile Resistance
+– Open Locks: -5%
+– Find Traps: -5%
+– Pick Pockets: -20%
+– Move Silently: -10%
+– Spellcasting is not disabled
+
+Armor Class: 0 (-2 vs. slashing, 2 vs. crushing)
+Requires:
+ 5 Strength
+
+Weight: 8~
+@43 = ~The Gladiator's Ninjatō~
+@44 = ~Lord Praxis's favorite slave was known only as The Gladiator. Hailing from Kara-tur, the gladiator never lost a battle and was his prize fighter for many years. Seeing his chance one day, he turned his blade to his master when he one day went to congratulate him in the arena. It was his mercy that was his undoing in the end, with Lord Praxis defeating him by feigning surrender, only to stab him in the back and take his blade as a trophy.
+
+STATISTICS:
+
+Critical Chance: +5%
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 1
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 2~
+@45 = ~Lord Praxis~
+@46 = ~Trent~
+@47 = ~Rod of Paralysis~
+@48 = ~Rumored to be a creation of the wizard Bigby, this rod uses its gem as a catalyst to inflict a powerful command word on any target engulfed in its white flame, be it friend or foe, rendering them immobile for several rounds. Only tough individuals can hope to resist the word, and the user must know their own inner strength if they dare to put themselves in the flame's path when using the rod. Once utilized, it requires a bit of time to charge for another use.
+STATISTICS:
+
+Charge abilities:
+- Power Word Stun 
+  Special: Impacts target and any other nearby targets. 
+  Range: 45 meters.
+  
+Weight: 5
+~
+@49 = ~Rod of Silver~
+@50 = ~This Silver rod glistens in the sunlight and glows in the dark. There appears to be a small hole in the rod where a gem could be inserted.~
+@51 = ~Catalyst Gem~
+@52 = ~This gem glistens in the sunlight and glows in the dark. It's shape is rather peculiar, as if it made to fit within something else.~
+@53 = ~Letter~
+@54 = ~Arben,
+You continue to refuse my offers, so let me offer one last price: 15,000 gold for your Rod. I understand it is a family heirloom, but it's abilities are extremely important for my cause.
+If there is further hesitation or concern, I can send Laravyl to meet with you to ease out any problems you may have.
+I eagerly await your answer.
+
+Lord Praxis~
+@55 = ~Laravyl's Orders~
+@56 = ~Capture Trent and bring him back to the slave hideout so that he may be judged in front of Lord Praxis, then have the rest of the group wait here in ambush for <CHARNAME> and their friends. Even if they somehow overwhelm you, they will come to us one way or another for their Trent, desperate to save him before Praxis likely takes his life.
+
+Laravyl~
+@57 = ~Merchant Arben~
+@58 = ~Slaver~
+@59 = ~Slaver Lieutenant~
+@60 = ~Amnian Soldier~
+@61 = ~Ring of the Mystic Theurge~ 
+@62 = ~Mystic Theurge's are known for a great need to scour all magical knowledge, no matter it's paradigm. This ring captures that philosophy's essence, making it easier to retain arcane and divine magic for use when needed.
+
+STATISTICS:
+
+Equipped abilities:
+– Can memorize one extra fourth and fifth divine and arcane spell.
+
+Weight: 0~
+@63 = ~Portal Lens~
+@64 = ~A portal lens is used to open up portals to travel across the prime. Few know how to make these lens, and they sometimes have dangerous side effects, including ending up in an undesired location.
+
+STATISTICS:
+
+Weight: 0~
+@65 = ~Rat~ //Cutscene Spy
+@66 = ~Letter from Laravyl~ 
+@67 = ~You are a little too slow to keep up with me, <CHARNAME>. Is the wingless slave making you slow as sloths? Keep trying to play this game with me, and you'll lose more than just a small trinket.
+
+Laravyl~ 
+@68 = ~This gem seems lifeless, casting no light to its surroundings. It seems void of magic, but if it is the cataylst gem you seek, surely it must hold some purpose for the rod.~
+@69 = ~Laravyl's Note~
+@70 = ~You still haven't learned. I am *always* ahead of you. But this game is getting boring, and I did give you a warning. You will lose something quite dear soon.
+Laravyl~
+@71 = ~The gem crumbles in your hand, revealing a letter inside.~ 
+@72 = ~You insert the gem into the rod, and it fuses cleanly, recreating the artifact.~
+@73 = ~There they are. Cut them down!~
+@74 = ~*Uses Rod*~
+@75 = ~Argin Olly~
+@76 = ~Olly's Bodyguard~
+@10000 = ~Wing Taker~
+@10001 = ~Wing Taker
+
+We encountered slavers murdering a few Althkata Guards who had apparently not assisted in preventing Lehtinan's demise. Seeing our approach, their leader, an elf named Laravyl, sent her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
+@10002 = ~We encountered slavers murdering a few Althkata Guards who had apparently not assisted in preventing Lehtinan's demise. Their leader, an elf named Laravyl was responsible for shooting Aerie down from the sky, and dispatched her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
+@10003 = ~A mysterious man asked of us to assist Hendak with liberating the slave compound in the Slum's District. If we do this, he'll enlist in our help further in taking down the heads of the slaver operation here in Althkata.~
+@10004 = ~A man named Trent has tasked us with retrieving an artifact rod allowing him to easily enslave others. A merchant named Arben in the promenade has possession. If we can be convincing enough, we can keep it from them.~
+@10005 = ~Trent is dead. Without his aid, we're unlikely to ever get close to fully taking down the slave operation.~
+@10006 = ~Arben is reluctant to work with us without some assurances that we are truly here to help. He's tasked us with getting a portal lens from one of Praxis's highest ranking slavers. Once we have it, we can return.~
+@10007 = ~We've managed to snag the portal lens, though found no sign of Laravyl. We should return to Arben with what we found.~
+@10008 = ~Pretending to be Laravyl, we managed to intimidate Arben into agreeing to give us the Rod. He'll do the exchange in the Slums, on the west side.~
+@10009 = ~The coward Arben involved the city guard. We'll have to kill them all, and then take the rod off of the merchant's corpse to Trent.~
+@10010 = ~After we gave Arben the portal lens, he asked him to meet him in the west end of the slums as soon as possible, promising to give us the rod before he escapes the city.~
+@10011 = ~Arben was dead when we arrived to the Slums, no doubt the work of Laravyl and their slavers. We've no choice but to return to Trent and deliver the grim news.~
+@10012 = ~Laravyl seems to be one step ahead of us again! Just as we managed to meet Arben he was ambushed and slain by Laravyl, who whisked away with the rod in his possession with the lens we gave Arben. We've no choice but to return to Trent and deliver the grim news.~
+@10013 = ~Trent brought us more information about the rod. He says it needs a gem inserted in it to work, which he believes is buried in one of the tombs on the west side of the Graveyard District. If we don't hurry, it may not be there when we arrive.~
+@10014 = ~Our luck is bitter indeed! The gem was a fake and Laravyl beat us to it again. We have no choice but to return to Trent.~
+@10015 = ~We managed to get the gem before the slavers could get their hands on it. We should return to Trent.~
+@10016 = ~The slavers have taken Trent! It is only a matter of time before they kill him or worse. We need to find where he was taken.~
+@10017 = ~Trent is gone, taken to be executed by Lord Praxis in the slave compound. This is but another Laravyl game, to have us come to Praxis right where he wants us. But if we delay, it is Trent's life on the line.~
+@10018 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. He made a final request of us to secure the rod and keep it safe.~ 
+@10019 = ~Though Laravyl escaped, Lord Praxis is dead, dealing a huge blow to Althkata's slavery. A pity Trent is not alive to celebrate with, though at least his death was not in vain.~
+@10020 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. At our request, he let us keep the rod artifact, for our own use.~
+@10021 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. He took the rod artifact and vowed to keep it out of any vile hands.~
+@10022 = ~Arben is dead. Wherever the artifact rod is now, we'll never know now.~
+@10023 = ~We've given the rod to Trent, who is now asking us to to retrieve a gem that is required to insert into it in order for the rod to work. He believes it is buried in one of the tombs on the west side of the Graveyard District. If we don't hurry, it may not be there when we arrive.~
+@10024 = ~We've retrieved the gem and it fused right into the rod. We could use this against Praxis. We should return to Trent right away.~
+@20000 = ~Wing Avenger~
+@20001 = ~Finally, we have run into the slaver Laravyl one last time, the elf who had shot down Aerie from the sky. We fell her and her entire group, securing justice for all of those she had wronged.~
+@30000 = ~Raptair~ 
+@30001 = ~We saved Raptair from slavers. Surprisingly out of gratitude, he was willing to find Aerie's parents, and promises to return to Aerie when he has news.~
+@30002 = ~We saved Raptair from slavers. He was barely thankful at all, though from dealing with him before, I shouldn't have expected anything different.~
+@30003 = ~Raptair finally found us, but whatever news he would have will never be known. He was murdered by Laravyl before he could speak a word.~
+@40000 = ~Love for Boo~
+@40001 = ~For some wild reason I have agreed to search for another space hamster in Amn by asking Merchants. There is not going to be anyone that sells such a creature, is there?~
+@40002 = ~After asking several merchants, they suggested we speak to an individual named Argin Olly. They last heard they were about the Umar Hills, likely in the inn.~
+@40003 = ~Argin Olly not only claimed to have a hamster, and not just a female hamster, but a female miniature-giant-space hamster. While I hardly believe it, he says he will bring her just outside of the Ranger's Cabin in a day if we are interested in having them meet Boo.~
+@40004 = ~They turned out to be no good rotten smugglers, hoping to take Boo and send him to a hamster fighting ring of all things. While no mate was ever found, at least other hamster victims are saved from this crazy gnome.~

@@ -1,0 +1,44 @@
+//Cutscene 1a
+@0 = ~You two were given a *lot* of money to keep our slave trade safe. Enough for yourselves and your families. So I'll ask you one last time, what happened with the Copper Coronet?~
+@1 = ~I don't know, honest! You paid us and we stayed out of that business. Not our fault some adventurers thought to free Hendak and let him run the place.~
+@2 = ~...You're right, of course. I am mistaken. You had nothing to do with this.~
+@3 = ~You'll spare me then, and let me return to my family?~
+@4 = ~We'll see you delivered in one piece.~
+@5 = ~Let us return to Lord Praxis and advise that Hendak has gotten wild notions of freedom and business owning in his head and will need to b-...well now, who is this?~
+//Cutscene 1b
+@6 = ~What the hell happened? We paid you two imbeciles good coin to keep that compound safe. It will take *weeks* to recoup our losses.~
+@7 = ~I don't know! We took the coin and didn't ask questions! We were told nothing about stopping adventurers from entering the place.~
+@8 = ~...You're right, of course. I never said a word about that. I was wrong to put my anger on you two and kill your comrade.~
+@9 = ~So...you will let me go? My family must be worried sick.~
+@10 = ~Idiot. This must be Hendak's doing or those adventurers who freed him. Either way, Hendak will need to be dealt with swift and h- well now, who is this?~
+//On Time
+@11 = ~I never thought you'd come back here to the compound, Praxis.~
+@12 = ~You don't know me, spy. And my reasons are not your concern.~
+@13 = ~You only live because you might bring someone to me, and only if they come. Put him in a cell. I'll kill him later.~
+//Raptair Lines
+@14 = ~You can't treat a Deva like this!~
+@15 = ~Shut it and move.~
+//Late 
+@16 = ~They take too long! I tire of this. Your plan is failing, Laravyl.~
+@17 = ~A little more patience, my lord. It is not a matter of if, but when. I know my prey well.~
+@18 = ~And yet you still underestimate them, Laravyl. They are not fools!~
+@19 = ~You serve no purpose if they are not here, Spy Trent. None at all.~
+@20 = ~Was that wise, Praxis? You threw away our piece of control.~
+//Doesn't have rod branch.
+@21 = ~Do not question me, Laravyl. Ever.~
+@22 = ~But she has a point, Lord Praxis. This will only enrage them.~
+@23 = ~Do I need to make further examples?~
+@24 = ~No, Lord Praxis. What is the plan now?~
+@25 = ~There is no need of one. They arrive.~
+//Does have Rod branch
+@26 = ~They were but to be test subjects for my new gift. We can find others.~
+@27 = ~But she has a point, Lord Praxis. Why would they come when they have no reason to do so now?~
+@28 = ~Because if they do not, *you* will be the example. Do not question me further.~
+@29 = ~Perhaps revenge will motivate them. But if not, what is the plan, Praxis?~
+//Concludes with @25
+//On Time Branch
+@30 = ~Your plan better work, Laravyl. My patience is wearing thin.~
+@31 = ~Just a little longer, Lord Praxis. I promise it will be worth it.~
+@32 = ~We shall see. For here they are.~
+//Finale Cutscene 
+@33 = ~They said-~

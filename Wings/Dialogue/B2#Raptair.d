@@ -1,5 +1,6 @@
 BEGIN ~B2#Rapt~
 
+//Former Content
 IF ~NumTimesTalkedTo(0)
 ~ THEN BEGIN 0
   SAY @0
@@ -697,3 +698,61 @@ IF ~~ THEN BEGIN B2#RapAer28
   IF ~~ THEN GOTO B2#RapAer19
 END
 END
+
+//New Content Wings 1.0
+CHAIN IF ~Global("B2#Rapt","GLOBAL",5)~ THEN B2#Rapt Free 
+@202 
+= @203 
+END 
+++ @204 + Grateful
++~IsValidForPartyDialogue("Aerie")~+ @206 EXTERN AerieJ AerieChain2
++~!IsValidForPartyDialogue("Aerie")~+ @206 + IAmBored
+++ @205 + OutHair
+
+CHAIN B2#Rapt Grateful
+@218
+EXTERN B2#Rapt QuiteTheShow 
+
+CHAIN B2#Rapt QuiteTheShow 
+@220 
+END 
+IF ~IsValidForPartyDialogue("Aerie")~ EXTERN AerieJ AerieChain1
+IF ~!IsValidForPartyDialogue("Aerie")AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)EscapeArea()~ EXIT 
+IF ~!IsValidForPartyDialogue("Aerie")!AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)CreateVisualEffectObject("SPCLOUD2",Myself)DestroySelf()~ EXIT
+
+CHAIN B2#Rapt IAmBored 
+@209
+END 
+IF ~AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)EscapeArea()~ EXIT 
+IF ~!AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)CreateVisualEffectObject("SPCLOUD2",Myself)DestroySelf()~ EXIT
+
+CHAIN B2#Rapt OutHair 
+@221 
+END 
+IF ~IsValidForPartyDialogue("Aerie")~ EXTERN AerieJ AerieChain1
+IF ~!IsValidForPartyDialogue("Aerie")AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)EscapeArea()~ EXIT 
+IF ~!IsValidForPartyDialogue("Aerie")!AreaCheck("AR0405")~ DO ~AddexperienceParty(15000)AddJournalEntry(@30002,QUEST_DONE)CreateVisualEffectObject("SPCLOUD2",Myself)DestroySelf()~ EXIT
+
+
+CHAIN AerieJ AerieChain1
+@210 
+== B2#Rapt @211 
+EXTERN AerieJ IAmAerie 
+
+CHAIN AerieJ AerieChain2
+@207
+== B2#Rapt @208
+== B2#Rapt @219
+EXTERN AerieJ IAmAerie 
+
+CHAIN AerieJ IAmAerie 
+@212 
+DO ~SetGlobal("B2#Rapt","GLOBAL",6)~
+== B2#Rapt @213 
+== AerieJ @214
+== B2#Rapt @215 
+== B2#Rapt @216
+== AerieJ @217
+END 
+IF ~AreaCheck("AR0405")~ DO ~AddexperienceParty(30000)AddJournalEntry(@30001,QUEST_DONE)ActionOverride("B2#Rapt",EscapeArea())~ EXIT 
+IF ~!AreaCheck("AR0405")~ DO ~AddexperienceParty(30000)AddJournalEntry(@30001,QUEST_DONE)CreateVisualEffectObject("SPCLOUD2","B2#Rapt")ActionOverride("B2#Rapt",DestroySelf())~ EXIT

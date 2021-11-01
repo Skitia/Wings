@@ -1,5 +1,183 @@
+//New V1.00 Content.
+
+//Mini-Quest Start
+CHAIN IF ~IsValidForPartyDialogue("AERIE")
+IsValidForPartyDialogue("Minsc")
+See("AERIE")
+Global("X3WMinscQuest","GLOBAL",0)~ THEN BMINSC MiniQuest 
+@760
+DO ~SetGlobal("X3WMinscQuest","GLOBAL",1)~
+== BAERIE @761 
+== BMINSC @762
+== BAERIE @763 
+== BMINSC @764
+END 
+++ @765 + BooSad 
+++ @766 + Doubt 
+++ @767 + Search
+
+CHAIN BMINSC BooSad 
+@768 
+EXIT 
+
+CHAIN BMINSC Doubt 
+@769
+== BAERIE @770 
+END 
+++ @765 EXTERN BMINSC BooSad 
+++ @767 EXTERN BMINSC Search
+
+CHAIN BMINSC Search 
+@771 
+DO ~SetGlobal("X3WMinscQuest","GLOBAL",2)AddJournalEntry(@40001,QUEST)~
+== BJAHEIR IF ~IsValidForPartyDialogue("Jaheira")~ THEN @772
+== BMAZZY IF ~IsValidForPartyDialogue("Mazzy")~ THEN @773
+== BJAN IF ~IsValidForPartyDialogue("Jan")~ THEN @774
+== BKORGAN IF ~IsValidForPartyDialogue("Jan")~ THEN @775
+EXIT 
+
+CHAIN IF ~Global("X3WingsQuest","GLOBAL",4)~ THEN AerieJ PostLaraMeet
+@716 // ~I-I can't believe I would ever run into her again after I was sold. I-I thought I couldn't suffer anymore like this.~
+DO ~SetGlobal("X3WingsQuest","GLOBAL",5)~ 
+END 
+++ @717 + PLM.1 // ~We'll find her, Aerie. I promise.~
+++ @718 + PLM.2// ~I'm sorry you had to cross paths with her, Aerie.~
+++ @719 + PLM.3// ~That was a tough fight. Hopefully she'll leave us alone now.~
+
+
+CHAIN AerieJ PLM.1
+@720 // ~You can't promise me that. Althkata is big, <CHARNAME>. Unless she crosses into our way again, how will we ever find her?~
+END 
+++ @723 + PLM.4 // ~We won't know unless we try, Aerie.~
+++ @724 + PLM.5 // ~If she wants us dead, I'm sure she'll want to make sure it's done right.~
+++ @725 + PLM.6 // ~That's all right with me. We have other things to worry about.~
+
+CHAIN AerieJ PLM.2
+@721 // ~Thank you, but now that I know she is here I-I want to find her again. I want to stop her from hurting anyone else. I just...don't know if we will ever find her.~
+END
+++ @723 + PLM.4 // ~We won't know unless we try, Aerie.~
+++ @724 + PLM.5 // ~If she wants us dead, I'm sure she'll want to make sure it's done right.~
+++ @725 + PLM.6 // ~That's all right with me. We have other things to worry about.~
+
+CHAIN AerieJ PLM.3
+@722 // ~Now that I know she is here I-I want to find her again. I want to stop her from hurting anyone else. I just...don't know if we will ever cross paths with her again.~
+END
+++ @723 + PLM.4 // ~We won't know unless we try, Aerie.~
+++ @724 + PLM.5 // ~If she wants us dead, I'm sure she'll want to make sure it's done right.~
+++ @725 + PLM.6 // ~That's all right with me. We have other things to worry about.~
+
+CHAIN AerieJ PLM.4
+@726 // I-I'll try to have hope. I know it won't bring back my wings, but it will make me feel better if we can stop her and the rest of her cruel slavers.~
+EXIT 
+
+CHAIN AerieJ PLM.5
+@727 // I-I don't like the thought of that. Let us just be careful, <CHARNAME>.~
+EXIT 
+
+CHAIN AerieJ PLM.6
+@728 // I forgot, we have other problems on our mind. I'm sorry. Just forget about all of this. Hopefully we don't run into her again.~
+EXIT 
+
+//Second Quest Conversation 
+CHAIN IF ~Global("X3WingsMerchantTalk","LOCALS",1)~ THEN AerieJ PostMerchantDeath 
+@729
+DO ~SetGlobal("X3WingsMerchantTalk","LOCALS",2)~
+END 
+//Goes to different paths based on the quest so far.
+IF ~!Global("X3WingsQuest","GLOBAL",12)~ EXTERN AerieJ MerchantDied
+IF ~Global("X3WingsQuest","GLOBAL",12)~ EXTERN AerieJ AttackedMerchant
+
+CHAIN AerieJ MerchantDied 
+@731
+= @738
+END 
+++ @739 + GetLaravyl
+++ @740 + ThingsHappen
+++ @741 + SorryMerchant 
+
+CHAIN AerieJ GetLaravyl 
+@742
+EXTERN AerieJ ReturnNoRod 
+
+CHAIN AerieJ ThingsHappen 
+@743 
+EXTERN AerieJ ReturnNoRod 
+
+CHAIN AerieJ SorryMerchant 
+@744 
+EXTERN AerieJ ReturnNoRod 
+
+CHAIN AerieJ ReturnNoRod 
+@745 
+EXIT 
+
+CHAIN AerieJ AttackedMerchant 
+@730
+END 
+++ @732 + NotFault 
+++ @733 + WhatMatters 
+++ @734 + ReturnRod
+
+CHAIN AerieJ WhatMatters 
+@735 
+EXTERN AerieJ ReturnRod 
+
+CHAIN AerieJ NotFault 
+@736 
+EXTERN AerieJ ReturnRod 
+
+CHAIN AerieJ ReturnRod 
+@737 
+EXIT 
+//Third 
+CHAIN IF ~Global("X3WingsTrentTaken","LOCALS",1)~ THEN AerieJ TrentKidnapped 
+@746
+DO ~SetGlobal("X3WingsTrentTaken","LOCALS",2)~
+= @747
+END 
+++ @748 + GetHim
+++ @749 + BigFight
+++ @750 + ATrap
+
+CHAIN AerieJ GetHim 
+@751 
+EXTERN AerieJ GetGetHim 
+
+CHAIN AerieJ BigFight 
+@752 
+EXTERN AerieJ GetGetHim  
+
+CHAIN AerieJ ATrap 
+@753 
+EXIT 
+
+CHAIN AerieJ GetGetHim 
+@754
+EXIT 
+
+//Final Quest Conversation
+CHAIN IF ~Global("X3WingsQuestEndTalk","LOCALS",1)~ THEN AerieJ PostQuestTalk 
+@755
+DO ~SetGlobal("X3WingsQuestEndTalk","LOCALS",2)~
+END 
+IF ~Dead("Trent")~ EXTERN AerieJ TrentNotAlive
+IF ~!Dead("Trent")~ EXTERN AerieJ TrentStillAlive 
+
+CHAIN AerieJ TrentNotAlive 
+@758
+= @759 
+EXIT 
+
+CHAIN AerieJ TrentStillAlive 
+@756
+= @757 
+EXIT 
+
+
 APPEND BAERIE
 
+
+//Former Content 
 IF WEIGHT #-41
 ~ See(Player1)
   !StateCheck(Player1,STATE_SLEEPING)
