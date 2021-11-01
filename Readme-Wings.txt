@@ -1,6 +1,6 @@
 'Wings' for Baldur's Gate 2: Enhanced Edition
 
-Version 0.91b
+Version 0.99
 
 There shall be wings! If the accomplishment be not for me, 'tis for some other. The spirit cannot die; and man, who shall know all and shall have wings...
 	- Leonardo da Vinci
@@ -17,9 +17,11 @@ This mod adds quite a bit of extra content for everyone's favorite wingless wond
 
 - A small cosmetic change to Aerie herself. Beamdog recolored all the NPC's based on their portraits, but in Aerie's case because of the lighting in her portrait they got it wrong. She's referred to as being fair and pale a few times in the games text. So I just changed her skin and hair back to how it was originally. While it wasn't strictly necessary, I also changed the lighting in her portrait to match.
 
+- The latest version of this mod has a personal quest created for Aerie. It's scope is comparable to other original BG2 NPCs. There is also a mini-quest around Minsc after a banter with Aerie that is added.
+
 To install:
 
-Simply unrar to your game directory (For me its C:\Program Files (x86)\BeamDog\Games\00783\), and then double click the file ‘setup-Wings.exe’, and follow the instructions.
+Simply unrar to your game directory (For me its C:\Program Files (x86)\BeamDog\Games\00783\), and then double click the file â€˜setup-Wings.exeâ€™, and follow the instructions.
 
 To uninstall, just double click setup-Wings.exe again.
 
