@@ -123,7 +123,7 @@ IF ~!AreaCheck("AR0400")~ EXTERN X3WTrent T.Stay
 
 CHAIN X3WTrent T.Crooked 
 @34 
-DO ~EscapeAreaMove("AR0400",342,375,SE)~
+DO ~EscapeAreaMove("AR0022",342,375,SE)~
 EXIT 
 
 CHAIN X3WTrent T.Stay 
