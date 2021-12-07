@@ -1,3 +1,19 @@
+IF
+	Allegiance(Myself,ENEMY)
+	OR(6)
+		StateCheck(NearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(NearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+		StateCheck(SecondNearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(SecondNearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+		StateCheck(ThirdNearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(ThirdNearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+	!GlobalTimerNotExpired("X3Sight","LOCALS")
+THEN
+	RESPONSE #100
+		SetGlobalTimer("X3Sight","LOCALS",TEN_ROUNDS)
+		ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)  // SPWI609.SPL (True Sight)
+END
+
 IF 
 	GlobalGT("X3WingsQuest","GLOBAL",17)
 	Dead("X3WPrax")

@@ -1,10 +1,12 @@
+
 IF 
-See(NearestEnemyOf(Myself))
+Allegiance(Myself,ENEMY)
 Global("X3WSpells","LOCALS",0)
 THEN RESPONSE #100 
 SetGlobal("X3WSpells","LOCALS",1)
 ReallyForceSpell(Myself,WARRIOR_RESIST_MAGIC)
 ReallyForceSpell(Myself,WARRIOR_HARDINESS)
+ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)
 Attack(FarthestEnemyOf(Myself))
 END 
 
@@ -53,3 +55,18 @@ THEN
 END
 
 
+IF
+	Allegiance(Myself,ENEMY)
+	OR(6)
+		StateCheck(NearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(NearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+		StateCheck(SecondNearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(SecondNearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+		StateCheck(ThirdNearestEnemyOf(Myself),STATE_INVISIBLE)
+		StateCheck(ThirdNearestEnemyOf(Myself),STATE_IMPROVEDINVISIBILITY)
+	!GlobalTimerNotExpired("X3Sight","LOCALS")
+THEN
+	RESPONSE #100
+		SetGlobalTimer("X3Sight","LOCALS",TEN_ROUNDS)
+		ReallyForceSpell(Myself,WIZARD_TRUE_SIGHT)  // SPWI609.SPL (True Sight)
+END
