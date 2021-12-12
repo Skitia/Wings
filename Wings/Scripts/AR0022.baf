@@ -22,7 +22,7 @@ PartyHasItem("X3WLet2")
 THEN RESPONSE #100 
 SetGlobal("X3WingsJournal","AR0022",1)
 SetGlobalTimer("X3WingsTimer","GLOBAL",ONE_DAY)
-SetGlobal("X3WingsQuest","GLOBAL",17) //We want this again in case the wizard is killed without dialogue, or entirely uninteracted with.
+SetGlobal("X3WingsQuest","GLOBAL",17) //We want this again in case the wizard is killed without dialogue, or not interacted with.
 AddJournalEntry(@10017,QUEST)
 END 
 
