@@ -69,7 +69,7 @@ CHAIN X3WTrent T.MoreInfo
 @31 
 DO ~SetGlobal("X3WingsQuest","GLOBAL",9)~
 == MINSCJ IF ~IsValidForPartyDialogue("MINSC")~ THEN @47
-= @32
+== X3WTrent @32
 = @33
 == AERIEJ IF ~IsValidForPartyDialogue("Aerie")~ THEN @46
 == NALIAJ IF ~IsValidForPartyDialogue("NALIA")~ THEN @37

@@ -12,7 +12,7 @@ CHAIN X3WPM MinscThere
 == X3WPM @3
 == MinscJ @4
 == X3WPM @5
-== MinscJ @6 
+= @6
 END 
 ++ @7 + NotWaiting
 ++ @8 + Agreed
@@ -92,7 +92,7 @@ CHAIN X3WPM MinscAmbush.4
 = @37
 == MinscJ @38 
 == X3WPM @39
-= @40
+== X3WPM @40
 == MinscJ @41
 DO ~AddJournalEntry(@40004,QUEST_DONE)SetGlobal("X3WMinscQuest","GLOBAL",5)CreateCreature("X3WPR",[1420.2901],E)CreateCreature("X3WPR",[1419.2938],E)ReallyForceSpell(Myself,BERSERKER_RAGE)Attack("X3WPM")
 ~
