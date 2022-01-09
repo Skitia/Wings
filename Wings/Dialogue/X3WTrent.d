@@ -232,8 +232,8 @@ CHAIN IF ~Global("X3WingsQuest","GLOBAL",19)~ THEN X3WTrent PraxDefeated
 == X3WTrent IF ~IsValidForPartyDialogue("Aerie")~ THEN @86
 END 
 ++ @87 EXTERN X3WTrent NotEasy
-++ @88 EXTERN X3WTrent Raptair
-++ @88 EXTERN X3WTrent NoOne
++~!GlobalLT("B2#Rapt","GLOBAL",5)~+ @88 EXTERN X3WTrent Raptair
++~GlobalLT("B2#Rapt","GLOBAL",5)~+ @88 EXTERN X3WTrent NoOne
 ++ @89 EXTERN X3WTrent EvenIf
 
 CHAIN X3WTrent NotEasy 
