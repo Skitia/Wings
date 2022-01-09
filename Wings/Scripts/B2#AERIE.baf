@@ -335,7 +335,7 @@ END
 IF
 Global("X3WingsQuest","GLOBAL",4)
 See([PC])
-InParty(Myself)
+InPartyAllowDead(Myself)
 !StateCheck([PC],STATE_SLEEPING)
 CombatCounter(0)
 !See([ENEMY])
@@ -346,7 +346,7 @@ END
 IF
 Global("X3WingsQuest","GLOBAL",4)
 See([PC])
-!InParty(Myself)
+!InPartyAllowDead(Myself)
 !StateCheck([PC],STATE_SLEEPING)
 CombatCounter(0)
 !See([ENEMY])
