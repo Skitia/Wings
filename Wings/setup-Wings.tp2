@@ -4,11 +4,25 @@ BACKUP ~Wings/backup~
 AUTHOR ~Coutelier (Original: mail@coutelier.org.uk) & Skitia (Later Versions: skitias-stories.com/contact)~
 
 // --------------------------------------------
-// BG2 Wings v1.02
+// BG2 Wings v1.03
 // --------------------------------------------
 
 // Language
 AUTO_TRA ~Wings/tra/%s~
+
+ALWAYS
+ACTION_IF (GAME_IS ~eet~) BEGIN
+  OUTER_SET bg2_chapter = 12
+END ELSE BEGIN
+  OUTER_SET bg2_chapter = 0
+END
+OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+  OUTER_SET bg2_chapter = bg2_chapter + 1
+  OUTER_SPRINT name_source ~bg2_chapter_%i%~
+  OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+END
+
+END
 
 LANGUAGE 
          ~English~
