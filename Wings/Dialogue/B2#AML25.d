@@ -139,9 +139,9 @@ END
 IF ~~ THEN BEGIN 10
   SAY @23
   IF ~True()~ THEN EXIT
-  IF ~Global("chapter","GLOBAL",8)~ THEN GOTO 21
-  IF ~Global("chapter","GLOBAL",9)~ THEN GOTO 22
-  IF ~Global("chapter","GLOBAL",10)~ THEN GOTO 23
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_8%)~ THEN GOTO 21
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_9%)~ THEN GOTO 22
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_10%)~ THEN GOTO 23
 END
 
 IF ~~ THEN BEGIN 11

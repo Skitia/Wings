@@ -257,16 +257,16 @@ END
 
 IF ~~ THEN BEGIN 17
   SAY @54
-  IF ~Global("chapter","GLOBAL",1)
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_1%)
 AreaType(DUNGEON)~ THEN GOTO 18
-  IF ~Global("chapter","GLOBAL",1)
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_1%)
 !AreaType(DUNGEON)~ THEN GOTO 19
-  IF ~Global("chapter","GLOBAL",2)~ THEN GOTO 20
-  IF ~Global("chapter","GLOBAL",3)~ THEN GOTO 21
-  IF ~Global("chapter","GLOBAL",4)~ THEN GOTO 22
-  IF ~Global("chapter","GLOBAL",5)~ THEN GOTO 23
-  IF ~Global("chapter","GLOBAL",6)~ THEN GOTO 24
-  IF ~Global("chapter","GLOBAL",7)~ THEN GOTO 25
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_2%)~ THEN GOTO 20
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_3%)~ THEN GOTO 21
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_4%)~ THEN GOTO 22
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_5%)~ THEN GOTO 23
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_6%)~ THEN GOTO 24
+  IF ~Global("chapter","GLOBAL",%bg2_chapter_7%)~ THEN GOTO 25
 END
 
 IF ~~ THEN BEGIN 18

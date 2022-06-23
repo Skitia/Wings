@@ -917,13 +917,13 @@ CombatCounter(0)
   IF ~~ THEN REPLY @222 GOTO B2#AerW4a
   IF ~~ THEN REPLY @223 GOTO B2#AerW4b
   IF ~OR(2)
-Global("chapter","GLOBAL",2)
-Global("chapter","GLOBAL",3)~ THEN REPLY @224 GOTO B2#AerW4c
+Global("chapter","GLOBAL",%bg2_chapter_2%)
+Global("chapter","GLOBAL",%bg2_chapter_3%)~ THEN REPLY @224 GOTO B2#AerW4c
   IF ~OR(4)
-Global("chapter","GLOBAL",4)
-Global("chapter","GLOBAL",5)
-Global("chapter","GLOBAL",6)
-Global("chapter","GLOBAL",7)~ THEN REPLY @224 GOTO B2#AerW4d
+Global("chapter","GLOBAL",%bg2_chapter_4%)
+Global("chapter","GLOBAL",%bg2_chapter_5%)
+Global("chapter","GLOBAL",%bg2_chapter_6%)
+Global("chapter","GLOBAL",%bg2_chapter_7%)~ THEN REPLY @224 GOTO B2#AerW4d
 END
 
 IF ~~ THEN BEGIN B2#AerW4a
@@ -991,13 +991,13 @@ IF ~~ THEN BEGIN B2#AerW4k
   SAY @247
    = @248
   IF ~OR(2)
-Global("chapter","GLOBAL",2)
-Global("chapter","GLOBAL",3)~ THEN GOTO B2#AerW4o
+Global("chapter","GLOBAL",%bg2_chapter_2%)
+Global("chapter","GLOBAL",%bg2_chapter_3%)~ THEN GOTO B2#AerW4o
   IF ~OR(4)
-Global("chapter","GLOBAL",4)
-Global("chapter","GLOBAL",5)
-Global("chapter","GLOBAL",6)
-Global("chapter","GLOBAL",7)~ THEN GOTO B2#AerW4p
+Global("chapter","GLOBAL",%bg2_chapter_4%)
+Global("chapter","GLOBAL",%bg2_chapter_5%)
+Global("chapter","GLOBAL",%bg2_chapter_6%)
+Global("chapter","GLOBAL",%bg2_chapter_7%)~ THEN GOTO B2#AerW4p
 END
 
 IF ~~ THEN BEGIN B2#AerW4l
