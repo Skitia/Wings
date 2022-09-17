@@ -39,12 +39,12 @@ EXIT
 
 CHAIN X3WTRent T.3 
 @11 
-DO ~AddJournalEntry(@10003,QUEST)~ 
+DO ~AddJournalEntry(@10003,QUEST)EscapeAreaMove("AR0022",342,375,SE)~ 
 EXIT 
 
 CHAIN X3WTRent T.4
 @13
-DO ~AddJournalEntry(@10003,QUEST)~ 
+DO ~AddJournalEntry(@10003,QUEST)EscapeAreaMove("AR0022",342,375,SE)~ 
 EXIT 
 
 CHAIN IF ~Global("X3WingsQuest","GLOBAL",7)!Global("FreeSlaves","GLOBAL",1)~ THEN X3WTrent NotReady 

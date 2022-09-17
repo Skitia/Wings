@@ -47,7 +47,7 @@ CHAIN MazzyJ Deal
 END 
 ++ @15 DO ~TakePartyItem("X3WGEM")TakePartyItem("X3WRod")TakePartyItem("X3WArt")~ EXTERN X3WPrax Deal
 ++ @16 EXTERN X3WPrax SeeTrent
-++ @17 EXTERN X3WPrax Deal 
+++ @17 EXTERN X3WPrax NoDeal 
 
 CHAIN X3WPrax SeeTrent 
 @18 
@@ -66,7 +66,7 @@ EXIT
 
 CHAIN X3WPrax NoDeal
 @21
-DO ~ActionOverride("X3WLara",Enemy())CreateItem("X3WArt",1,1,1)Enemy()~
+DO ~ActionOverride("X3WLara",Enemy())Enemy()~
 EXIT 
 
 CHAIN X3WPrax TrentDeadTrade
