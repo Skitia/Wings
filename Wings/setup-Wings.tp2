@@ -4,7 +4,7 @@ BACKUP ~Wings/backup~
 AUTHOR ~Coutelier (Original: mail@coutelier.org.uk) & Skitia (Later Versions: skitias-stories.com/contact)~
 
 // --------------------------------------------
-// BG2 Wings v1.04
+// BG2 Wings v1.05
 // --------------------------------------------
 
 // Language
@@ -21,6 +21,7 @@ OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
   OUTER_SPRINT name_source ~bg2_chapter_%i%~
   OUTER_SET EVAL ~%name_source%~ = bg2_chapter
 END
+
 
 END
 
@@ -42,13 +43,13 @@ COPY	"%MOD_FOLDER%/Spells/X3WSPL.spl" override
 	SAY NAME2 @47
 	SAY 0x50 @48
 // Compiling dialogue...
-COMPILE ~Wings/dialogue/B2#Aerie.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/B2#Aerie.d~
 USING   ~Wings/tra/%s/B2#Aerie.tra~
 COMPILE ~Wings/dialogue/B2#Banters.d~
 USING   ~Wings/tra/%s/B2#Banters.tra~
 COMPILE ~Wings/dialogue/B2#Lilian.d~
 USING   ~Wings/tra/%s/B2#Lilian.tra~
-COMPILE ~Wings/dialogue/B2#Raptair.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/B2#Raptair.d~
 USING   ~Wings/tra/%s/B2#Raptair.tra~
 COMPILE ~Wings/dialogue/B2#Tira.d~
 USING   ~Wings/tra/%s/B2#Tira.tra~
@@ -64,11 +65,11 @@ COMPILE ~Wings/dialogue/B2#AML25.d~
 USING   ~Wings/tra/%s/B2#AML25.tra~
 COMPILE ~Wings/dialogue/B2#Artist.d~
 USING   ~Wings/tra/%s/B2#Artist.tra~
-COMPILE ~Wings/dialogue/X3WLara.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/X3WLara.d~
 USING   ~Wings/tra/%s/X3WLara.tra~
 COMPILE ~Wings/dialogue/X3WLar25.d~
 USING   ~Wings/tra/%s/X3WLar25.tra~
-COMPILE ~Wings/dialogue/X3WTrent.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/X3WTrent.d~
 USING   ~Wings/tra/%s/X3WTrent.tra~
 COMPILE ~Wings/dialogue/X3WMer.d~
 USING   ~Wings/tra/%s/X3WMer.tra~
@@ -76,7 +77,7 @@ COMPILE ~Wings/dialogue/X3WFML.d~
 USING   ~Wings/tra/%s/X3WFML.tra~
 COMPILE ~Wings/dialogue/X3WML.d~
 USING   ~Wings/tra/%s/X3WML.tra~
-COMPILE ~Wings/dialogue/X3WPrax.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/X3WPrax.d~
 USING   ~Wings/tra/%s/X3WPrax.tra~
 COMPILE ~Wings/dialogue/X3WRL.d~
 USING   ~Wings/tra/%s/X3WRL.tra~
@@ -84,9 +85,9 @@ COMPILE ~Wings/dialogue/X3WRap25.d~
 USING   ~Wings/tra/%s/X3WRap25.tra~
 COMPILE ~Wings/dialogue/X3WAer25.d~
 USING   ~Wings/tra/%s/X3WAer25.tra~
-COMPILE ~Wings/dialogue/X3WPM.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/X3WPM.d~
 USING   ~Wings/tra/%s/X3WPM.tra~
-COMPILE ~Wings/dialogue/Merchant.d~
+COMPILE EVALUATE_BUFFER ~Wings/dialogue/Merchant.d~
 USING   ~Wings/tra/%s/Merchant.tra~
 // Scripts
   EXTEND_TOP ~AR1100.bcs~ ~Wings/Scripts/AR1100.baf~
