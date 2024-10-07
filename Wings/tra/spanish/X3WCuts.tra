@@ -1,0 +1,44 @@
+//Cutscene 1a
+@0 = ~Ustedes dos recibieron *mucho* dinero para mantener a salvo nuestro comercio de esclavos. Suficiente para ustedes y sus familias. Así que les preguntaré por última vez, ¿qué pasó con la Corona de Cobre?~
+@1 = ~¡No lo sé, de verdad! Nos pagaste y nos mantuvimos fuera de ese negocio. No es culpa nuestra que unos aventureros pensaran en liberar a Hendak y dejarle dirigir el lugar.~
+@2 = ~... Tienes razón, por supuesto. Estoy equivocado. No tienes nada que ver con esto.~
+@3 = ~Entonces, ¿me perdonarás y me dejarás volver con mi familia?~
+@4 = ~Te veremos entregado en una sola pieza.~
+@5 = ~Regresemos Señor Praxis y advirtámosle que Hendak se ha metido en la cabeza ideas descabelladas sobre la libertad y la propiedad de negocios y necesitará... bueno, ¿quién es?~
+//Cutscene 1b
+@6 = ~¿Qué demonios ha pasado? Les pagamos a ustedes dos imbéciles una buena moneda para mantener ese complejo seguro. Tomará * semanas * para recuperar nuestras pérdidas.~
+@7 = ~¡No lo sé! ¡Cogimos la moneda y no hicimos preguntas! No nos dijeron nada acerca de detener a los aventureros de entrar en el lugar.~
+@8 = ~...Tienes razón, por supuesto. Nunca dije una palabra sobre eso. Me equivoqué al poner mi ira en ustedes dos y matar a su camarada.~
+@9 = ~Entonces... ¿me dejarás ir? Mi familia debe estar muy preocupada.~
+@10 = ~Idiota. Esto debe ser obra de Hendak o de los aventureros que lo liberaron. De cualquier manera, Hendak tendrá que ser tratado con rapidez y bueno ahora, ¿quién es este?~
+//A tiempo
+@11 = ~Nunca pensé que volverías al complejo, Praxis..~
+@12 = ~No me conoces, espía. Y mis razones no son de tu incumbencia.~
+@13 = ~Sólo vive porque puede traerme a alguien, y sólo si viene. Mételo en una celda. Lo mataré más tarde.~
+//Raptair Lines
+@14 = ~¡No puedes tratar así a un Deva!~
+@15 = ~Cállate y muévete.~
+//Late 
+@16 = ~Tardan demasiado. Estoy cansado de esto. Tu plan está fallando, Laravyl.~
+@17 = ~Un poco más de paciencia, mi señor. No es cuestión de si, sino de cuándo. Conozco bien a mi presa.~
+@18 = ~Y aún así los subestimas, Laravyl. ¡No son tontos!~
+@19 = ~No sirves para nada si no están aquí, espía Trent. Para nada.~
+@20 = ~¿Fue prudente, Praxis? Tiraste nuestro pieza de control.~
+//Doesn't have rod branch.
+@21 = ~No me cuestiones, Laravyl. Siempre.~
+@22 = ~Pero tiene razón, Lord Praxis. Esto sólo los enfurecerá.~
+@23 = ~¿Tengo que poner más ejemplos?~
+@24 = ~No, Señor Praxis. ¿Cuál es el plan ahora?~
+@25 = ~No hace falta. Ellos llegan.~
+//Does have Rod branch
+@26 = ~No eran más que sujetos de prueba para mi nuevo don. Podemos encontrar otros.~
+@27 = ~Pero tiene razón, Señor Praxis. ¿Por qué vendrían si no tienen razón para hacerlo ahora?~
+@28 = ~Porque si no lo hacen, *tú* serás el ejemplo. No me preguntes más.~
+@29 = ~Tal vez la venganza los motive. Pero si no, ¿cuál es el plan, Praxis?~
+//Concludes with @25
+//On Time Branch
+@30 = ~Más vale que tu plan funcione, Laravyl. Mi paciencia se está agotando.~
+@31 = ~Sólo un poco más, Lord Praxis. Prometo que valdrá la pena.~
+@32 = ~Ya lo veremos. Porque aquí están.~
+//Finale Cutscene 
+@33 = ~Ellos decían-~

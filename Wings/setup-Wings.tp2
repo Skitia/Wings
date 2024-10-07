@@ -34,9 +34,13 @@ LANGUAGE
          ~russian~
          ~Wings/tra/russian/WingsSetup.tra~
 LANGUAGE 		 
+         ~Spanish (alaisFcZ)~
+         ~spanish~
+         ~Wings/tra/spanish/WingsSetup.tra~	
+LANGUAGE 		 
          ~Simplified Chinese(by Lzw104522773)~
          ~schinese~
-         ~Wings/tra/schinese/WingsSetup.tra~
+         ~Wings/tra/schinese/WingsSetup.tra~		 
 // Component setup
 BEGIN ~Wings for BG2:EE~
 
@@ -183,6 +187,7 @@ COMPILE ~Wings/Scripts/X3WMer.baf~
 COMPILE ~Wings/Scripts/X3WSpy.baf~
 COMPILE ~Wings/Scripts/X3WCL.baf~
 COMPILE ~Wings/Scripts/X3WML.baf~
+COMPILE ~Wings/Scripts/X3WFML.baf~
 COMPILE ~Wings/Scripts/X3WCut01.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
 COMPILE ~Wings/Scripts/X3WCut02.baf~ USING   ~Wings/tra/%s/X3WCuts.tra~
 COMPILE ~Wings/Scripts/X3WCut03.baf~

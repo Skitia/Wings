@@ -198,9 +198,9 @@ Laravyl~
 @10000 = ~Wing Taker~
 @10001 = ~Wing Taker
 
-We encountered slavers murdering a few Althkata Guards who had apparently not assisted in preventing Lehtinan's demise. Seeing our approach, their leader, an elf named Laravyl, sent her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
-@10002 = ~We encountered slavers murdering a few Althkata Guards who had apparently not assisted in preventing Lehtinan's demise. Their leader, an elf named Laravyl was responsible for shooting Aerie down from the sky, and dispatched her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
-@10003 = ~A mysterious man asked of us to assist Hendak with liberating the slave compound in the Slum's District. If we do this, he'll enlist in our help further in taking down the heads of the slaver operation here in Althkata. He will be in the Crooked Crane when we are done.~
+We encountered slavers murdering a few Athkatla Guards who had apparently not assisted in preventing Lehtinan's demise. Seeing our approach, their leader, an elf named Laravyl, sent her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
+@10002 = ~We encountered slavers murdering a few Athkatla Guards who had apparently not assisted in preventing Lehtinan's demise. Their leader, an elf named Laravyl was responsible for shooting Aerie down from the sky, and dispatched her men at us before departing. I imagine if we continue being a thorn to them, we may yet meet her again.~
+@10003 = ~A mysterious man asked of us to assist Hendak with liberating the slave compound in the Slum's District. If we do this, he'll enlist in our help further in taking down the heads of the slaver operation here in Athkatla. He will be in the Crooked Crane when we are done.~
 @10004 = ~A man named Trent has tasked us with retrieving an artifact rod allowing him to easily enslave others. A merchant named Arben in the promenade has possession. If we can be convincing enough, we can keep it from them. He will be in the Crooked Crane when we are done.~
 @10005 = ~Trent is dead. Without his aid, we're unlikely to ever get close to fully taking down the slave operation.~
 @10006 = ~Arben is reluctant to work with us without some assurances that we are truly here to help. He's tasked us with getting a portal lens from one of Praxis's highest ranking slavers. Once we have it, we can return.~
@@ -215,10 +215,10 @@ We encountered slavers murdering a few Althkata Guards who had apparently not as
 @10015 = ~We managed to get the gem before the slavers could get their hands on it. We should return to Trent.~
 @10016 = ~The slavers have taken Trent! It is only a matter of time before they kill him or worse. We need to find where he was taken.~
 @10017 = ~Trent is gone, taken to be executed by Lord Praxis in the slave compound. This is but another Laravyl game, to have us come to Praxis right where he wants us. But if we delay, it is Trent's life on the line.~
-@10018 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. He made a final request of us to secure the rod and keep it safe.~ 
-@10019 = ~Though Laravyl escaped, Lord Praxis is dead, dealing a huge blow to Althkata's slavery. A pity Trent is not alive to celebrate with, though at least his death was not in vain.~
-@10020 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. At our request, he let us keep the rod artifact, for our own use.~
-@10021 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Althkata's slavery ring. He took the rod artifact and vowed to keep it out of any vile hands.~
+@10018 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Athkatla's slavery ring. He made a final request of us to secure the rod and keep it safe.~ 
+@10019 = ~Though Laravyl escaped, Lord Praxis is dead, dealing a huge blow to Athkatla's slavery. A pity Trent is not alive to celebrate with, though at least his death was not in vain.~
+@10020 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Athkatla's slavery ring. At our request, he let us keep the rod artifact, for our own use.~
+@10021 = ~Trent is overjoyed that Lord Praxis is dead, and though he fears Laravyl may try to have her revenge, we've dealt a severe blow to the leadership and structure of Athkatla's slavery ring. He took the rod artifact and vowed to keep it out of any vile hands.~
 @10022 = ~Arben is dead. Wherever the artifact rod is now, we'll never know now.~
 @10023 = ~We've given the rod to Trent, who is now asking us to to retrieve a gem that is required to insert into it in order for the rod to work. He believes it is buried in one of the tombs on the west side of the Graveyard District. If we don't hurry, it may not be there when we arrive.~
 @10024 = ~We've retrieved the gem and it fused right into the rod. We could use this against Praxis. We should return to Trent right away.~
@@ -233,3 +233,4 @@ We encountered slavers murdering a few Althkata Guards who had apparently not as
 @40002 = ~After asking several merchants, they suggested we speak to an individual named Argin Olly. They last heard they were about the Umar Hills, likely in the inn.~
 @40003 = ~Argin Olly not only claimed to have a hamster, and not just a female hamster, but a female miniature-giant-space hamster. While I hardly believe it, he says he will bring her just outside of the Ranger's Cabin in a day if we are interested in having them meet Boo.~
 @40004 = ~They turned out to be no good rotten smugglers, hoping to take Boo and send him to a hamster fighting ring of all things. While no mate was ever found, at least other hamster victims are saved from this crazy gnome.~
+

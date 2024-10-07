@@ -1,0 +1,138 @@
+@0    = ~¡Algo... algo está pasando definitivamente!~
+
+@1    = ~Aerie?!~
+
+@2    = ~¡La Joya! Yo... creo que lo he activado...~
+
+@3    = ~*Ante ti hay un animal parecido a un pájaro, cada una de sus plumas en llamas. Observas cómo Aerie, con el fuego reflejado en sus ojos, alarga la mano para tocarlo.*~
+
+@4    = ~¡Aerie, aléjate de esa cosa!~
+
+@5    = ~*Aerie no parece oírte, sino que jadea de placer cuando su mano atraviesa inofensivamente las llamas y empieza a acariciar a la criatura. Ronronea.*~
+
+@6    = ~Está bien, <CHARNAME>. No... no duele. No percibo hostilidad en absoluto.~
+
+@7    = ~Aun así Aerie, fue un riesgo tonto de tomar.~
+
+@8    = ~¿De qué se trata?~
+
+@9    = ~¿Era una especie de huevo? ¿Ha salido del cascarón? Tal vez piensa que eres su madre...~
+
+@10   = ~Lo siento, <CHARNAME>, p-pero yo sólo... Yo sólo sabía, de alguna manera, que no me haría daño...~
+
+@11   = ~Es precioso...~
+
+@12   = ~Creo que es más como si hubiera renacido. Es-es...~
+
+@13   = ~... ¿qué eres?~
+
+@14   = ~*La criatura se vuelve de repente y ladea la cabeza hacia Aerie.*~
+
+@15   = ~¿Señora?~
+
+@16   = ~¡Puedes hablar!~
+
+@17   = ~Evidentemente, sí...~
+
+@18   = ~Pero en realidad no ha respondido a mi pregunta: ¿qué es realmente?~
+
+@19   = ~Soy... fuego. Una llama que arde por toda la eternidad, nunca se apaga del todo, siempre renace.~
+
+@20   = ~Realmente sólo esperaba un nombre...~
+
+@21   = ~Eso depende de ti. ¿Cómo me llamarías?~
+
+@22   = ~He... He leído sobre el Fénix. Una criatura de llamas que, siempre que cae, resurge de sus cenizas.~
+
+@23   = ~Pero... ya no eres el mismo, ¿verdad?~
+
+@24   = ~Fui creado, hace mucho tiempo, para servir a un amo humano. Un gran mago, sin embargo, se sentía solo y deseaba un compañero.~
+
+@25   = ~Esa fue mi primera vida. He tenido muchas desde entonces, nacido una y otra vez para servir a alguien nuevo, y he recibido muchos nombres.~
+
+@26   = ~Ya veo. Entonces, por ahora, te llamaré Ammale. Es élfico. Significa pájaro amarillo.~
+
+@27   = ~Como desee, señora.~
+
+@28   = ~¿Señora? ¿Por qué me llamas así?~
+
+@29   = ~Tú tienes la gema. Tú eres la dueña. En cuanto la tocaste, sentí tu energía y tu conexión con el tejido. Al absorber una parte de ella en mí, renací.~
+
+@30   = ~No te preocupes. El proceso te perjudica.~
+
+@31   = ~Entonces, ¿estabas... alimentándote de mí? ¿Como un niño que se alimenta de sus padres?~
+
+@32   = ~En cierto modo, sí.~
+
+@33   = ~Y ahora, estamos unidos. Existo para servirte.~
+
+@34   = ~Pero, tú... tú no tienes que servir a nadie, ¿verdad? Podrías ser libre, si quisieras.~
+
+@35   = ~Existo para servir. No puedo existir de otra manera.~
+
+@36   = ~No piense que es una forma de esclavitud, ama. Es mi propósito. Y contigo, habiendo visto dentro de tu alma, es un contrato que acepto voluntariamente.~
+
+@37   = ~Nos prestaremos mutuamente nuestra energía, y cada uno se hará más fuerte al compartirla. Mi poder se convertirá en el tuyo, y a través de ti volveré a vivir.~
+
+@38   = ~Yo...~
+
+@39   = ~Muy bien, Ammale. Si... si estás seguro de que esto es lo que quieres, entonces... Te aceptaré como mi familiar.~
+
+@40   = ~¿Está... está bien?~
+
+@41   = ~Muy bien, señora.~
+
+@42   = ~*La ardiente criatura con forma de pájaro se echa hacia atrás cuando te acercas, siseando mientras su ardiente mirada se fija en ti.*~
+
+@43   = ~¡Ammale! ¡Para!~
+
+@44   = ~¡Estos son mis amigos! ¡Espero que los trates con el mismo respeto que a mí!~
+
+@45   = ~...¿por favor?~
+
+@46   = ~Como ordene, señora.~
+
+@47   = ~¡Hee! ¡Ven aquí!~
+
+@48   = ~Ammale, ¿tienes algún consejo para nosotros?~
+@49   = ~¿Estás bien, Ammale?~
+
+@50   = ~Lo siento. Sigamos adelante.~
+
+@51   = ~Creo que deberías volver a tu gema, por ahora. Será más seguro para ti.~
+
+@52   = ~*Aerie empieza a hacerle cosquillas bajo el cuello. Ammale empieza a ronronear inmediatamente, rodando sobre su espalda en el aire.*~
+
+@53   = ~¿Te encuentras bien, Ammale?~
+
+@54   = ~He vivido muchas vidas, señora, y he aprendido muchas cosas.~
+
+@55   = ~En este momento, mi consejo sería actuar con cautela.~
+
+@56   = ~Un lugar llamado los barrios bajos es donde debes ir.~
+
+@57   = ~Aún deseas ayudar a encontrar a esta chica secuestrada, ¿verdad? En Amn, el camino a cualquier parte debe abrirse con monedas.~
+
+@58   = ~Te preocupa ayudar a esta gente sin escrúpulos, ¿verdad? Sin embargo, si desea acelerar el rescate de este inocente de los magos, entonces este es el camino que debe seguir.~
+
+@59   = ~Detén al hechicero y salva a la chica. Para eso has venido, ¿verdad?~
+
+@60   = ~Aquí estás bastante alejado de tu entorno natural. Concéntrate en la razón por la que estás aquí y en lo que hay que hacer, y estoy seguro de que podrás soportar lo que te espera.~
+
+@61   = ~Habría pensado que es obvio lo que debes hacer. Debes encontrar la ciudad de los elfos.~
+
+@62   = ~Debes ayudar a destruir al hechicero de una vez por todas.~
+
+@63   = ~No tengo ninguna queja, señora.~
+
+@64   = ~Nada digno de tus oídos, en cualquier caso.~
+
+@65   = ~Sin embargo, pensé que podría haber sentido un escalofrío hace un rato.~
+
+@66   = ~Mis heridas son graves, ama, pero no te preocupes. La muerte es sólo una parte del interminable ciclo de renacimiento.~
+
+@67   = ~Estoy en plena forma, señora. En llamas, de hecho.~
+
+@68   = ~Pocas veces mi vida ha sido tan estimulante.~
+
+@69   = ~Espero tus órdenes.~

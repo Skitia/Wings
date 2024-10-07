@@ -1,0 +1,235 @@
+@0    = ~Alas~
+@1    = ~Un par de alas.~
+@2    = ~Martillo irónico~
+@3    = ~Una vez empuñado con confianza en la batalla contra un golem. Por desgracia, el golem no se hizo añicos al ser golpeado. En su lugar, las vibraciones subieron por el brazo de su portador y destrozaron todos los huesos de su cuerpo.~
+@4    = ~Palo de bofetada~
+@5    = ~Abofeteas cosas con ella.~
+@6    = ~Asta de la parodia~
+@7    = ~Es muy viejo y largo y como un hacha con un gran mango y un poco puntiagudo.~
+@8    = ~Yelmo hiperbólico~
+@9    = ~Sencillamente, el timón más asombroso jamás concebido por seres mortales. Realmente increíble, fantástico y tan inverosímilmente soberbio que las meras palabras no podrían ni siquiera empezar a hacer justicia a su pura y brillante maravilla~
+@10   = ~Armadura anecdótica~
+@11   = ~Así que allí estaba yo, caminando hacia casa, cuando de repente esos Ladrones de Sombras saltan y me matan. Bueno", pensé mientras mi esencia vital se escurría por las alcantarillas, "eso no ha estado muy bien". Fue entonces cuando se me ocurrió la idea de llevar una armadura como esta, pero por supuesto ya era demasiado tarde.~
+@12   = ~Escudo del sarcasmo~
+@13   = ~Nah. You'd rather let the arrows go through you, right?~
+@14   = ~Espada de la Sátira~
+@15   = ~El arma perfecta para derrocar a reyes, nobles, políticos y a cualquiera que se considere irreprochable.~
+@16   = ~Corazón de Ammale~
+@17   = ~Esta gema contiene el alma de la pequeña criatura parecida al fénix que Aerie ha bautizado como Ammale (Pájaro Amarillo). Actualmente descansa en su interior a la espera de ser invocado.
+
+ESTADÍSTICAS:
+
+Puntos de golpe: 24
+Clase de Armadura 6
+Resistencia Mágica: 10%
+
+Combate: 2 ataques por asalto a 13 THAC0 para 1d2 de daño (+1d3 de daño de fuego).
+Habilidades especiales:
+100% de resistencia al fuego.
+50% de resistencia al daño cortante, perforante y de proyectiles.
+Puede lanzar Bola de Fuego y Escudo de Fuego Rojo una vez al día, y Agannazar's Scorcher y Flame Arrow dos veces al día.
+Regenera 1 PS por ronda.
+Inmune al drenaje de nivel, al sueño y a la petrificación.
+
+Peso: 1~
+@18 = ~Esta gema contiene el alma de la pequeña criatura parecida al fénix que Aerie ha llamado Ammale (Pájaro Amarillo). Si Ammale cae en combate, siempre volverá a esta gema para restaurarse y renacer.
+
+Peso: 1~
+@19 = ~Gema Misteriosa~
+@20 = ~Una gema misteriosa, caliente al tacto, y palpitante con una extraña energía.
+
+Peso: 1~
+@21 = ~Esta gema contiene el alma de la pequeña criatura parecida al fénix que Aerie ha bautizado como Ammale (Pájaro Amarillo). Actualmente descansa en su interior a la espera de ser invocada.
+
+ESTADÍSTICAS:
+
+Puntos de golpe: 48
+Clase de Armadura 3
+Resistencia Mágica: 25%
+
+Combate: 2 ataques por asalto a 8 THAC0 para 1d2 de daño (+1d3 de daño de fuego).
+Habilidades especiales:
+100% de resistencia al fuego.
+60% de resistencia al daño cortante, perforante y de proyectiles.
+Puede lanzar Bola de fuego y Escudo de fuego rojo una vez al día, y Agannazar's Scorcher y Flame Arrow dos veces al día.
+Aura de Muerte Flamígera, Fuego Solar y Tormenta de Fuego una vez al día.
+Regenera 1 PS por ronda.
+Inmune a drenaje de nivel, sueño y petrificación.
+
+Peso: 1~
+@22 = ~Plumas de Acero~
+@23 = ~Esta cota de malla élfica fue encargada por una espadachina que supervisó personalmente cada aspecto de su creación, probando cada nueva faceta para asegurarse de que cumplía sus precisos requisitos y altos estándares. Iba a llevarla a la batalla contra una horda de orcos, y cuando llegó el momento, su meticulosidad se vio recompensada. Aunque las batallas no se ganan con guerreros individuales, muchos orcos cayeron bajo su espada, y la ligereza de la cota y otras mejoras le permitieron apoyar mejor a sus aliados en el campo de batalla. Hay quien dice que, mucho después de su muerte, una parte del alma de la espadachina permanece en la armadura, transmitiendo al portador una fracción de su propia habilidad y experiencia.
+
+ESTADÍSTICAS:
+
+Clase de Armadura: 2(0vs. acuchillamiento, 4vs. aplastamiento)
+Resistencia mágica: 10%.
+Mejora la velocidad de invocación en un 4
+
+Peso: 8~
+@24 = ~Raptair~
+@25 = ~Lilian~
+@26 = ~Philip~
+@27 = ~Kathy~
+@28 = ~Tira~
+@29 = ~Joe~
+@30 = ~Caballero Blanco~
+@31 = ~Caballero Negro~
+@32 = ~Caballero Verde~
+@33 = ~Caballero Rosa~
+@34 = ~Ammale~
+@35 = ~Fénix~
+@36 = ~Artista~
+//Versión 1.0 Adiciones 
+@37 = ~Laravyl~
+@38 = ~Arco Tuigan élfico~
+@39 = ~Este arco es una mezcla de las tradiciones tuigan y élfica de tiro con arco. Sus orígenes se remontan al esclavo favorito de Laravyl, un guerrero tuigan que se maravillaba en los fosos de esclavos de la Corona de Cobre de Athkata. A cambio de su libertad, ella le sonsacó los secretos de su trabajo con el arco. Se desconoce si cumplió su palabra, pero el poderoso arco es muy real en sus manos.
+  
+ESTADÍSTICAS:
+
+Habilidades de combate:
+- 3 disparos por asalto
+
+THAC0: +4
+Daño: +4 (misil)
+Factor de velocidad: 5
+Tipo de competencia: Arco corto
+Tipo: Arco corto A dos manos
+Requiere
+ 6 Fuerza
+
+Peso: 2~
+@40 = ~Flecha de Laravyl~
+@41 = ~Cadena de Laravyl~
+@42 = ~La cadena de Laravyl fue encargada especialmente para un propósito singular: batirse en duelo con otros arqueros, en particular con aquellos que pudieran intentar detener sus operaciones esclavistas a distancia. Esta armadura sin duda ayudaba, ya que muy pocos asaltantes eran capaces de rescatar a los esclavos de los que ella era responsable.
+
+ESTADÍSTICAS:
+
+Habilidades equipadas:
+- 25% Resistencia a proyectiles
+- Abrir cerraduras: -5
+- Encontrar trampas: -5
+- Robar: -20
+- Movimiento silencioso: -10
+- El lanzamiento de hechizos no está desactivado
+
+Clase de Armadura: 0 (-2 vs. cuchillada, 2 vs. aplastamiento)
+Requiere
+ 5 Fuerza
+
+Peso: 8~
+@43 = ~El Ninjato del Gladiador~
+@44 = ~El esclavo favorito de Lord Praxis sólo era conocido como El Gladiador. Procedente de Kara-tur, el gladiador nunca perdió una batalla y fue su luchador de premio durante muchos años. Viendo un día su oportunidad, volvió su espada hacia su amo cuando un día fue a felicitarle en la arena. Al final, su piedad fue su perdición, ya que Lord Praxis le derrotó fingiendo rendirse, sólo para apuñalarle por la espalda y llevarse su espada como trofeo.
+
+ESTADÍSTICAS:
+
+Probabilidad de Crítico: +5%
+THAC0: +3
+Daño 1d8+3 (cortante)
+Factor de velocidad: 1
+Tipo de competencia: Cimitarra/Wakizashi/Ninjato
+Tipo: A una mano
+Requiere:
+ 6 Fuerza
+
+Peso: 2~
+@45 = ~Señor Praxis~
+@46 = ~Trent~
+@47 = ~Vara de Paralisis~
+@48 = ~Se rumorea que es una creación del mago Bigby, esta vara utiliza su gema como catalizador para infligir una poderosa palabra de mando a cualquier objetivo envuelto en su llama blanca, ya sea amigo o enemigo, dejándolo inmóvil durante varias rondas. Sólo las personas fuertes pueden resistirse a la palabra, y el usuario debe conocer su propia fuerza interior si se atreve a ponerse en el camino de las llamas cuando utiliza la vara. Una vez utilizada, requiere un poco de tiempo para cargarse para otro uso.
+STATISTICS:
+
+Charge abilities:
+- Power Word Stun 
+  Special: Impacts target and any other nearby targets. 
+  Range: 45 meters.
+  
+Peso: 5
+~
+@49 = ~Vara de Plata~
+@50 = ~Esta vara de Plata brilla a la luz del sol y resplandece en la oscuridad. Parece haber un pequeño agujero en la varilla donde se podría insertar una gema.~
+@51 = ~Gema Catalizadora~
+@52 = ~Esta gema brilla a la luz del sol y en la oscuridad. Su forma es bastante peculiar, como si estuviera hecha para encajar dentro de otra cosa.~
+@53 = ~Carta~
+@54 = ~Arben,
+Sigues rechazando mis ofertas, así que déjame ofrecerte un último precio: 15.000 de oro por tu Vara. Entiendo que es una reliquia familiar, pero sus habilidades son extremadamente importantes para mi causa.
+Si hay más dudas o incumbencias, puedo enviar a Laravyl a reunirse contigo para aliviar cualquier problema que puedas tener.
+Espero ansiosamente su respuesta.
+
+Lord Praxis~
+@55 = ~Órdenes de Laravyl~
+@56 = ~Capturad a Trent y llevadlo de vuelta al escondite de los esclavos para que pueda ser juzgado delante de Lord Praxis, luego haced que el resto del grupo espere aquí en una emboscada a <CHARNAME> y sus amigos. Incluso si de algún modo os arrollan, vendrán a nosotros de un modo u otro a por su Trento, desesperados por salvarle antes de que Praxis probablemente acabe con su vida.
+
+Laravyl~
+@57 = ~Mercader Arben~
+@58 = ~Slaver~
+@59 = ~Teniente Slaver~
+@60 = ~Soldado Amniano~
+@61 = ~Ring of the Mystic Theurge~ 
+@62 = ~Los Mystic Theurge son conocidos por su gran necesidad de escudriñar todo el conocimiento mágico, sin importar su paradigma. Este anillo captura la esencia de esa filosofía, facilitando la retención de magia arcana y divina para usarla cuando sea necesario.
+
+ESTADÍSTICAS:
+
+Habilidades equipadas:
+- Puede memorizar un cuarto y quinto conjuro divino y arcano extra.
+
+Peso: 0~
+@63 = ~Lente de Portal~
+@64 = ~Una lente de portal se usa para abrir portales para viajar a traves del primo. Pocos saben hacer estas lentes, y a veces tienen efectos secundarios peligrosos, como acabar en un lugar no deseado.
+
+ESTADÍSTICAS:
+
+Peso: 0~
+@65 = ~Rata~ //Espía de Escena Cortada
+@66 = ~Carta de Laravyl~ 
+@67 = ~Eres un poco demasiado lento para seguirme el ritmo, <CHARNAME>. ¿El esclavo sin alas te está haciendo lento como un perezoso? Sigue intentando jugar a este juego conmigo y perderás algo más que una pequeña baratija.
+
+Laravyl~ 
+@68 = ~Esta gema parece carecer de vida, no arroja luz a su alrededor. Parece vacía de magia, pero si es la gema cataylst que buscas, seguramente debe tener algún propósito para la vara.~
+@69 = ~Nota de Laravyl~
+@70 = ~Todavía no has aprendido. Estoy *siempre* por delante de ti. Pero este juego se está volviendo aburrido, y te di una advertencia. Pronto perderás algo muy querido.
+Laravyl~
+@71 = ~La gema se desmorona en tu mano, revelando una carta en su interior.~ 
+@72 = ~Insertas la gema en la varilla, y se funde limpiamente, recreando el artefacto.~
+@73 = ~Ahí están. ¡Córtalos!~
+@74 = ~*Usa la Vara*~
+@75 = ~Argin Olly~
+@76 = ~Guardaespaldas de Olly~
+@10000 = ~Wing Taker~
+@10001 = ~Wing Taker
+
+Nos encontramos con unos esclavistas asesinando a unos cuantos guardias Althkata que, al parecer, no habían ayudado a evitar la muerte de Lehtinan. Al ver que nos acercábamos, su líder, una elfa llamada Laravyl, envió a sus hombres contra nosotros antes de marcharse. Imagino que si seguimos siendo una espina para ellos, puede que volvamos a encontrarnos con ella.~
+@10002 = ~Nos encontramos con unos esclavistas asesinando a unos cuantos guardias Althkata que, al parecer, no habían ayudado a evitar la muerte de Lehtinan. Su líder, una elfa llamada Laravyl, fue la responsable de derribar a Aerie desde el cielo, y despachó a sus hombres contra nosotros antes de marcharse. Imagino que si seguimos siendo una espina para ellos, puede que volvamos a encontrarnos con ella.~
+@10003 = ~Un hombre misterioso nos pidió que ayudáramos a Hendak a liberar el complejo de esclavos en el Distrito de los Barrios Bajos. Si lo hacemos, contará con nuestra ayuda para acabar con los cabecillas de la operación esclavista aquí en Althkata. Estará en la Grúa Torcida cuando hayamos terminado.~
+@10004 = ~Un hombre llamado Trent nos ha encargado recuperar una vara artefacto que le permite esclavizar fácilmente a otros. Un comerciante llamado Arben en el paseo marítimo la tiene en su posesión. Si podemos ser lo suficientemente convincentes, podremos quitársela. Estará en la Grúa Torcida cuando hayamos terminado.~
+@10005 = ~Trent está muerto. Sin su ayuda, es poco probable que lleguemos a acabar con la operación esclavista.~
+@10006 = ~Arben es reacio a trabajar con nosotros sin algunas garantías de que realmente estamos aquí para ayudar. Nos ha encargado conseguir una lente de portal de uno de los esclavistas de más alto rango de Praxis. Una vez que la tengamos, podremos volver a hablar con él.~
+@10007 = ~Hemos conseguido hacernos con la lente del portal, aunque no hemos encontrado rastro de Laravyl. Debemos volver a Arben con lo que encontramos.~
+@10008 = ~Fingiendo ser Laravyl, conseguimos intimidar a Arben para que acceda a darnos la Vara. Hará el intercambio en los barrios bajos, en el lado oeste.~
+@10009 = ~El cobarde de Arben involucró a la guardia de la ciudad. Tendremos que matarlos a todos, y luego tomar la vara del cadáver del comerciante a Trent.~
+@10010 = ~Después de que le diéramos a Arben la lente del portal, nos pidió que se reuniera con él en el extremo oeste de los barrios bajos lo antes posible, prometiendo darnos la vara antes de escapar de la ciudad.~
+@10011 = ~Arben estaba muerto cuando llegamos a los Tugurios, sin duda obra de Laravyl y sus esclavistas. No tenemos más remedio que volver a Trent y entregar la macabra noticia.~
+@10012 = ~¡Parece que Laravyl vuelve a ir un paso por delante de nosotros! Justo cuando logramos reunirnos con Arben, éste fue emboscado y asesinado por Laravyl, que huyó con la vara en su poder junto con la lente que le dimos a Arben. No tenemos más remedio que volver a Trent y entregar la macabra noticia.~
+@10013 = ~Trent nos trajo más información sobre la vara. Dice que necesita una gema insertada en ella para funcionar, que cree que está enterrada en una de las tumbas del lado oeste del Distrito del cementerio. Si no nos damos prisa, puede que no esté allí cuando lleguemos.~
+@10014 = ~¡Nuestra suerte es realmente amarga! La gema era falsa y Laravyl se nos ha vuelto a adelantar. No tenemos más remedio que volver a Trent.~
+@10015 = ~Nos las arreglamos para conseguir la gema antes de que los esclavistas pudieran poner sus manos en ella. Debemos volver a Trent.~
+@10016 = ~¡Los esclavistas se han llevado a Trent! Es sólo cuestión de tiempo antes de que lo maten o algo peor. Tenemos que encontrar donde se lo llevaron.~
+@10017 = ~Trent se ha ido, llevado para ser ejecutado por el Señor Praxis en el complejo de esclavos. Esto no es más que otro juego de Laravyl, para hacernos llegar a Praxis justo donde nos quiere. Pero si nos retrasamos, es la vida de Trent la que está en juego.~
+@10018 = ~Trent está encantado de que el Señor Praxis haya muerto, y aunque teme que Laravyl intente vengarse, hemos asestado un duro golpe al liderazgo y la estructura del círculo de esclavitud de Althkata. Nos hizo una última petición para asegurar la vara y mantenerla a salvo.~ 
+@10019 = ~Aunque Laravyl escapó, el Señor Praxis ha muerto, asestando un duro golpe a la esclavitud de Althkata. Una pena que Trent no esté vivo para celebrarlo, aunque al menos su muerte no fue en vano.~
+@10020 = ~Trent está encantado de que el Señor Praxis haya muerto, y aunque teme que Laravyl intente vengarse, hemos asestado un duro golpe al liderazgo y a la estructura del anillo de esclavitud de Althkata. A petición nuestra, nos dejó quedarnos con el artefacto de la vara, para nuestro propio uso.~
+@10021 = ~Trent está encantado de que el Señor Praxis haya muerto, y aunque teme que Laravyl intente vengarse, hemos asestado un duro golpe al liderazgo y a la estructura del anillo de esclavitud de Althkata. Tomó el artefacto de la vara y juró mantenerlo lejos de cualquier mano vil.~
+@10022 = ~Arben está muerto. Dondequiera que esté la varilla del artefacto ahora, nunca lo sabremos.~
+@10023 = ~Le hemos dado la vara a Trent, que ahora nos pide que recuperemos una gema que hay que insertar en ella para que la vara funcione. Cree que está enterrada en una de las tumbas del lado oeste del Distrito del Cementerio. Si no nos damos prisa, puede que no esté allí cuando lleguemos.~
+@10024 = ~Hemos recuperado la gema y se fusionó con la varilla. Podríamos usar esto contra Praxis. Debemos volver a Trent de inmediato.~
+@20000 = ~Vengador de alas~
+@20001 = ~Por último, nos hemos topado por última vez con la esclavista Laravyl, la elfa que había derribado a Aerie desde el cielo. La derribamos a ella y a todo su grupo, asegurando justicia para todos aquellos a los que había hecho el mal.~
+@30000 = ~Raptair~ 
+@30001 = ~Salvamos a Raptair de los esclavistas. Sorprendentemente por gratitud, estaba dispuesto a encontrar a los padres de Aerie, y promete volver a Aerie cuando tenga noticias.~
+@30002 = ~Salvamos a Raptair de los esclavistas. Apenas estaba agradecido, aunque por haber tratado con él antes, no debería haber esperado otra cosa.~
+@30003 = ~Raptair por fin nos encontró, pero las noticias que pudiera tener nunca se sabrán. Fue asesinado por Laravyl antes de que pudiera decir una palabra.~
+@40000 = ~Amor para Bubu~
+@40001 = ~Por alguna descabellada razón he accedido a buscar otro hámster espacial en Amn preguntando a los comerciantes. No habrá nadie que venda semejante criatura, ¿verdad?~
+@40002 = ~Tras preguntar a varios mercaderes, nos sugirieron hablar con un individuo llamado Argin Olly. La última vez que oyeron que estaban por las Colinas de Umar, probablemente en la posada.~
+@40003 = ~Argin Olly no sólo afirmó tener un hámster, y no sólo un hámster hembra, sino un hámster miniatura-gigante-espacial hembra. Aunque apenas me lo creo, dice que la traerá a las afueras de la Cabaña del Guardabosques en un día si estamos interesados en que se conozcan con Bubu.~
+@40004 = ~Resultaron ser unos malvados contrabandistas que querían llevarse a Bubu y enviarlo a un ring de lucha de hámsters. Aunque nunca se encontró a una posbile pareja, al menos otras víctimas hámster se salvan de este gnomo loco.~

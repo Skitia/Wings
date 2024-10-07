@@ -1,0 +1,169 @@
+@0    = ~¿Se encuentra bien, señorita?~
+
+@1    = ~Oh... Estoy bien, pequeña. Gracias.~
+
+@2    = ~Y, lo siento, <CHARNAME>. Sé que no debería haber salido corriendo así. Yo sólo...~
+
+@3    = ~Lo siento, <CHARNAME>. Sé que no debería haber salido corriendo así. Yo sólo...~
+
+@4    = ~Yo... Pensé en mis propios padres. Sobre el... el dolor que debo haberles causado cuando yo...~
+
+@5    = ~...cuando me fui...~
+
+@6    = ~Yo... A menudo me pregunto qué les pasó. ¿Cuánto tiempo me buscaron? ¿Están todavía en casa, ahora, esperando, esperando... o, me pusieron a descansar y siguieron adelante con sus vidas?~
+
+@7    = ~Sinceramente, no sé con cuál sería más feliz. O si estoy mejor sin saber nada... o si ellos están mejor sin saber nada de mí...~
+
+@8    = ~Según mi experiencia, siempre es mejor saber la verdad que pasarse la vida preguntándose.~
+
+@9    = ~Realmente no sé la respuesta a eso, Aerie.~
+
+@10   = ~Eso no me importa. ¡Huiste con todas mis cosas!~
+
+@11   = ~Sí. Creo que tienes razón, <CHARNAME>. Incluso si tienes que enterrar a alguien, al menos puedes llorar por él y seguir adelante.~
+
+@12   = ~Creo que... Creo que es mejor saber la verdad. Incluso si tienes que enterrar a alguien, al menos puedes llorar por él y seguir adelante.~
+
+@13   = ~Oh. Sí... Lo siento por eso, <CHARNAME>.~
+
+@14   = ~¡Psst! ¡Hey! ¿Viste a ese Deva?~
+
+@15   = ~S-sí... lo hicimos...~
+
+@16   = ~He advertido a la gente sobre él. Hay algo en él que no me gusta...~
+
+@17   = ~Tenías razón, pequeña. No es lo que dice ser.~
+
+@18   = ~Es... un avariel. Un elfo alado. Está mintiendo a todo el mundo.~
+
+@19   = ~¡lo sabía!~
+
+@20   = ~Bueno, no sobre lo del duende alado, ¡pero sabía que mentía!~
+
+@21   = ~Ha estado cogiendo las cosas de todo el mundo pero nunca le he visto hacer nada por ellas.~
+
+@22   = ~... y ahora mi madre ha llevado a mi hermano a verlo. Le va a dar lo único que le dejó mi padre para que Phil se cure... pero no se curará, ¿verdad?~
+
+@23   = ~¡Tenemos que convencer a todos de que es un farsante! ¿Pero cómo?~
+
+@24   = ~Lo siento, <CHARNAME>. Quiero ayudar, pero... ¿y si tiene razón, <CHARNAME>? ¿Y si nadie nos cree si intentamos decirles la verdad?~
+
+@25   = ~Tenemos que intentar algo, Aerie. No podemos permitir que siga explotando a la gente de esta manera.~
+
+@26   = ~Bueno, todo lo que tenemos que hacer es mostrarles que no es un ser todopoderoso extradimensional, ¿verdad?~
+
+@27   = ~Lo sé, pero... hmm...~
+
+@28   = ~¿Eso es todo? Pero cómo... hmm...~
+
+@29   = ~¿Qué le pasaba a tu hermano?~
+
+@30   = ~No lo sé. Siempre ha estado mal, y ahora ha empeorado. Siempre está tosiendo muy fuerte, y apenas puede ponerse de pie sin que alguien le ayude.~
+
+@31   = ~Pero mi madre no puede permitirse una cura. Ella piensa que él... que él podría no tener mucho tiempo.~
+
+@32   = ~Le ayudaré. Se lo prometo.~
+
+@33   = ~<CHARNAME>, creo que podemos desenmascararlo. Quiero hablar con él de nuevo, pero, si no quiere escuchar, entonces por lo menos voy a demostrar que no es un ángel.~
+
+@34   = ~¿Quiénes son ustedes?~
+
+@35   = ~Aventureros. Estamos aquí para salvar la aldea.~
+
+@36   = ~¿No te enseñaron tus padres a no hablar con extraños?~
+
+@37   = ~No es asunto tuyo.~
+
+@38   = ~Oh... eso. Pensé que tal vez vendrías a ver al Deva.~
+
+@39   = ~Deva?~
+
+@40   = ~No. Quiero decir, no tenemos muchos extraños por aquí de todos modos. Pero hablando de extraños, no hay nada más extraño que esa Deva.~
+
+@41   = ~¿Todo el mundo es tan grosero de donde vienes? Tal vez deberías ir con el resto de ellos y pedir perdón al Deva.~
+
+@42   = ~Bueno, eso es lo que él dice que es. Su nombre es Raptair.~
+
+@43   = ~Hace poco, se le apareció a un carbonero en el bosque. Y ahora, hay un montón de gente que prácticamente lo adora.  Incluso... incluso mamá...~
+
+@44   = ~Pero si me preguntan a mí, y nadie lo ha hecho, hay algo que no me cuadra en él. Quiero decir, tiene alas y puede volar y esas cosas, pero por lo demás, no me parece muy Deva.~
+
+@45   = ~Mi hermano ha estado muy enfermo, así que mamá espera que Raptair pueda curarlo. Lo ha llevado a ver a la deva, justo al norte de aquí.~
+
+@46   = ~Hmmm... tal vez lo compruebe yo mismo.~
+
+@47   = ~¿No has ido con ellos?~
+
+@48   = ~Haz lo que quieras... ¡pero te digo que algo no va bien! No te dejes engañar como los demás.~
+
+@49   = ~Uh-uh. De ninguna manera. Quiero decir, espero que mamá tenga razón y él pueda ayudar a mi hermano, pero yo... no confío en él. Creo que él lo sabe, también.~
+
+@50   = ~Nunca le he visto ayudar realmente a nadie. Él sólo sigue pidiendo cosas como comida y dinero y joyas, y todo el mundo sigue dándoles.~
+
+@51   = ~Pero eso no está bien, ¿verdad? Si fuera realmente bueno y poderoso, sólo ayudaría a la gente, ¿no? Y los devas no necesitan comer, ¿verdad?~
+
+@52   = ~Pero nadie quiere escucharme. Sólo quieren creerle... pero no está bien.~
+
+@53   = ~Bueno, gracias a Ao que ha terminado.~
+
+@54   = ~Intenté seguirle una vez, pero siempre se escapaba. Pero cuando salía del pueblo, siempre se dirigía directamente al oeste, si querías buscarlo.~
+
+@55   = ~Vayan a ver el Deva por ustedes mismos. ¿Yo? Yo me quedo aquí. Esperemos que vuele de vuelta al lugar de donde vino pronto...~
+
+@56   = ~¡Señorita! Gracias por ayudar a mi hermano.~
+
+@57   = ~Es realmente molesto, pero... Me alegro de que esté bien, gracias a ti.~
+
+@58   = ~Oh, está bien, pequeña. Me alegré de ayudar.~
+
+@59   = ~Así que, estaba pensando, me gustaría ser un curandero algún día, también.~
+
+@60   = ~Quiero decir, si hay tiempo cuando no estoy resolviendo crímenes y esas cosas.~
+
+@61   = ~¡Eh! Eres una chica muy lista. Estoy segura de que podrás hacer lo que quieras cuando seas mayor.~
+
+@62   = ~¿De verdad? ¿Crees que podré volar?~
+
+@63   = ~Yo... yo... sí. Si eso es lo que quieres. Todo es posible si pones tu mente en ello.~
+
+@64   = ~¡Oh, vaya! ¡Gracias señora!~
+
+@65   = ~¡Hola, sois todos! ¿Quieres jugar a un juego?~
+
+@66   = ~Claro. ¿Por qué no?.~
+
+@67   = ~No tengo tiempo.~
+
+@68   = ~¡Muy bien! Así que yo seré la princesa, ¡y todos tenéis que rescatarme de este terrible dragón malvado!~
+
+@69   = ~Vale... espera, ¿qué? ¿Un dragón?~
+
+@70   = ~Uh-uh ... de ninguna manera voy a luchar contra un dragón. Ni siquiera por una chica que me gustaba.~
+
+@71   = ~Con enormes dientes que rechinan, y fuego, y enormes garras que cortan, ¡y sangra ácido!~
+
+@72   = ~¿Y quieres que luchemos contra esta cosa? No puede ser en serio!~
+
+@73   = ~He cambiado de opinión. Realmente no tengo tiempo para esto ahora.~
+
+@74   = ~¡Pero yo soy la princesa! ¡Tienes que rescatarme!~
+
+@75   = ~Sí, todo eso de la damisela en apuros... Creo que las princesas modernas deberían poder rescatarse a sí mismas...~
+
+@76   = ~¿Estás loco? ¡¿Has visto esta cosa?! ¡Tiene una piel tan dura como el acero y es tan grande como una montaña! ¡No puedes dejar que tu princesa se enfrente sola a esta bestia!~
+
+@77   = ~Sí... buena suerte con lo del dragón, pero creo que ya es hora de que formemos una república de todos modos.~
+
+@78   = ~¡Bien! ¡Yo mismo me encargaré del dragón! ¡Y después de hacerlo, te encontraré y aplastaré tu pequeña rebelión!~
+
+@79   = ~Beh... ¡no eres nada divertido!~
+
+@80   = ~Así que... gracias por toda la ayuda y todo eso. Siento no tener nada que darte.~
+
+@81   = ~Me pregunto dónde habrán ido todos los chicos~
+
+@82   = ~Hey, ¿quieres oírme cantar?~
+
+@83   = ~*LA-LA-LA-LI-LA-LA-DI-DAAA*~
+
+@84   = ~Yo también sé bailar, ¿sabes?~

@@ -1,0 +1,1491 @@
+@0    = ~*suspira*~ [AERIE33]
+
+@1    = ~¿Aerie?~
+
+@2    = ~¡Oye! ¡Deja de mirar al espacio! Te necesito concentrada.~
+
+@3    = ~Oh... <CHARNAME>. Yo... no te estaba molestando, ¿verdad? Si te estaba distrayendo, entonces yo...~
+
+@4    = ~¿Querías decir algo?~
+
+@5    = ~Has estado muy callada.~
+
+@6    = ~Lo siento, yo... Yo... me distraje por un segundo. No dejaré que vuelva a pasar, señor.~ ~Lo siento, yo... Yo... me distraje por un segundo. No dejaré que vuelva a pasar, Señora.~
+
+@7    = ~Bien. Bien, procura que no sea así. Ahora vuelve a la fila.~
+
+@8    = ~N-no. Yo... no. Es amable de tu parte comprobarlo, pero estoy bien.~
+
+@9    = ~¿En serio? Lo siento. No es mi intención, a veces me dejo llevar por mis pensamientos. ¿Q-querías hablar de algo?~
+
+@10   = ~¡No! ¡Pensé que lo habías hecho!~
+
+@11   = ~Bueno, si tienes alguna pregunta o quieres decir algo, no tengas miedo de hacerlo.~
+
+@12   = ~Bien, mira... No tengo tiempo para esto. Sólo vuelve a la fila.~
+
+@13   = ~Claro. Por supuesto. Lo siento...~
+
+@14   = ~Siempre tengo la cabeza llena de preguntas. Dudo que quieras oírlas todas. Puedo resolver la mayoría por mi cuenta, creo.~
+
+@15   = ~Sí. Por supuesto. Lo siento, de nuevo, <CHARNAME>.~
+
+@16   = ~Hay... tanto que asimilar. Sabes que el mundo nunca pareció tan grande desde el cielo.~
+
+@17   = ~Tantos tipos de personas y formas de vida diferentes. Es todo muy emocionante, pero... también un poco abrumador y aterrador a veces.~
+
+@18   = ~Te acostumbrarás.~
+
+@19   = ~Bueno, mira, si alguna vez quieres hablar de algo, entonces no te arrancaré la cabeza si lo haces.~
+
+@20   = ~Por favor. Aerie. No me sirve nadie que se asuste tan fácilmente.~
+
+@21   = ~Eso espero. Me esforzaré al máximo, ¡lo prometo!~
+
+@22   = ~Sabes, yo... Solía observar a la gente en tierra, cuando era más joven. Los espiaba en las faldas de las montañas, preguntándome quiénes eran y adónde iban en sus extrañas caravanas sobre ruedas.~
+
+@23   = ~Pero, eso fue hace mucho tiempo ... muy lejos...~
+
+@24   = ~Supongo que lo descubriste, ¿no?~
+
+@25   = ~Gracias, <CHARNAME>.~
+
+@26   = ~Hacía tiempo que quería dejar el circo, pero supongo que... Todavía soy un poco aprensiva. No sé si estoy lista para todo lo que puedo enfrentar.~
+
+@27   = ~Pero sé que nunca habría estado más preparada si me hubiera quedado quieta.~
+
+@28   = ~Y sé que tengo habilidades que pueden ayudar a la gente de aquí.~
+
+@29   = ~No te preocupes Aerie. Yo estaba en zapatos como los tuyos no hace mucho tiempo.~
+
+@30   = ~Ya vi en el circo que puedes ser fuerte. Incluso cuando tu propia vida está en peligro, antepones a los demás y no te paralizas ni huyes. Así que sé que te las arreglarás aquí también.~
+
+@31   = ~Como quieras. Sólo mantente fuera de mi camino y estoy seguro de que nos llevaremos bien.~
+
+@32   = ~Sí... Yo... Lo siento, <CHARNAME>. Realmente no quería molestarte.~
+
+@33   = ~¿Estabas, Señor?~ ~¿Estabas, Señora?~
+
+@34   = ~Me cuesta creerlo, <CHARNAME>, pero aunque sólo lo hayas dicho para animarme, gracias.~
+
+@35   = ~Hago todo lo que puedo, <CHARNAME>, para hacer lo que creo que es correcto. Aunque no puedo prometer que siempre tendré razón.~
+
+@36   = ~Gracias por... por tomarte el tiempo de hablar conmigo. Te lo agradezco, más de lo que crees.~
+
+@37   = ~<CHARNAME>... Me enteré de lo que te pasó en esa mazmorra. ¿Estas bien?~
+
+@38   = ~Estoy bien, Aerie.~
+
+@39   = ~En realidad, todavía tengo un poco de dolor, aquí, ¿ves?~
+
+@40   = ~No me molestes.~
+
+@41   = ~Yo... sé lo que se siente. Ser encerrado en una jaula y tratado como una mascota...~
+
+@42   = ~Y que te quiten algo tan preciado, y no poder evitarlo.~
+
+@43   = ~Sólo quiero que sepas que te ayudaré en todo lo que pueda. Incluso si sólo quieres hablar.~
+
+@44   = ~No soy muy hábil para decir lo correcto, pero soy bueno escuchando, si quieres.~
+
+@45   = ~Gracias, Aerie.~
+
+@46   = ~Para ser honesto, realmente no recuerdo mucho de eso.~
+
+@47   = ~Realmente no quiero hablar, no. No tiene sentido insistir en lo que está hecho.~
+
+@48   = ~¡¿Estás comparando mi experiencia con la tuya?! ¡No podrías ni empezar a entender lo que he perdido!~
+
+@49   = ~Vete.~
+
+@50   = ~Puedo ocuparme de eso fácilmente. Yo estaba... En realidad estaba más preocupado por cualquier herida no física que pudieras tener.~
+
+@51   = ~Lo siento, Señor no te molestaré más.~ ~Lo siento, Señora No te molestaré más.~
+
+@52   = ~De nada, <CHARNAME>.~
+
+@53   = ~Ya veo. Eso... eso también puede ser.~
+
+@54   = ~E-eso también está bien, <CHARNAME>. Yo... Entiendo.~
+
+@55   = ~Pero, como sanadora, sé que hasta la herida más pequeña puede supurar y empeorar si no se trata.~
+
+@56   = ~Así que, si cambias de opinión, estaré aquí.~
+
+@57   = ~Lo siento, <CHARNAME>... puede que no. Pero lo intentaría, si me dejaras.~
+
+@58   = ~Pero, si no quieres hablar, entonces no te molestaré.~
+
+@59   = ~No... Lo siento. No sé por qué me puse así. Tal vez tengas razón.~
+
+@60   = ~No quise molestarte. Es sólo que... No quiero pensar en ello.~
+
+@61   = ~Bien.~
+
+@62   = ~Es terrible perder la libertad.~
+
+@63   = ~Sé que a veces parezco muy ingenua, ya que gran parte de este mundo me resulta todavía muy extraño. Pero, esto es algo que sé bien.~
+
+@64   = ~Así que, si me necesitas, aquí estaré.~
+
+@65   = ~Yo... Yo-yo entiendo, <CHARNAME>.~
+
+@66   = ~Lo siento, Señor.~ ~Lo siento, Señora.~
+
+@67   = ~Hay tanto que ver aquí, tanto cosas extrañas como maravillosas, pero...~
+
+@68   = ~¿Alguna vez echas de menos tu hogar? ¿Echas de menos Candelero?~
+
+@69   = ~¿Qué? ¿Por qué lo preguntas?~
+
+@70   = ~A veces, supongo.~
+
+@71   = ~Era estrecho, sofocante y aburrido.~
+
+@72   = ~No tengo tiempo para responder a tus insípidas preguntas, Aerie.~
+
+@73   = ~Es un lugar que he soñado con visitar algún día.~
+
+@74   = ~Es un lugar que he soñado con visitar algún día.~
+
+@75   = ~Pero las bibliotecas siempre me han parecido lugares apasionantes y maravillosos!~
+
+@76   = ~Oh. Yo... lo siento, Señor.~ ~Oh. Yo... lo siento, Señora.~
+
+@77   = ~¿Es cierto que tienen todos los libros que se han escrito?~
+
+@78   = ~Es lo que afirman. Los monjes siempre están buscando nuevos manuscritos para traducir y copiar y preservar.~
+
+@79   = ~¿A quién le importa? Vuelve a trabajar, ¿quieres?~
+
+@80   = ~Debe ser enorme... Imagino que sería fácil perderse entre laberintos de estanterías.~
+
+@81   = ~Pero, ¡qué lugar para perderse! Donde cada tomo es como una puerta a un mundo nuevo...~
+
+@82   = ~Tienes la cabeza en las nubes, ¿verdad?~
+
+@83   = ~Claro, podrías pasarte la vida ahí dentro. Siempre y cuando desarrolles un gusto por el papiro y el cuero.~
+
+@84   = ~Ugh... Creo que voy a vomitar...~
+
+@85   = ~Los sueños fueron todo lo que tuve durante mucho tiempo, <CHARNAME>. Pero no puedo imaginarme aburrirme en un lugar así.~
+
+@86   = ~¿Te gustan los libros, supongo?~
+
+@87   = ~Eh... una vez que has visto a un monje ponerse la túnica, caer por las escaleras y apuñalarse el cerebro con la pluma que lleva en la mano, ya los has visto a todos.~
+
+@88   = ~*suspiro* Lo... lo siento, <CHARNAME>. Los sueños fueron todo lo que tuve durante mucho tiempo, pero no te molestaré si no quieres oírlos.~
+
+@89   = ~Siempre.~
+
+@90   = ~Espera... ¿la pluma le entró por el ojo o por la fosa nasal?~
+
+@91   = ~*suspiro* No importa. Siempre me ha gustado leer.~
+
+@92   = ~De niña solía ir a la biblioteca y leer todo el tiempo.~
+
+@93   = ~Yo... No he podido visitarlos tan a menudo como me gustaría, últimamente.~
+
+@94   = ~Pero el tío Quayle solía leerme, y luego él y otros en el circo tenían libros que me prestaban, algunas veces.~
+
+@95   = ~Cuando era pequeña, quería ser escritora.~
+
+@96   = ~¿De verdad?~
+
+@97   = ~¿Sabes lo que quería? No ser molestada continuamente por una niña ñoña y tonta que quería seguir siendo una niña el resto de su vida.~
+
+@98   = ~Bueno, eso, o-o una actriz.~
+
+@99   = ~O un general, o un astónoma, o una princesa guerrera, o alguien que cuidaba animales...~
+
+@100  = ~O, una guerrera-princesa-general q-que poseía un telescopio y vivía en una arboleda escribiendo obras que representaba con animales.~
+
+@101  = ~Ambicioso.~
+
+@102  = ~Yo... Yo era un niño, entonces. Tenía...~
+
+@103  = ~lo siento. Supongo que la verdad es que yo... He estado pensando más y más últimamente sobre mi propio hogar, Faenya-Dail.~
+
+@104  = ~Dejé mucho atrás allí. Amigos, profesores... una madre y un padre a los que quería, que... nunca volveré a ver.~
+
+@105  = ~...aunque pudiera, no estoy seguro de que me reconocieran, ahora...~
+
+@106  = ~Lo entiendo, Aerie. Yo también dejé mucho atrás.~
+
+@107  = ~Gorion era como un padre para mí. Le echo de menos.~
+
+@108  = ~Si vas a llorar, hazlo en otra parte.~
+
+@109  = ~Claro que sí... Lo siento.~
+
+@110  = ~Debe haber sido un padre maravilloso, y un gran maestro. Lo siento, <CHARNAME>.~
+
+@111  = ~Lo siento, <CHARNAME>. Supongo que fue una tontería. No te molestaré más.~
+
+@112  = ~Tienes tantos problemas propios... No debería cargarte con los míos.~
+
+@113  = ~Está bien, Aerie. No me importa.~
+
+@114  = ~¿Quizá hay algo de lo que necesitáis hablar?~
+
+@115  = ~Procura que no.~
+
+@116  = ~No... sólo estaba siendo tonta. Sé que es tonto pensar en cosas que ya no puedes cambiar.~
+
+@117  = ~No me importa escuchar, Aerie. Has pasado por mucho.~
+
+@118  = ~Como sanadora, estoy segura de que sabes que incluso la herida más pequeña puede supurar y crecer si no la tratas.~
+
+@119  = ~Sí, tienes razón. Así que no oigamos más.~
+
+@120  = ~M-mi...~
+
+@121  = ~No, nos hemos retrasado lo suficiente.~
+
+@122  = ~Pero... gracias por ser tan paciente. Quizás... quizás en otra ocasión.~
+
+@123  = ~Sí... Siento haberle molestado....~
+@124  = ~¿Jaheira y tú sois...?~
+
+@125  = ~Estamos enamorados, Aerie.~
+
+@126  = ~Me gustas Aerie, pero... sí.~
+
+@127  = ~¿Tienes algún problema con eso?~
+
+@128  = ~Yo... Me alegro. Es bueno que ambos hayáis encontrado a alguien.~
+
+@129  = ~Yo... Me gustas también, <CHARNAME>. Y me alegro de que tengas a alguien. Me alegro por los dos.~
+
+@130  = ~No. Yo... Me alegro por ti. Por los dos.~
+
+@131  = ~Jaheira y yo, nosotros... hemos tenido nuestras diferencias, pero...~
+
+@132  = ~La verdad es que la admiro y la respeto.~
+
+@133  = ~Sólo espero poder llegar a ser tan fuerte como ella algún día.~
+
+@134  = ~Tal vez debería decirle que.~
+
+@135  = ~Eres una valiosa aliada, Aerie. Y una buena amiga.~
+
+@136  = ~Como quieras. Sólo estoy cansado de escucharte lloriquear.~
+
+@137  = ~Oh, lo he intentado, <CHARNAME>. Ella sólo me dice que deje de ser tonta. *suspiro* Tal vez ella tiene razón y lo soy, un poco. Pero la naturaleza me hizo así.~
+
+@138  = ~No me importa que seas tonta de vez en cuando. Somos amigos.~
+
+@139  = ~¿Amigos? ¡Claro que lo somos, <CHARNAME>! Nunca podré agradecerte lo suficiente por ayudarme a alejarme del circo.~
+
+@140  = ~Y yo... Voy a seguir trabajando duro para demostrar mi valía a todo el mundo. Incluso a Jaheira.~
+
+@141  = ~Si... si es así como te sientes, <CHARNAME>, entonces no te molestaré más.~
+@142  = ~¿Realmente la amas? ¿A Viconia?~
+
+@143  = ~Sí, Aerie, así es.~
+
+@144  = ~Lo siento, Aerie.~
+
+@145  = ~No vas a darnos problemas, ¿verdad?~
+
+@146  = ~Si... si estás segura. Supongo que ya sabes lo que siento.~
+
+@147  = ~No, lo siento, <CHARNAME>. Si de verdad estáis enamorados, entonces respetaré.~
+
+@148  = ~No, creo que ya tendrás las manos llenas. En más de un sentido.~
+
+@149  = ~Es cierto que le tenía miedo, y quizás todavía un poco. Me criaron con historias sobre los drow y lo malvados que son.~
+
+@150  = ~Y sé que es más complicado que eso, en realidad. Pero ella... ella es tan... una...~
+
+@151  = ~¿Perra?~
+
+@152  = ~Hay bondad en ella. Lo siento.~
+
+@153  = ~Ha pasado por muchas cosas, Aerie, y le ha costado adaptarse a este mundo. Creo que puedes entender eso, ¿no?~
+
+@154  = ~S-sí... exactamente.~
+
+@155  = ~Espero que tengas razón, <CHARNAME>. De verdad.~
+
+@156  = ~YO... Supongo que sí. Sé que la gente puede tratarte cruelmente sin más delito que ser diferente.~
+
+@157  = ~*suspiro* Yo... supongo, que tenemos otra cosa en común, al menos.~
+
+@158  = ~Los dos nos preocupamos por ti.~
+
+@159  = ~Gracias, Aerie. Espero que podamos seguir siendo amigos.~
+
+@160  = ~Es gracioso, porque realmente no me importas mucho.~
+
+@161  = ~Por supuesto, <CHARNAME>. Yo... Nunca podré agradecerte lo suficiente por ayudarme a alejarme del circo.~
+
+@162  = ~Quiero seguir viajando y aprendiendo de vosotros mientras pueda.~
+@163  = ~Así que, ¿tú y Neera estáis... juntos?~
+
+@164  = ~Pareces sorprendida.~
+
+@165  = ~Lo siento, Aerie. Debería habértelo dicho antes.~
+
+@166  = ~Esto no va a ser un problema, ¿verdad?~
+
+@167  = ~¡No! ¡No quería que sonara así! Lo siento.~
+
+@168  = ~Oh, no pasa nada, <CHARNAME>.~
+
+@169  = ~No... no de mí, en cualquier caso.~
+
+@170  = ~Me alegro por ti, <CHARNAME>. Por los dos. De verdad.~
+
+@171  = ~Y yo... Realmente me gusta. Ella es tan... tan...~
+
+@172  = ~Bueno, nunca te aburrirás cerca de ella. Q-que creo que es bueno ... en su mayoría.~
+
+@173  = ~Gracias Aerie. Y seguimos siendo amigos, ¿verdad?~
+
+@174  = ~Como quieras. Estoy cansado de oír tus lloriqueos.~
+
+@175  = ~Espero seguir a tu lado y seguir ayudándote lo mejor que pueda, todo el tiempo que pueda.~
+
+@176  = ~Dorn... No... no me gusta, <CHARNAME>. Realmente no me gusta.~
+
+@177  = ~Lástima. Lo hago.~
+
+@178  = ~¿Oh? ¿Vas a luchar contra él por mí, entonces?~
+
+@179  = ~*suspiro* Yo... Puedo verlo. Supongo que depende de ti elegir con quién estar.~
+
+@180  = ~Nadie debería ser posesión de nadie para ser comprado o peleado, <CHARNAME>. Creo que depende de ti elegir a quién amar.~
+
+@181  = ~No... Lo siento. Depende de ti elegir con quien quieres estar.~
+
+@182  = ~Si... si él es lo que quieres, entonces, no me interpondré en tu camino.~
+
+@183  = ~No me gusta. Pero, yo-yo todavía quiero ser tu amiga, <CHARNAME>.~
+
+@184  = ~Por supuesto, Aerie. No te preocupes por Dorn. Me aseguraré de que no te moleste.~
+
+@185  = ~Mientras no tenga que escuchar más de tus lloriqueos.~
+
+@186  = ~Gracias, <CHARNAME>. Sabes, yo... Nunca podré agradecerte lo suficiente por ayudarme a alejarme del circo.~
+@187  = ~<CHARNAME>, ¿podría... podría hablar contigo?~
+
+@188  = ~Por supuesto, Aerie. Nunca necesitas preguntar.~
+
+@189  = ~Eh... claro, supongo.~
+
+@190  = ~No tengo tiempo para ti, Aerie.~
+
+@191  = ~Es sobre, bueno... Haer'Dalis y yo, supongo.~
+
+@192  = ~*sighs* Yo... Tengo tan poca experiencia en estos asuntos.~
+
+@193  = ~Cuando nos conocimos, yo... Supongo que lo encontré atractivo. Pero, cuando empezó a hablarme pensé que sólo estaba siendo amable.~
+
+@194  = ~Nunca esperé que... que pudiéramos ser el uno para el otro. Supongo que veremos...~
+
+@195  = ~Aerie, pase lo que pase entre tú y Haer'Dalis, seguiremos siendo amigos. ¿Segura?~
+
+@196  = ~Oh, se me olvidaba - esto es por lo que siempre me canso de ti.~
+
+@197  = ~Oh. Lo siento. Pero, supongo que eso responde a lo que tenía que preguntar, de todos modos.~
+
+@198  = ~Gracias, <CHARNAME>. Eso ... eso es lo que quería preguntar.~
+
+@199  = ~Sabes, yo... Nunca podré agradecerte lo suficiente por ayudarme a alejarme del circo.~
+
+@200  = ~Espero seguir a tu lado y seguir haciéndolo lo mejor que pueda, mientras pueda.~
+@201  = ~¿De qué se trata, Aerie?.~
+
+@202  = ~Siento que no funcionara entre vosotros.~
+
+@203  = ~Pensándolo bien, no tengo tiempo para esto.~
+
+@204  = ~No es culpa tuya, <CHARNAME>.~
+
+@205  = ~Pero creo que siempre supe que no éramos el uno para el otro. Somos demasiado... diferentes.~
+
+@206  = ~Seguimos siendo amigos, Aerie. Si alguna vez necesitas hablar...~
+
+@207  = ~Oh, se me olvidaba - esto es por lo que siempre me canso de ti.~
+
+@208  = ~Gracias, <CHARNAME>. Eso... eso es lo que quería preguntar.~
+
+@209  = ~<CHARNAME>, ¿puedo hablar contigo?~
+
+@210  = ~No necesitas pedir permiso, Aerie.~
+
+@211  = ~Gracias, <CHARNAME>. Pero, es que... Yo...~
+
+@212  = ~Quiero que sepas que, a pesar de todo lo que pueda decir cuando estoy deprimida, no puedo agradecerte lo suficiente que me hayas ayudado a alejarme del circo.~
+
+@213  = ~Sé que no soy el más fuerte, pero quiero... es decir, espero poder seguir siéndote útil y poder hacer todo lo que pueda para ayudarte en tu búsqueda.~
+
+@214  = ~Y que podemos seguir siendo amigos.~
+
+@215  = ~No lo haría de otra manera.~
+
+@216  = ~Cállate y no me molestes.~
+
+@217  = ~Supongo que eso responde a lo que tenía que preguntar. Gracias, <CHARNAME>.~
+
+@218  = ~¡Oh, gracias, <CHARNAME>!~
+
+@219  = ~Te prometo que haré todo lo posible por no decepcionarte~
+
+@220  = ~De acuerdo. Haré lo que me pides, <CHARNAME>, e intentaré no molestar más.~
+@221  = ~¿Imoen es como una hermana para ti?~
+
+@222  = ~Sí. Puede que no seamos parientes de sangre, pero crecimos juntos.~
+
+@223  = ~Supongo... Supongo que me he acostumbrado a su presencia.~
+
+@224  = ~No. Realmente no me importa en absoluto.~
+
+@225  = ~Nunca he tenido hermanos así.~
+
+@226  = ~Supongo que la familia es así. Los das por sentado cuando están ahí, pero lo sientes cuando se han ido.~
+
+@227  = ~Pero vamos a salvarla, ¿verdad? ¿No la abandonarás a esos magos?~
+
+@228  = ~Por supuesto, Aerie. Sólo estaba bromeando. Me preocupo por ella.~
+
+@229  = ~Irenicus me quitó algo. Tengo la intención de recuperarlo.~
+
+@230  = ~Ella es irrelevante. Sólo me importa el poder que este hechicero dice tener.~
+
+@231  = ~Pero, ya hemos pasado por tanto para salvarla...~
+
+@232  = ~Sólo estaba bromeando. Por supuesto que me preocupo por ella.~
+
+@233  = ~Ella es irrelevante. Sólo me importa Irenicus.~
+
+@234  = ~Lo siento. Supongo que es mi falta de experiencia. No me di cuenta de que estabas bromeando. Tal vez habría sido diferente si hubiera tenido una hermana con la que crecer.~
+
+@235  = ~Ella no es una mera propiedad, <CHARNAME>. Espero que te des cuenta de eso...~
+
+@236  = ~*suspira*~
+
+@237  = ~Ya veo... bueno, te ayudaré, <CHARNAME>, p-pero por el bien de ayudar a alguien encarcelado injustamente. Nada más.~
+
+@238  = ~Ya veo... bueno, te ayudaré, <CHARNAME>, aunque sólo sea para detenerlo antes de que haga más daño a la gente. Nada más.~
+
+@239  = ~A veces me gustaría tener un hermano o hermana con quien pasar el tiempo y hablar.~
+
+@240  = ~¿Qué hay de Quayle?~
+
+@241  = ~Puede hablar conmigo.~
+
+@242  = ~Y luego están todas las peleas, discusiones, robos, sororicidios, eventualmente...~
+
+@243  = ~¿Tío Quayle? Yo... yo lo amo, pero... hay cosas que simplemente nunca podría decirle. Ya hizo tanto, que no quería preocuparlo más.~
+
+@244  = ~Aunque de todas formas él siempre sabía lo que me preocupaba. Pero me refería a alguien con quien creces y compartes las mismas experiencias.~
+
+@245  = ~Bueno, puedes hablar conmigo.~
+
+@246  = ~Nunca serás mi igual. Sólo haz lo que te digo y no me molestes.~
+
+@247  = ~Tú... has sido muy amable conmigo, <CHARNAME>.~
+
+@248  = ~No puedo hacer mucho más que agradecérselo y seguir esforzándome al máximo.~
+
+@249  = ~Uh... s-solo... olvidalo...~
+
+@250  = ~Bromeando de nuevo, Aerie. Así son los amigos y los hermanos. Tienes que ser menos sensible.~
+
+@251  = ~Ya lo he hecho.~
+
+@252  = ~Por favor, no, Señor. Tengo tan poca experiencia interactuando con otros...~ ~Por favor, no, Señora. Tengo tan poca experiencia interactuando con otros...~
+
+@253  = ~Aunque, creo que para alguien que estuvo atrapada en una jaula durante muchos años, lo estoy haciendo bastante bien.~
+
+@254  = ~Eso eres, Aerie. Que eres tu .~
+
+@255  = ~Lo siento, lo intenté, Señor.~ ~Lo siento, lo intenté, Señora.~
+
+@256  = ~No te preocupes por Imoen. Si ella es como tú, entonces sé que debe ser fuerte. La salvaremos.~
+
+@257  = ~Detendremos a Irenicus, lo juro.~
+
+@258  = ~Como quieras.  Pero no vuelvas a convertir a nadie en gallina... otra vez.~
+
+@259  = ~*¡Risas!* ¿Una gallina?  ¡Eso sí que sería un buen truco!  Tendré que trabajar en ello~
+
+@260  = ~Fue un accidente, lo juro...~
+
+@261  = ~Tienes... tienes un desgarro, ahí. Podría remendártelo, si quieres.~
+
+@262  = ~'No es casi nada. No te preocupes..~
+
+@263  = ~No sería ningún problema. Solía arreglar trajes en el circo, y mi propia ropa. Sólo quiero hacer todo lo que pueda para ser útil.~
+
+@264  = ~Tal vez más tarde. ¿Cómo llevas nuestros viajes?~
+
+@265  = ~Mira, deja de molestarme, mocosa.~
+
+@266  = ~Oh, no tienes que preocuparte por mí, <CHARNAME>. En... en el circo, me pateaban y mordían todo el tiempo.~
+
+@267  = ~¿Trabajaste con algunos animales?~
+
+@268  = ~Bien. ¿Así que no te importará que te siga pegando hasta que te vayas?~
+
+@269  = ~¿Animales? Bueno, sí... también pueden ser bastante rudos, supongo...~
+
+@270  = ~Owww... eso es... um...~
+
+@271  = ~Oh... ¡hiciste un chiste! Un poco sombrío, pero buen esfuerzo.~
+
+@272  = ~No puedes hablar sin deprimir a todo el mundo, ¿verdad?~
+
+@273  = ~Yo... Yo-yo estaba bromeando, <CHARNAME>.~
+
+@274  = ~*Sonríe* Me alegro de que te haya gustado, <CHARNAME>.~
+
+@275  = ~En retrospectiva, supongo que no fue tan malo. No una vez que estaba en el mismo lado de las barras como todo el mundo, de todos modos.~
+
+@276  = ~Había muchos que seguían siendo crueles, pero había... varios, que al menos intentaban ser amables. Y estaba el tío Quayle.~
+
+@277  = ~Supongo que... es que, en el circo, la gente tiene... todo el mundo tiene siempre prisa. Siempre hay prisa por tener listo el siguiente espectáculo.~
+
+@278  = ~A veces, la gente se frustra y necesita desquitarse con algo.~
+
+@279  = ~No los excuses, Aerie. La forma en que te trataron estuvo mal.~
+
+@280  = ~Yo... no sé qué decir. Lo siento mucho Aerie...~
+
+@281  = ~Cielos... esto sigue empeorando...~
+
+@282  = ~¡Ya lo sé, <CHARNAME>! Yo no... ¿no es mejor intentar comprender las razones por las que la gente es cruel, para saber qué evitar en el futuro?~
+
+@283  = ~Lo siento. Intentaba ser alegre. Supongo que... necesito más práctica.~
+
+@284  = ~Bueno... ¿qué más hacías en el circo?~
+
+@285  = ~Lo que sea. Sólo deja de hablarme.~
+
+@286  = ~Durante mucho tiempo, muy poco. Pero luego hubo de todo. Todo el mundo tenía que trabajar duro, casi todo el tiempo.~
+
+@287  = ~Cuando llegábamos a un lugar, todo el mundo ayudaba a montar las carpas y los puestos. Después nos dedicábamos sobre todo a limpiar entre espectáculo y espectáculo y a asegurarnos de que la carpa principal estuviera siempre lista para el siguiente público.~
+
+@288  = ~Cuando había espectáculo, a veces estaba fuera, asegurándome de que el vestuario y la utilería estuviera lista para quien fuera a actuar a continuación. A veces daba de comer a los tigres.~
+
+@289  = ~Al contrario de lo que parece, los gatos no tienen tanto miedo a las sillas. Tendría que mezclar un sedante con su comida para adormecerlos y hacerlos perezosos. Demasiado y se quedaban dormidos. Demasiado poco y... no más domador de tigres.~
+
+@290  = ~Nunca cometiste un error, ¿verdad?~
+
+@291  = ~Una vez, uno de los tigres jóvenes tenía miedo de salir de su jaula por todo el ruido. El domador... cogió un tablón y se lo rompió en la cabeza. Así que estuve tentada de cometer un error...~
+
+@292  = ~Pero, no, claro que no.~
+
+@293  = ~Supongo que lo que más me gustaba hacer era ayudar al tío Quayle a diseñar nuevos trucos e ilusiones, o máquinas que crearan explosiones de luz y magia.~
+
+@294  = ~Siempre buscaba nuevas formas de entretener al público y hacer que todos se quedaran boquiabiertos y se rieran. Disfrutaba resolviendo problemas y siendo creativo. Era... era realmente divertido.~
+
+@295  = ~¿Pero aún así querías marcharte?~
+
+@296  = ~¿Sigues adelante?~
+
+@297  = ~Sí. Tío Quayle, él... amaba el circo. Le encantaba hacer feliz a la gente. Creo que pensó, por mucho tiempo, que yo aprendería a amarlo de la misma manera que él lo hizo.~
+
+@298  = ~P-pero yo... No pude...~
+
+@299  = ~El público entra y ve a estas mujeres bailando con trajes maravillosos, y desde donde están sentados todo parece tan hermoso y glamuroso.~
+
+@300  = ~Pero cuando veo a esas bailarinas de cerca, lo tensas y enjutas que están, sus piernas y sus cuerpos llenos de moratones de tanto entrenar... todo es una ilusión.~
+
+@301  = ~Quería mucho a Quayle, pero... él sabía, y al final lo aceptó, que yo tenía demasiados malos recuerdos como para quedarme allí.~
+
+@302  = ~Ahora siento que el mundo se me ha ido de las manos y que llevo mucho tiempo parada en medio de él. Hay tanto que tengo que ver y aprender.~
+
+@303  = ~Sé que no será fácil, pero espero que sigas teniendo paciencia conmigo, <CHARNAME>.~
+
+@304  = ~Gracias.~
+
+@305  = ~Lo siento, <CHARNAME>. No debería haberte molestado.~
+
+@306  = ~Me estoy cansando de escucharte.~
+
+@307  = ~Is it so bad that it should threaten you? But, then, I am mightily odd myself. A stranger, alone and cast off from all I have known.~
+
+@308  = ~Gr-gracias, <CHARNAME>.~
+
+@309  = ~He tenido un sueño.~
+
+@310  = ~Yo también.~
+
+@311  = ~Otra vez volando, supongo~
+
+@312  = ~Creía que los elfos no necesitaban dormir~
+
+@313  = ~Los elfos no necesitamos dormir, ¿sabes?.~
+
+@314  = ~Lo siento Aerie... No tengo tiempo para escucharlo ahora.~
+
+@315  = ~¿Lo hiciste? ¿Fue una pesadilla, otra vez? ¿Q-querías hablar de ello?~
+
+@316  = ~Tal vez más tarde. ¿Por qué no me cuentas tu sueño primero?.~
+
+@317  = ~¿Cómo sabes de eso?~
+
+@318  = ~No estabas allí. Fue una dicha.~
+
+@319  = ~Volaba de nuevo, sobre las montañas y su velo nublado.~
+
+@320  = ~Bueno, para empezar.~
+
+@321  = ~Vi Faenya-Dail. Todas las columnas de mármol blanco y las enormes estatuas de los dioses elfos que sobresalían de los picos nevados.~
+
+@322  = ~Sobrevolé el gran teatro, los baños, la academia a la que asistí de niña. Y brillando en el pico más alto estaba nuestro observatorio, donde nuestros eruditos trazaban mapas y cartas y observaban las señales del cielo.~
+
+@323  = ~Y entonces vi mi antiguo hogar. Mis pies tocaron la plataforma exterior y caminé por el suelo hasta mi habitación. Allí estaban todos mis viejos juguetes, libros de la biblioteca, algunos pergaminos mágicos... que me había "prestado" mi madre.~
+
+@324  = ~Era como si nada hubiera cambiado. Y... estaba mamá. E-estaba enfadada, al principio, porque me había ido de la ciudad sin decírselo otra vez.~
+
+@325  = ~Pero entonces me tomó en sus brazos y me cubrió con sus alas. Me sentí... cálido y seguro una vez más.~
+
+@326  = ~¿Son estos los sentimientos que tienes cuando piensas en Candelero?~
+
+@327  = ~Todo el mundo echa de menos su hogar.~
+
+@328  = ~A veces. Pero no hay vuelta atrás, ahora.~
+
+@329  = ~No, y estoy cansado de tus lloriqueos.~
+
+@330  = ~No, lo sé, <CHARNAME>.~
+
+@331  = ~Me temo que no para ninguno de los dos. Nuestras vidas han sido similares en algunos aspectos, creo.~
+
+@332  = ~Y sé que fue sólo un sueño, y que en realidad las cosas han cambiado. He cambiado.~
+
+@333  = ~No me refiero sólo a mis alas. Me refiero a que el mundo es mucho más grande ahora de lo que solía ser. Hay mucho más sufrimiento aquí de lo que jamás creí posible.~
+
+@334  = ~Aunque pudiera volver... no puedo.~
+
+@335  = ~Estoy empezando a aceptarlo ahora, <CHARNAME>. Y tú... tú me has ayudado a que sea mucho más fácil.~
+
+@336  = ~¿Te refieres al ensueño? Es una forma de meditación que refresca la mente y el cuerpo.~
+
+@337  = ~Sé que es una habilidad que poseen otros elfos, pero yo... Me la quitaron cuando era demasiado joven para dominarla.~
+
+@338  = ~Tú... ¿te refieres al ensueño? Sé que es una habilidad que poseen otros elfos, pero yo... Me la quitaron cuando era demasiado joven para dominarla.~
+
+@339  = ~Podría enseñártelo, si estás dispuesto.~
+
+@340  = ~No, yo tampoco le he cogido el truco.~
+
+@341  = ~Pero está bien, de verdad. Algunas veces tengo pesadillas, pero otras disfruto de los sueños que tengo.~
+
+@342  = ~Yo también tuve un sueño anoche.~
+
+@343  = ~Entonces, ¿qué era este sueño? Volar otra vez, supongo~
+
+@344  = ~¿Lo harías? Quiero decir... Creo que me gustaría, sí. Pero, sé que lleva mucho tiempo aprender y tenemos una búsqueda importante ahora mismo.~
+
+@345  = ~Es... es extraño lo poco acostumbrado que estoy ahora a estar rodeado de los míos. Pocos elfos han visitado el circo...~
+
+@346  = ~Oh... está... está bien. No fue nada, realmente.~
+
+@347  = ~Te he... oído por la noche, a veces, y a los demás también. ¿De verdad estás bien, <CHARNAME>?~
+
+@348  = ~Tal vez en otra ocasión, Aerie. Háblame de tu sueño.~
+
+@349  = ~¡Mantén tu naricita fuera de mis asuntos, mocosa!~
+
+@350  = ~Lo siento... Sólo estaba preocupado por ti, <CHARNAME>. Pero si eso es lo que quieres, entonces supongo que me mantendré al margen de ahora en adelante.~
+
+@351  = ~¿Por qué me mantienes cerca si realmente te molesto tanto, <CHARNAME>?~
+
+@352  = ~En cualquier caso, no voy a dejar que me molestes. Aunque te empeñes en ser gruñón y miserable, te desearé un buen día.~
+
+@353  = ~Pensé... que no importaba. Veo que me equivoqué.~
+
+@354  = ~¿Cómo eras de niño, <CHARNAME>?~
+
+@355  = ~Qué cosa tan extraña preguntas de repente.~
+
+@356  = ~No es asunto tuyo, mocosa.~
+
+@357  = ~¿Lo es? Supongo que soy un poco rara. Pero tenía curiosidad. ¿Eras muy diferente a como eres ahora?~
+
+@358  = ~Más pequeño, y no sabía tantas cosas... pero por lo demás no muy diferente supongo.~
+
+@359  = ~Yo era una persona muy diferente en aquel entonces.~
+
+@360  = ~Lo siento, Aerie. Realmente no tengo tiempo para hablar de ello.~
+
+@361  = ~¿Siempre fuiste tan abusivo? *suspiro* No te molestaré más.~
+
+@362  = ~No podría imaginarte muy diferente. Pero yo...~
+
+@363  = ~¿De verdad? Alguna vez tendré que preguntarte cómo has cambiado. Yo mismo...~
+
+@364  = ~Por supuesto. Lo siento, <CHARNAME>.~
+
+@365  = ~Yo era diferente. Volvía locos a mis padres y profesores.~
+
+@366  = ~Supongo que ya entonces era un aventurero. Si quería una respuesta a una pregunta, me esforzaba al máximo por descubrirla. Si había un lugar prohibido, tenía que saber qué había allí..~
+
+@367  = ~Causaba a mis mayores todo tipo de dolores de cabeza. Sobre todo cuando volaba durante horas, más allá de los límites de la ciudad. A veces era por la gloria de volar. A veces... Sólo tenía que saber lo que había más allá de la próxima cima.~
+
+@368  = ~No parece que fueras realmente muy diferente.~
+
+@369  = ~Bueno, supongo que descubriste que es verdad lo que dicen de la curiosidad.~
+
+@370  = ~...los esclavistas tienen... tienen formas de hacerte olvidar quién eras.~
+
+@371  = ~Pero el tío Quayle, él... él me animó a intentar de nuevo algunas de las cosas que solían hacerme feliz cuando era joven.~
+
+@372  = ~Solía dibujar, esculpir y leer libros sobre... bueno, de todo. Todo aquello que avivaba mi imaginación y me llevaba de aventuras a tierras lejanas.~
+
+@373  = ~¿No te oí decir una vez que querías ser actriz?~
+
+@374  = ~Bueno... entre otras muchas cosas, sí. Aunque ese era realmente el sueño de mi madre.~
+
+@375  = ~Era artista y dramaturga. A menudo leíamos juntos y nos pintábamos la cara.~
+
+@376  = ~Mi padre era... lo que se llama un filósofo natural, creo. Nos sentábamos fuera por la noche y me enseñaba las constelaciones, y yo soñaba con cómo sería volar hasta ellas.~
+
+@377  = ~Me recuerda a algunos momentos que pasé con Gorion.~
+
+@378  = ~Esa es la cosa más estúpida que he oído nunca.~
+
+@379  = ~Espero que esos recuerdos no sean demasiado tristes, <CHARNAME>. Yo sé que, aunque nunca vuelva a ver a mis padres, al menos me consuela el hecho de que me quisieron y me cuidaron. Sé que algunas personas ni siquiera tienen eso.~
+
+@380  = ~Si no es mucha molestia, ¿podrías hablarme de él mientras caminamos?~
+
+@381  = ~Sí... bueno, a pesar de todo, fue un sueño maravilloso.~
+
+@382  = ~Tal vez tengas razón, <CHARNAME>. Pero yo era feliz y libre, y si no te gusta que te haga preguntas, no te las haré más.~
+
+@383  = ~No sé si es un buen momento para admitir esto, pero...~
+
+@384  = ~Antes de unirme a este grupo, nunca había tenido una pelea en mi vida.~
+
+@385  = ~¡¿Qué?! ¡No tenía ni idea de que fueras tan inexperta!~
+
+@386  = ~Algunas peleas, sobre todo cuando era niño. N-nada serio, y por lo general siempre se rompió muy rápidamente por los adultos.~
+
+@387  = ~Fui a una escuela, en Faenya-Dail, y me crucé con algunos matones. Una vez me peleé con un chico...~
+
+@388  = ~¿Ganaste?~
+
+@389  = ~Tú... estás bromeando otra vez, ¿no? Era una broma. Tenía que ser.~
+
+@390  = ~Por supuesto que era una broma. Entonces, ¿realmente nunca tuvieron una pelea?~
+
+@391  = ~¡No! Voy a tener que pensar seriamente en llevarte conmigo.~
+
+@392  = ~* suspiro * Sabía que no debería haber dicho nada...~
+
+@393  = ~Le rompí el brazo. ¿Eso cuenta como ganar?~
+
+@394  = ~Sí, eso suele ser una victoria bastante convincente.~
+
+@395  = ~¿Cómo le rompiste el brazo?~
+
+@396  = ~Fue un accidente, en realidad. Estábamos peleando por un bolso que pertenecía a otra chica. Ni siquiera sé lo que había en él, pero por alguna razón había decidido que lo quería. Y traté de recuperarlo.~
+
+@397  = ~Era más grande y más fuerte, y me habría ganado fácilmente. Pero yo no soltaba la bolsa. Finalmente, tiró de ella con todo su peso y se me escapó de las manos... pero entonces cayó hacia atrás, por encima de un muro, y aterrizó sobre una roca.~
+
+@398  = ~Nos dejó solos después de eso.~
+
+@399  = ~Eso suena a ti. Proteger a alguien, incluso si eso significa que puedes salir lastimado.~
+
+@400  = ~Bueno, parece que ahora puedes luchar bien. Quiero decir, mejor que el plebeyo medio, al menos.~
+
+@401  = ~Nunca me han gustado los abusones.~
+
+@402  = ~Mis padres siempre me decían que los acosadores son personas que también se sienten solas y que probablemente ellos mismos sufrieron acoso.~
+
+@403  = ~Pero la mayoría de los matones que he conocido siempre tienen mucha gente a su alrededor, así que nunca me han parecido tan solitarios.~
+
+@404  = ~Aquí tienes muchos amigos, Aerie.~
+
+@405  = ~Bueno, ahora luchas mejor que el plebeyo medio, en cualquier caso.~
+
+@406  = ~Eso es... gra-gracias, <CHARNAME>~
+
+@407  = ~No siempre fui tímido. Nunca me he sentido cómodo entre la multitud, pero nunca tuve miedo de hablar con nadie cuando era niño.~
+
+@408  = ~Es mucho más fácil de nuevo, ahora, cuando estoy hablando con usted por lo menos.~
+
+@409  = ~Bueno, en cualquier caso, parece que le estás cogiendo el truco a la lucha.~
+
+@410  = ~¿De verdad lo crees, <CHARNAME>? Fue lo único que Quayle nunca me enseñó. Creo que esperaba que nunca tuviera que hacerlo.~
+
+@411  = ~Tuve que intentar aprender por mi cuenta, con libros, practicando por mi cuenta, cuando nadie miraba.~
+
+@412  = ~¿Por qué querías hacer todo eso?~
+
+@413  = ~Bueno, para ser autodidacta no estás nada mal.~
+
+@414  = ~No lo sé. Supongo que, incluso con toda mi magia, sé que sigo siendo vulnerable a veces. Y no quiero estar en una situación en la que esté completamente indefensa, otra vez.~
+
+@415  = ~Si alguna vez me capturan de nuevo, o me veo incapaz de usar los hechizos que tengo ahora, aunque las probabilidades sean escasas, quiero tener al menos una oportunidad de luchar.~
+
+@416  = ~Lo entiendo.~
+
+@417  = ~No tienes que hacerlo, Aerie. Sabes que te protegeremos.~
+
+@418  = ~Realmente eres demasiado generoso, <CHARNAME>. Sé que nunca estaré a la altura de algunos de tus otros compañeros, pero es muy amable por tu parte ser tan alentador.~
+
+@419  = ~¿Por qué querías aprender a pelear?~
+
+@420  = ~Espero que a medida que viaje más me haga más fuerte. Gracias.~
+
+@421  = ~Lo sé. Y te lo agradezco, pero... no puedes protegerme todo el tiempo, <CHARNAME>, y no quiero que todos me vigilen mientras sus propias vidas pueden estar en peligro.~
+
+@422  = ~*solloza*~
+
+@423  = ~Aerie... ¿por qué te escondes ahí?~
+
+@424  = ~Deja de deprimirte. Vuelve al trabajo.~
+
+@425  = ~No... no es nada, <CHARNAME>. Lo siento.~
+
+@426  = ~Ven aquí, tonto. Dime qué te pasa.~
+
+@427  = ~Pues deja de lamentarte y vuelve al trabajo.~
+
+@428  = ~*Llora* Sí... Yo,yo,Lo siento, Señor.~ ~*Llora* Sí... Yo,yo,Lo siento, Señora.~
+
+@429  = ~Estaba... siendo tonta.~
+
+@430  = ~Me has sacado del circo y me has enseñado tantas cosas maravillosas. Pero yo...~
+
+@431  = ~Mis pensamientos vuelven a casa. A mis alas perdidas, a mis padres... Sigo deseando poder compartir con ellos las cosas maravillosas que he visto y aprendido.~
+
+@432  = ~Pero, sé que no puedo. No puedo volver.~
+
+@433  = ~No es una tontería, Aerie. Hay veces que daría cualquier cosa por volver a hablar con Gorion.~
+
+@434  = ~Bien, entonces deja de llorar y vete a hacer algo útil.~
+
+@435  = ~Lo siento... Sé que tú y otros también habéis sufrido pérdidas. No debería estar solo pensando en mí.~
+
+@436  = ~Creo que está permitido en ocasiones, Aerie.~
+
+@437  = ~Tienes razón. Vuelve al trabajo.~
+
+@438  = ~Eres... muy amable, <CHARNAME>.~
+
+@439  = ~Ni siquiera sé si mis padres siguen vivos. O si aún piensan o se preguntan por mí.~
+
+@440  = ~Cada posibilidad que barajo sobre lo que podría haberles ocurrido me hace otro nudo en el corazón. Quiero que me recuerden, pero tampoco quiero que ese recuerdo les siga causando dolor.~
+
+@441  = ~"Podría haber ocurrido". No lo sabes, así que sólo conseguirás sentirte peor si sigues pensando en ello.~
+
+@442  = ~Tiene que haber alguna forma de ponerse en contacto, al menos.~
+
+@443  = ~Lo sé. P-pero yo... No sé cómo parar esto...~
+
+@444  = ~Es difícil llorar por alguien que ni siquiera sabes que se ha ido.~
+
+@445  = ~Los avariel no quieren que nadie entre en contacto con ellos. Hacen todo lo posible para permanecer ocultos.~
+
+@446  = ~Las posibilidades de encontrar a otro que nos ayude son... tan buenas como encontrar a un enano pogonofóbico...~
+
+@447  = ~Lo-lo siento.~
+
+@448  = ~Ya he dicho que no puedo volver atrás. Por mucho que eche de menos a mis padres, nunca podría contentarme con volver a llevar esa vida, sabiendo todo lo que sé ahora.~
+
+@449  = ~Sólo puedo esperar que sean felices, dondequiera que estén.~
+
+@450  = ~Supongo que no podré evitar seguir sintiéndome triste, a veces. Pero estaré bien, <CHARNAME>.~
+
+@451  = ~Me alegra oírlo, Aerie. Mantente fuerte.~
+
+@452  = ~¿Quieres un abrazo? Ven aquí, un abrazo...~
+
+@453  = ~Lo intentaré. Gracias, <CHARNAME>.~
+
+@454  = ~Oh... eso es... ya puedes soltarme, <CHARNAME>. Me siento mejor.~
+
+@455  = ~Eres fuerte, <CHARNAME>. P-puede ser ... un poco intimidante, a veces.~
+
+@456  = ~¿Siempre fuiste así de duro? ¿Querías convertirte en guerrero?~
+
+@457  = ~No siempre. ¿Y tú?~
+
+@458  = ~Creo que supe muy pronto cuáles eran mis talentos. ¿Y tú?~
+
+@459  = ~Es una larga historia, Aerie. ¿Y tú?~
+
+@460  = ~No. Yo quería ser una abeja. Zumbando por ahí, besándose con las flores... las abejas tienen grandes vidas.~
+
+@461  = ~Lo siento, Aerie. Tengo otras cosas en la cabeza ahora mismo.~
+
+@462  = ~Deberías sentirte intimidado. Y a menos que quieras experiencia de primera mano de lo fuerte que soy, será mejor que consigas.~
+
+@463  = ~Como elfa, supongo que debería sentirme avergonzada por lo mucho más unida que estás a la naturaleza que yo.~
+
+@464  = ~¿Siempre te atrajo la vida al aire libre?~
+
+@465  = ~Siempre quise ser una abeja. Zumbando por ahí, besándose con las flores... las abejas tienen grandes vidas.~
+
+@466  = ~Es un gran lugar para alejarse de gente molesta como tú.~
+
+@467  = ~Me pregunto... ¿cuándo te diste cuenta de que querías ser sanadora?~
+
+@468  = ~En realidad no surgió hasta hace poco. ¿Y a ti?~
+
+@469  = ~Creo que desde el principio supe que era lo que quería. ¿Y a ti?~
+
+@470  = ~En realidad, siempre quise ser una abeja. Zumbando, besándose con las flores... las abejas tienen una gran vida.~
+
+@471  = ~Había un monje que actuaba en el circo, una vez. Yo estaba tan asombrado de sus habilidades, y ... m-tal vez había una o dos personas que soñaba con ser capaz de romper con mis puños.~
+
+@472  = ~Pero sus habilidades no eran nada comparadas con las tuyas, <CHARNAME>. Supongo que habrás empezado a entrenar a una edad temprana~
+
+@473  = ~Nunca es tarde para aprender una nueva habilidad, Aerie. ¿Y tú?~
+
+@474  = ~Lo hice, sí. Entrenaba todos los días desde que era joven. ¿Y tú?~
+
+@475  = ~Te voy a romper si no dejas de molestarme.~
+
+@476  = ~Tus habilidades con la magia realmente avergüenzan a las mías, <CHARNAME>. ¿Siempre te has sentido atraído por lo arcano?~
+
+@477  = ~Creo que estás siendo demasiado modesto, pero no, empecé a aprender hace poco. ¿Y tu?~
+
+@478  = ~Lo hice, sí. Pero creo que subestimas tus propias habilidades. Entonces, ¿qué hay de ti?~
+
+@479  = ~Es una larga historia, Aerie, pero creo que estás siendo demasiado modesta. ¿Qué hay de ti?~
+
+@480  = ~En realidad, siempre quise ser una abeja. Zumbando, besándose con las flores... las abejas tienen una gran vida.~
+
+@481  = ~Claro que sí. No lo olvides, mocosa.~
+
+@482  = ~¿Siempre quisiste ser bardo? ¿Te interesaba la música o la narración cuando eras joven?~
+
+@483  = ~No... es algo que he descubierto hace poco. ¿Y tú?~
+
+@484  = ~En efecto. ¿Y tú?~
+
+@485  = ~Ahora hay una historia, que te contaré más adelante. ¿Qué hay de ti?~
+
+@486  = ~Tengo una historia sobre el asesinato de una chica elfa del circo, porque molestaba demasiado a su jefe...~
+
+@487  = ~Yo... A veces no puedo seguirte el ritmo, <CHARNAME>. Puede ser un poco desalentador.~
+
+@488  = ~¿Siempre fuiste un... un pícaro?~
+
+@489  = ~No... Hace poco que me aficioné. ¿Y tú?~
+
+@490  = ~Siempre fui un pícaro, supongo. ¿Y tú?~
+
+@491  = ~Es una larga historia, Aerie. ¿Y tú?~
+
+@492  = ~¿Quieres una patada en la cabeza? Aléjate de mí.~
+
+@493  = ~Yo... Sé que las circunstancias que te trajeron aquí no fueron de tu elección. Pero, ¿alguna vez pensaste en una vida de aventuras antes de que todo esto sucediera?~
+
+@494  = ~Yo, desde luego, no. ¿Y tú?~
+
+@495  = ~Había pensado en viajar antes, sí. ¿Y tú?~
+
+@496  = ~Es difícil de explicar. ¿Y tú?~
+
+@497  = ~Deja de fastidiarme, por favor.~
+
+@498  = ~¿Yo... yo?~
+
+@499  = ~¿Siempre te interesaron la magia y la curación?~
+
+@500  = ~Ah... ese viejo soliloquio. Ser abeja o no ser abeja...~
+
+@501  = ~¿Qué hay de ti, Aerie?~
+
+@502  = ~Oh, lo siento, <CHARNAME>. En otra ocasión, entonces.~
+
+@503  = ~Yo-yo pensé.... Lo siento. No te molestaré de nuevo.~
+
+@504  = ~No... bueno, siempre me había fascinado la magia arcana. Mi madre solía tener varios cantrips con los que me hacía sonreír. Pero nunca empecé a aprender hasta que Quayle me enseñó.~
+
+@505  = ~También me inspiró a rezar a Baervar. De niño, siempre había honrado a los dioses elfos como nos enseñaron, pero en Faenya Dail los sacerdotes apenas salen del templo, así que nunca me interesó ser uno de ellos.~
+
+@506  = ~Estrictamente hablando, ahora no lo soy. Quiero decir, Quayle me enseñó a tener fe, pero nunca me entrené para ser sacerdotisa y nadie vino a darme un sombrerito verde ni nada.~
+
+@507  = ~Fue... en realidad todo un shock saber que la Hoja Enmascarada en persona no sólo había escuchado mis plegarias, sino que se había dignado concederme algún poder divino.~
+
+@508  = ~¿Cómo lo has descubierto?~
+
+@509  = ~Sabes, mi animal menos favorito que había en el circo, eran los chimpancés.~
+
+@510  = ~Al menos cuando un tigre está enfadado, lo único que va a hacer es matarte. Pero los chimpancés... te hacen daño. Y se juntan e intimidan.~
+
+@511  = ~¿De verdad? La mayoría de las descripciones que he oído los describen como lindos.~
+
+@512  = ~Parece que se parecen demasiado a las personas.~
+
+@513  = ~Son pura maldad peluda.~
+
+@514  = ~Sí... quizás... quizás era eso.~
+
+@515  = ~Bueno... Supongo que no eran tan malos todo el tiempo.~
+
+@516  = ~Pero un día estalló una gran pelea entre ellos, y un pequeño resultó gravemente herido. Me encargaron llevarlo a Quayle, el único sanador que había en ese momento.~
+
+@517  = ~El animalito se estremeció en mis brazos y pude ver la conmoción y el dolor en sus ojos. Por un momento sentí como si fuera un bebé, y quise susurrarle y decirle que todo estaría bien.~
+
+@518  = ~Pero entonces... Yo... No conozco las palabras para describirlo. Fue como si un géiser de energía brotara de la tierra, levantando todo mi cuerpo y mi alma, y saliendo a través de mis manos hacia él. Y cuando pasó el momento, vi que estaba curado.~
+
+@519  = ~Así que, a partir de entonces, imploré a Quayle que me enseñara a curar, además de las artes arcanas que ya estaba aprendiendo.~
+
+@520  = ~Lo siento... No es una historia tan grandiosa como otras que has oído, estoy seguro. Pero es la verdad.~
+
+@521  = ~Me ha parecido una historia preciosa.~
+
+@522  = ~Tal vez podrías embellecerlo más, como cambiar al chimpancé por un niño huérfano que sacaste de un incendio.~
+
+@523  = ~Qué amable de tu parte, <CHARNAME>, mentirme así. Gracias, <CHARNAME>.~
+
+@524  = ~Bueno... había un cachorro, una vez... oh, te lo contaré más tarde.~
+
+@525  = ~He estado observándote, <CHARNAME>.~
+
+@526  = ~De acuerdo. Eso es... raro.~
+
+@527  = ~No fue nada sórdido, <CHARNAME>. Quiero decir, hemos estado viajando juntos durante algún tiempo, así que, por supuesto, me fijo mucho en ti.~
+
+@528  = ~Supongo que siempre he sido una especie de observadora de la gente, desde niña. En mi jaula observaba continuamente a la gente que pasaba a mi lado y pensaba en ellos. De, pensaba en muchas cosas.~
+
+@529  = ~Verás, incluso enjaulada e incapaz de interactuar con el mundo exterior, la mente nunca se detiene del todo. Pasé mucho tiempo reflexionando sobre todo tipo de enigmas. Como... polillas...~
+
+@530  = ~¿Las polillas?~
+
+@531  = ~Eso es... fascinante. Bueno, creo que probablemente deberíamos irnos.~
+
+@532  = ~Creo que nunca he visto una polilla durante el día. Ni una viva. Se supone que se sienten atraídas por la luz, y sin embargo hay toda esa luz y nunca las ves. Entonces, alguien enciende una pequeña lámpara por la noche y ¡de repente hay polillas por todas partes! ¿Dónde estaban antes?~
+
+@533  = ~Si... eso es un misterio.~
+
+@534  = ~Lo es, ¿verdad? *suspira* bueno, aparte de esa forma de pensamiento abstracto, todo lo que realmente podía hacer era observar el bullicio de la gente a mi alrededor.~
+
+@535  = ~¿Aprendiste algo haciendo eso?~
+
+@536  = ~No... no lo sé. Sólo pasaba el tiempo. A menudo inventaba historias sobre algunas de las personas que veía.~
+
+@537  = ~Vi a un hombre y a una mujer, y él la rodeaba con el brazo, protegiéndola, mientras miraba y comprobaba siempre en todas direcciones. Así que supuse que probablemente era un soldado o un mercenario, alguien acostumbrado al peligro.~
+
+@538  = ~O vi a una mujer que llevaba el vestido más fino y todas esas joyas, pero, y-usted podría decir por las líneas en su cara que ninguna de sus riquezas la hizo feliz.~
+
+@539  = ~O una vez, había una chica que... que estaba sentada sola, llorando en silencio, incapaz de parar. Tal vez con la esperanza de que alguien se diera cuenta y viniera a ayudarla porque nada de lo que intentaba por sí misma hacía que el dolor desapareciera...~
+
+@540  = ~Um... cosas... cosas así.~
+
+@541  = ~¿Le ayudaste?~
+
+@542  = ~Eres muy tonto. Ella probablemente sólo se torció el tobillo o algo así.~
+
+@543  = ~Estaba en una jaula. No podía alcanzarla...~
+
+@544  = ~Y, de todos modos, podría haberse torcido el tobillo por lo que sé. Estoy seguro de que probablemente estaba bien.~
+
+@545  = ~Te he estado observando, <CHARNAME>, y quería decirte cuánto te admiro y respeto.~
+
+@546  = ~Sé que no esperabas nada de esto, pero te has adaptado tan bien a pesar de todo.~
+
+@547  = ~Yo... Puede que no esté de acuerdo con todo lo que haces, pero has tomado las riendas de tu vida y eres tu propia persona independientemente de lo que el mundo te depare.~
+
+@548  = ~Sólo espero poder llegar a ser tan fuerte, algún día.~
+
+@549  = ~Eres mucho más fuerte de lo que crees, Aerie.~
+
+@550  = ~Oye... ¡tienes razón! Soy bastante grande, ¿no?~
+
+@551  = ~Estás bromeando... Aerie, no me parezco en nada a la persona que acabas de describir.~
+
+@552  = ~Nunca sucederá.~
+
+@553  = ~La gente sigue diciendo, pero yo... no lo sé. Intentaré hacerlo lo mejor posible, a pesar de todo. Y gracias, <CHARNAME>.~
+
+@554  = ~Eh... S-sí. Tú eres.~
+
+@555  = ~¿Quizá aún no lo sabes? En cualquier caso, es lo que creo.~
+
+@556  = ~Si estás tan seguro, ¿por qué me traes contigo? Bien... ¡Probaré mi valía sin tu ayuda!~
+
+@557  = ~Lo siento... Estaba siendo un poco tonto, supongo.~
+
+@558  = ~Bueno, tal vez soy tonta. Al menos no soy... ¡un imbécil!~
+
+@559  = ~<CHARNAME>?~
+
+@560  = ~¿Sí, Aerie?~
+
+@561  = ~Ahora no, Aerie.~
+
+@562  = ~Yo... Sé que has sufrido grandes pérdidas en tu vida. Como yo.~
+
+@563  = ~Perdí mi hogar, mi familia, mis alas... Todo lo que me hacía ser quien era me fue arrebatado.~
+
+@564  = ~Lo sé Aerie. Lo siento.~
+
+@565  = ~No vas a empezar a lloriquear, ¿verdad?~
+
+@566  = ~¿P-por favor?~
+
+@567  = ~Bueno... vale, ¿qué es?~
+
+@568  = ~Dije que no.~
+
+@569  = ~No tienes que disculparte, <CHARNAME>. Me has hecho sentir que, tal vez, hay un lugar para mí en este mundo después de todo.~
+
+@570  = ~N-no...~
+
+@571  = ~Mi antigua vida se ha ido. Pero ahora tengo una nueva. Hay todo un universo por explorar, lleno de gente y lugares maravillosos y secretos por encontrar. En cierto modo, soy más libre ahora de lo que nunca hubiera sido como avariel, demasiado temerosa de alejarmee de mi hogar en las montañas siempre.~
+
+@572  = ~Puedo ir a cualquier parte y hacer lo que me proponga. Pero hay muchas decisiones que debo tomar. ¿Como qué es lo que realmente quiero hacer con esta vida? ¿Qué tipo de persona quiero ser?~
+
+@573  = ~Bueno, ¿qué hay de malo en ser tú mismo?~
+
+@574  = ~Me parece que ya has encontrado tu vocación.~
+
+@575  = ~¿Yo?~
+
+@576  = ~Eres una persona maravillosa Aerie, tal y como eres.~
+
+@577  = ~Pensándolo bien, es una idea terrible. Nunca seas tú.~
+
+@578  = ~Gracias, <CHARNAME>. Pero me estás avergonzando...~
+
+@579  = ~En cuanto a lo que deberías hacer... me parece que ya has encontrado tu vocación.~
+
+@580  = ~Bueno, yo no sé si seria tan buena actriz, así que puede que no tenga elección...~
+
+@581  = ~¿A qué te refieres?~
+
+@582  = ~Exploración, aventura, ayudar a los demás... eso es más o menos lo que hacemos. Cuando no hay magos malvados alrededor para distraernos, de todos modos.~
+
+@583  = ~Pero, ¿realmente sirvo para algo ahí fuera? Me siento tan asustada la mayor parte del tiempo.~
+
+@584  = ~La gente que nunca tiene miedo es simplemente temeraria. ¿Hacer lo que hay que hacer a pesar del miedo? Eso es valentía.~
+
+@585  = ~¿Crees que te mantendría cerca si no fueras útil?~
+
+@586  = ~Sí... Voy a pensar en lo que has dicho, <CHARNAME>. Gracias~
+
+@587  = ~Lo siento... Supongo que... no importa.~
+
+@588  = ~Tenías razón, <CHARNAME>.~
+
+@589  = ~¿En serio?~
+
+@590  = ~Por supuesto que tenía razón. Siempre tengo razón. ¿En qué tenía razón esta vez?~
+
+@591  = ~Estaba muy inquieta en el circo. Me habían enseñado magia y curación, pero nunca pude poner en práctica esas habilidades. Quería explorar y ver fuera.~
+
+@592  = ~Necesitaba salir y encontrar mi propio camino, pero creo que habría sido casi imposible por mí misma. No tenía ni idea de adónde ir ni en qué personas podía confiar, pero nunca podría aprender esas cosas si me quedaba donde estaba, y por eso estaba atrapada en ese ciclo.~
+
+@593  = ~Pero luego me ayudaste, aunque no tenías por qué hacerlo. Así que gracias, f-por... por creer y confiar en mí. Sé que debes haber pensado que era un gran riesgo traer a alguien tan inexperto.~
+
+@594  = ~No hay de qué.~
+
+@595  = ~¿Es eso en lo que tenía razón? Supongo que has demostrado ser bastante útil...~
+
+@596  = ~Por favor, deja de hablar así. Me enferma.~
+
+@597  = ~N-no... bueno, s-sí, pero... ese no es realmente el punto.~
+
+@598  = ~Entonces, ¿la única razón por la que has fingido ser mi amigo tanto tiempo es para que tus palabras puedan herirme más?~
+
+@599  = ~Bueno, a pesar de todo, ahora estoy contento con las decisiones que he tomado. No te necesito, menos tus palabras.~
+
+@600  = ~Pero esta... esta fue mi elección, realmente. Era lo que siempre quise.~
+
+@601  = ~El tío Quayle... creo que veía mi futuro de otra manera. Pensó que yo aprendería a ver la alegría en el circo, y luego lo reemplazaría cuando él ya no estuviera. Pero no pude y ese no era yo.~
+
+@602  = ~Sus relatos de sus propias aventuras me ayudaron a reavivar la sensación de asombro y alegría por el descubrimiento que había sentido de niño.~
+
+@603  = ~Al final, aceptó que yo no pertenecía al circo y me dejó marchar. Y le quiero por eso.~
+
+@604  = ~Yo... yo creo que, hacia el final, él estaba empezando a aceptar que yo no pertenecía al circo. A pesar de todo, siempre lo llevaré en mi corazón.~
+
+@605  = ~Ahora, quiero viajar. Quiero explorar, ver, experimentar y entender todo lo que pueda en este mundo, y más allá.~
+
+@606  = ~Quiero aventurarme y buscar emociones y belleza, y encontrar secretos en todos los lugares ocultos, como exige mi fe.~
+
+@607  = ~Y... Quiero luchar. A tu lado, si me dejas.~
+
+@608  = ~Nadie más debería tener que sufrir o pasar por ninguna de las cosas que yo pasé... Quiero ayudar a los que son cruelmente maltratados y atrapados siempre que pueda también.~
+
+@609  = ~Pero eso es el futuro. Sé que tienes una búsqueda importante, y estoy decidido a verla primero.~
+
+@610  = ~Entonces, ¿eso es todo... es aceptable para ti, <CHARNAME>?~
+
+@611  = ~Desde luego, Aerie.~
+
+@612  = ~No sé lo que te deparará el futuro, Aerie. Pero mientras quieras seguir viajando a mi lado, me alegro de tenerte.~
+
+@613  = ~Así que mientras nuestros intereses coincidan, puedes quedarte.~
+
+@614  = ~Gracias, <CHARNAME>. Ahora, continuemos nuestro viaje.~
+
+@615  = ~Y me alegro de estar contigo, <CHARNAME>. Ahora, continuemos nuestro viaje.~
+
+@616  = ~A pesar de cómo eres a veces, <CHARNAME>, he disfrutado el tiempo que he pasado contigo, hasta ahora.~
+
+@617  = ~¿Emocionante?  Esa no es la palabra que yo usaría.~
+
+@618  = ~Aerie, no sabes de lo que estás hablando.  Por favor, cállate.~
+
+@619  = ~Oh, sé que debe sonar extraño... pero si voy a afrontar mi vida tal y como es, quiero experimentar todo lo que pueda.~
+
+@620  = ~<CHARNAME>... ¿me... me considerarías tu amiga?~
+
+@621  = ~Más que eso, Aerie. En el tiempo que te conozco, he llegado a pensar en ti como una hermana.~
+
+@622  = ~Por supuesto, Aerie. Me sorprende que preguntes.~
+
+@623  = ~Eres un aliado útil. Nada más.~
+
+@624  = ~¿Una hermana? Yo no... Nunca tuve un hermano, <CHARNAME>. Realmente no sé lo que eso significa...~
+
+@625  = ~Significa que somos una familia. Significa que, pase lo que pase, afrontes los retos que afrontes, yo estaré ahí para ayudarte a superarlos.~
+
+@626  = ~Es que... aparte de Quayle, nunca me sentí tan cerca de nadie desde que era niña. Supongo que tenía que estar segura. Gracias.~
+
+@627  = ~Ya veo. Bueno, aprecio tu honestidad, al menos. Espero poder seguir siendo útil. Gracias, <CHARNAME>.~
+
+@628  = ~Como de la familia... Gracias, <CHARNAME>. Yo siento lo mismo. No importa lo que venga, quiero ayudarte.~
+
+@629  = ~Sean cuales sean los retos a los que nos enfrentemos, voy a hacer todo lo posible para que todos salgamos adelante.~
+
+@630  = ~Lo siento, Imoen. Por supuesto que me refería a ti también.~
+
+@631  = ~¿I-moen?~
+
+@632  = ~Cállate.~
+
+@633  = ~Bien. P-pero gracias, de nuevo, <CHARNAME>. Gracias a todos.~
+@634  = ~<CHARNAME>, tengo que pedirte un favor. Puede parecer una petición extraña...~
+
+@635  = ~¿Qué pasa, Aerie?~
+
+@636  = ~Ahora no.~
+
+@637  = ~YO... YO...~
+
+@638  = ~¡Quiero que pelees conmigo!~
+
+@639  = ~¿Pelear contigo?~
+
+@640  = ~¿Te has vuelto completamente loca?~
+
+@641  = ~No quiero pelear contigo...~
+
+@642  = ~Bueno... discutan conmigo, en realidad. No sé por qué lo dije tan dramáticamente.~
+
+@643  = ~N-no... No lo creo. Tal vez.~
+
+@644  = ~Pero me refiero a que solo discutan conmigo. No sé por qué lo dije tan dramáticamente.~
+
+@645  = ~No quiero ser una carga para nadie en este grupo, <CHARNAME>. Quiero ser fuerte y capaz de defenderme.~
+
+@646  = ~Así que creo que debería practicar, en lugar de esperar a una batalla real para tener que aprender esas habilidades. Eso es lo que he estado haciendo, hasta ahora, pero creo que puedo hacerlo mejor.~
+
+@647  = ~Y... No puedo pensar en nadie en quien confíe más que en ti.~
+
+@648  = ~Si estás segura, Aerie.~
+
+@649  = ~Realmente no soy muy buena luchadora~
+
+@650  = ~Pero no quiero hacerte daño, Aerie...~
+
+@651  = ~Yo soy.~
+
+@652  = ~Entonces, podemos ayudarnos mutuamente a mejorar. Y puedes entrenar con lo que quieras - armas, magia, er... c-sillas. Cualquier cosa.~
+
+@653  = ~¿Quién... quién dice que lo harás? Además, no estoy acostumbrada al dolor físico o de cualquier otro tipo.~
+
+@654  = ~Por favor... no me trates como a una florecilla blanda, débil y delicada. Sabes que me he defendido en batalla antes.~
+
+@655  = ~Sabes que estaba... Estaba consciente todo el tiempo, cuando serrucharon las alas de mi espalda.~
+
+@656  = ~Sé que no soy tan dura como otros, pero puedo soportar que me hagan daño. No tienes que protegerme de ello.~
+
+@657  = ~No quiero que lo hagas. De hecho, la única forma en que puedo mejorar es si no me lo pones fácil.~
+
+@658  = ~Si está segura.~
+
+@659  = ~Ven a mí, entonces, <CHARNAME>. Estoy lista...~
+
+@660  = ~¿No quieres al menos escuchar mi petición? Eso no te quitará mucho tiempo.~
+
+@661  = ~Vale... ¿qué pasa?~
+
+@662  = ~Yo... yo pensé que éramos amigos... pero si ni siquiera te tomas un momento para escucharme, entonces quizás no lo seamos. Siento haberte molestado.~
+
+@663  = ~*jadeando* T-tú... eres fuerte, <CHARNAME>.~
+
+@664  = ~Tienes suerte de no haberte lastimado más.~
+
+@665  = ~¿Estás bien, Aerie?~
+
+@666  = ~He ganado. No hay sorpresas.~
+
+@667  = ~*Otra vez, yo... Yo-yo simplemente no puedo seguir tu ritmo, <CHARNAME>.~
+
+@668  = ~No te quedas atrás, Aerie. Pero vas a necesitar un poco más para atraparme.~
+
+@669  = ~*¿Por qué... por qué nos detenemos? No te estás cansando, ¿verdad <CHARNAME>?~
+
+@670  = ~Muy gracioso. Creo que eres tú el que está agotado.~
+
+@671  = ~*¿Por qué... por qué nos detenemos, <CHARNAME>? ¿Gané?~
+
+@672  = ~Tú... llegaste en segundo lugar.~
+
+@673  = ~Oh... entonces, ¿no estás listo para rendirte todavía? Yo-yo puedo ir un poco más ... sólo necesito un minuto...~
+
+@674  = ~Creo que es suficiente, por ahora.~
+
+@675  = ~Bueno... Yo me rindo. Tu testaruda falta de voluntad para ceder a pesar de los hechos ha ganado la partida.~
+
+@676  = ~No eres rival para mí, Aerie. Esperemos que ahora no seas tan estúpida como para desafiarme de nuevo.~
+
+@677  = ~Estoy bien, <CHARNAME>. Yo-yo puedo ir un poco más ... Yo-en un minuto...~
+
+@678  = ~Realmente no esperaba ganar, <CHARNAME>. Sé que tienes más experiencia que yo.~
+
+@679  = ~Bueno, creo que es suficiente, por ahora.~
+
+@680  = ~Per... quizás tengas razón. Gracias.~
+
+@681  = ~Heh... t-hay... algo que decir acerca de ser terco, supongo. Gracias.~
+
+@682  = ~¿Ahora debes ser cruel conmigo? Yo... Hice lo que pude.~
+
+@683  = ~Y no me rendiré, <CHARNAME>. Seguiré esforzándome para ser más fuerte, con o sin tu ayuda. Ya verás.~
+
+@684  = ~Gracias por... tratarme como a un igual, supongo.~
+
+@685  = ~Y... por toda tu ayuda. Siento como si debiera tener algún discurso preparado, pero... esa no soy yo.~
+
+@686  = ~Tengo suerte de haber encontrado tan buenos amigos en este mundo.~
+
+@687  = ~Fue un accidente, lo juro...~
+
+@688  = ~¿Qué, soy sólo la sombra de <CHARNAME>? Pensé que nos llevábamos bien.~
+
+@689  = ~Ahora, sólo un minuto gobbing allí...~
+
+@690  = ~Sabes que ya tienes una hermana muy mona, ¿verdad?~
+
+@691  = ~Por supuesto, Imoen. No me había olvidado de ti.~
+
+@692  = ~No... no puedo pensar a quién te refieres...~
+
+@693  = ~¿Qué, no puedo tener más de uno?~
+
+@694  = ~Buen punto. No podría manejar más de uno... Ustedes dos van a tener que luchar hasta la muerte.~
+
+@695  = ~¡Genial! Así que todos somos una gran familia feliz.~
+
+@696  = ~¡Joder! Bueno, digan lo que digan, yo también soy parte de esta familia.~
+
+@697  = ~Me parece bien. Será genial tener un miembro de la familia que no esté totalmente loco, para variar.~
+
+@698  = ~Sí... eso es tan probable que ocurra como que ganes el premio al hijo de bhaal más encantador. Todos somos una familia aquí, así que..~
+
+@699  = ~Lo que sugiero que hagamos, es que todos tratemos de entrar en algún tipo de situación de gran abrazo de grupo...~
+
+@700  = ~¿Ah, sí?~
+
+@701  = ~Oh... um, o-okay...~
+
+@702  = ~¿Cómo... cómo pudiste dejar a Jaheira así? Cuando está enferma y te necesita...~
+
+@703  = ~Ella sería demasiado estorbo para nosotros en su condición. Ella tiene otros aliados que pueden ayudarla.~
+
+@704  = ~No puedo permitir que nos retrase.~
+
+@705  = ~Cállate, Aerie.~
+
+@706  = ~Tal vez lo haga, pero yo... ¡Todavía no puedo creer que abandonaras a un amigo así!~
+
+@707  = ~Una vez estuve enfermo... muriéndome. Si Quayle me hubiera dado la espalda así, yo...~
+
+@708  = ~Si así es como tratas a tus amigos, <CHARNAME>, entonces... Tendré que reconsiderar mi opinión de ti.~
+
+@709  = ~¡No, <CHARNAME>! ¡No te ayudaré a asesinar a este hombre! ¡Si... si hicieras esto, entonces, debo hacer todo lo posible para detenerte!~
+
+@710  = ~No, yo... Lo siento, <CHARNAME>. Tú no tienes la culpa de lo que pasó. Esta... esta sociedad trata a los hombres como... como esclavos.~
+
+@711  = ~Sólo estar en este lugar me tiene muy nerviosa. Cuanto antes podamos salir, mejor estaremos todos.~
+
+@712  = ~No tuve elección, Aerie. Lo siento, Aerie.~
+
+@713  = ~Como quieras. Pero no vuelvas a convertir a nadie en gallina... otra vez.~
+
+@714  = ~Nunca serás despreciable, niña, no... no importa lo que te digan hombres así. Recuerda que.~
+
+@715  = ~¡Eres mi héroe, señorita! ¡Gracias, otra vez!~
+
+//V1.00
+
+@716 = ~No puedo creer que me la volvieran a encontrar después de que me vendieran. Pensé que podría olvidar el pasado.~ [AERIE33]
+@717 = ~La encontraremos, Aerie. Te lo prometo.~
+@718 = ~Siento que tuvieras que cruzarte con ella, Aerie.~
+@719 = ~Nos dejará en paz. O se arrepentirá.~
+@720 = ~No puedes prometerme eso. Althkata es grande, <CHARNAME>. A menos que se cruce en nuestro camino de nuevo, ¿cómo vamos a encontrarla?~
+@721 = ~Gracias, pero ahora que sé que está aquí, quiero encontrarla de nuevo. Quiero detenerla. Para siempre. Es sólo que... no sé si alguna vez la encontraremos.~
+@722 = ~Ahora que sé que está aquí, quiero encontrarla de nuevo. Quiero evitar que haga daño a alguien más. Es sólo que... no sé si volveremos a cruzarnos con ella.~
+@723 = ~No lo sabremos a menos que lo intentemos, Aerie.~
+@724 = ~Si nos quiere muertos, estoy seguro de que querrá asegurarse de que se haga bien.~
+@725 = ~Por mí no hay problema. Tenemos otras cosas de las que preocuparnos.~
+@726 = ~Intentaré tener esperanza. Sé que no me devolverá mis alas, pero me hará sentir mejor si podemos detenerla a ella y al resto de sus crueles esclavistas.~
+@727 = ~No me gusta pensar en eso. Tengamos cuidado, <CHARNAME>.~
+@728 = ~Lo olvidé, tenemos otros problemas en mente. Lo siento. Olvídate de todo esto. Espero que no nos encontremos con ella de nuevo.~
+@729 = ~Ha muerto. No parecía más que un honesto comerciante.~
+@730 = ~¿Por qué le engañamos? Podríamos haberle dicho la verdad, convencerle de que nos ayudara honestamente, no fingiendo ser una persona tan... tan horrible.~
+@731 = ~Fuimos demasiado lentos. Llegamos demasiado tarde, y él sólo ... termina muerto, y la varilla se ha ido. Me siento tan horrible. Apenas quiero seguir adelante si Laravyl va a estar dos pasos por delante de nosotros cada vez. Estoy cansada de que gane.~
+@732 = ~No se habría movido sin un empujón. Involucró al guardia, no a nosotros.~
+@733 = ~Bueno, ya está hecho. Eso es lo que importa, ¿no?~
+@734 = ~Esto no es culpa nuestra, Aerie.~
+@735 = ~Sólo si ... eso es todo lo que te importa.~
+@736 = ~Pero *es* culpa nuestra, <CHARNAME>. Estaba asustado... intentaba hacer lo correcto. Y nosotros no.~
+@737 = ~Volvamos con Trent y démosle la vara. Realmente no quiero hablar más.~ 
+@738 = ~Me siento como si estuviera cayendo en picado a la tierra de nuevo cuando... ella me derribó. Tan... triste y sin esperanza. Pero esta vez, no pude salvar a nadie.~
+@739 = ~La atraparemos, Aerie. Ella cometerá un error tarde o temprano.~
+@740 = ~Hicimos todo lo que pudimos. A veces, estas cosas pasan.~
+@741 = ~Lo siento, Aerie.~
+@742 = ~Yo... espero que sí, porque cada vez que he visto su cara, algo horrible sucede, o alguien muere.~
+@743 = ~Pero no tienen que hacerlo. No tienen que hacerlo. Oh, cómo me gustaría.~
+@744 = ~No es tu culpa, <CHARNAME>. Es de ella. Sólo... sólo de ella.~
+@745 = ~V-vamos a volver con Trent. No quiero darle más vueltas a esto.~
+@746 = ~Ellos... han ido demasiado lejos. Llevarse a Trent... perder al mismo que yo salvé. Yo... yo no podría soportar eso, <CHARNAME>.~
+@747 = ~T-Tenemos que encontrarlo. Tenemos que hacerlo. No puedo dejar que esta gente horrible gane. Estoy tan enfadada ,yo...Oooh.~
+@748 = ~Tranquila, Aerie. Lo atraparemos.~
+
+@749 = ~Estaremos en una pelea. Todos estarán allí, todos los responsables del anillo de esclavos. ¿Están listos?~
+@750 = ~Es una trampa. Lo mejor para nosotros es dejarlo ser.~
+@751 = ~Tenemos que hacerlo. Yo... no podría vivir conmigo mismo si no muriera.~
+
+@752 = ~Lo estoy haciendo. Me han quitado demasiado para no hacer nada.~
+@753 = ~Sé que puede ser una trampa, <CHARNAME>. Pero te lo ruego, por favor, no dejes que muera. No dejes que el chico que salvé muera.~
+@754 = ~Debemos darnos prisa. Tengo la horrible sensación de que no tenemos mucho tiempo para rescatar a Trent.~
+
+@755 = ~Ese amo de los esclavos... por fin ha muerto.~
+@756 = ~Estoy muy contenta. Siento como si un poco de luz tocara esta ciudad, y me hace sentir muy cálida.~
+@757 = ~Gracias <CHARNAME>. Realmente eres una persona increíble.~
+@758 = ~Sólo desearía que Trent siguiera vivo... nunca lo olvidaré. Y... y creo que tomaré su causa, cuando esto termine. Es noble, y no merece morir con él.~
+@759 = ~Pero... vámonos de aquí. No soporto más este recinto.~
+
+@760 = ~Aerie, Boo se pregunta. ¿Había algún... hámster espacial gigante en miniatura en tu circo?~
+@761 = ~N-no. Nunca he visto nada como Bubu en el circo. ¿Por qué lo preguntas?~
+@762 = ~Boo no se está haciendo más joven, y está ansioso por encontrar un hámster espacial hembra, sí.~
+@763 = ~Bueno, si Bubu realmente está tratando de encontrar a alguien, ¿tal vez podrías preguntar a algunos comerciantes? Estoy seguro de que alguien sabría otro comerciante que vende hámsters.~
+@764 = ~Eres muy inteligente, Aerie. ¡Hagámoslo y Bubu encontrará a su pareja!~
+@765 = ~Minsc, no voy a ir preguntando a cada comerciante que encuentre si tienen un hámster espacial.~
+@766 = ~Minsc, dudo que encontremos algo en Althkata.~
+@767 = ~Tienes razón, Minsc. ¡Buscaremos por todo Amn hasta que se nos cansen los pies!~
+@768 = ~Mira a Bubu. ¡Le has puesto los ojos tristes! Ven aquí, Bubu. Minsc te hará sonreír de nuevo.~
+@769 = ~Bubu cree que puedes tener razón, ¡pero te estaremos muy agradecidos si lo intentas!~
+@770 = ~Supongo que no puede hacer daño, ¿verdad, <CHARNAME>?~
+@771 = ~¡Bubu mora de la emoción! O tal vez sea Minsc. Cualquier mal en nuestro camino recibirá una patada en el culo.~
+@772 = ~A veces me pregunto cuáles son las prioridades de este grupo.~
+@773 = ~¿Es ésta realmente una forma fructífera de emplear nuestro tiempo?~
+@774 = ~¿Empezamos una familia? Tal vez yo pueda ser el dueño de una, siempre cuidé bien del gato del tío Scratchy, excepto aquella vez que se enemistó con Tomelgato callejero. Un malentendido, ya ves, de quién es la comida de quién. Costó una oreja, ¡pero lo hizo lucir aún mejor! Lástima que el tío no lo viera así.~
+@775 = ~¿Y ahora somos emparejadores de hámsters? A menos que estemos cortando y comiendo, ¿qué sentido tiene?~

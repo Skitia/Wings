@@ -1,0 +1,508 @@
+@0    = ~Aerie, puedo ver que estás agotada.  Permíteme llevar algo de esa carga.~
+
+@1    = ~No, Anomen... eres muy amable, pero puedo arreglármelas sola.  Realmente no quiero depender siempre de los demás para llevar mi peso por mí..~
+
+@2    = ~Entiendo tu deseo de probarte a ti misma.  Pero ten en cuenta que serás de poca ayuda luchando contra nuestros enemigos si al mismo tiempo estás luchando contra tu propia fatiga.  No hay que avergonzarse por aceptar una ayuda de vez en cuando.~
+
+@3    = ~Supongo. Pero, ¿qué hay de ti, Anomen? ¿Hay algún problema con el que necesites ayuda?~
+
+@4    = ~Por supuesto que no. Soy un caballero.~
+
+@5    = ~Aerie... no deberías llevar una carga como esa.~
+
+@6    = ~¿En serio?~
+
+@7    = ~No. Debes mantener la espalda recta y doblar las rodillas.~
+
+@8    = ~Ugh... aléjate de mí, Anomen.~
+
+@9    = ~Pareces nerviosa, Aerie.~
+
+@10   = ~Es bastante normal, para mí.~
+
+@11   = ~Tal vez quise decir, aprensivo.~
+
+@12   = ~Yo... supongo. No entiendo cómo tú y los demás podéis estar tan tranquilos cuando podemos enfrentarnos al peligro en cualquier momento. ¿Nunca tienes miedo?~
+
+@13   = ~No es que ni yo ni nadie tengamos nunca miedo. No tener miedo conduce a la temeridad, que rápidamente acaba con la vida. El miedo no debe tratarse como un enemigo: es un regalo de la naturaleza para preservarnos. Pero hay que tener cuidado de no dejar que nos controle. Debes controlarlo.~
+@14   = ~Entiendo, Cernd. Creo que sí. Gracias, Cernd.~
+@15   = ~Te haces más fuerte cada día que pasa.~
+@16   = ~No siento que me haya vuelto mucho más fuerte. Lo intento, pero hay tantos otros que sé que son más poderosos, más rápidos y más fuertes de lo que yo nunca seré.~
+@17   = ~Tu modestia sería encantadora, si no estuviera tan fuera de lugar. Ya eres más fuerte y más poderoso que la mayoría.~
+@18   = ~¿Lo soy?~
+@19   = ~Sigue intentándolo, Aerie. Un día, no tendrás más remedio que creer en mis palabras.~
+@20   = ~¿Aerie?~
+@21   = ~Oh... N-Nalia, yo... ¿qué pasa?~
+@22   = ~Nada. Has estado callado por un tiempo. Pensé en ver cómo estabas.~
+@23   = ~Oh. Estoy bien. Sólo estaba perdida en mis pensamientos, sueños, recuerdos... lo usual.~
+@24   = ~Siento que desde que te mostré mi anillo, me has estado evitando.~
+
+@25   = ~¡No lo he hecho! Sólo estaba...~
+
+@26   = ~Aerie, quiero... Necesito que me digas la verdad. ¿Habías visto antes un anillo como este?~
+
+@27   = ~Yo... n-no. No es importante. Lo siento...~
+
+@28   = ~Aerie...~
+
+@29   = ~Yo... Yo no puedo. Lo siento...~
+
+@30   = ~Sin duda ha viajado mucho. ¿Cómo era la vida en tu país?~
+
+@31   = ~La gente es muy parecida en todo el mundo, aunque su forma de vestir, sus costumbres o sus sonidos sean diferentes.~
+
+@32   = ~Me gustaría aprender algo de tu idioma.~
+
+@33   = ~Donde quieras que cante un pájaro enjaulado, joven Aerie, no necesitas entender sus palabras para saber de qué canta.~
+
+@34   = ~Eso es hermoso... aunque también un poco insultante...~
+
+@35   = ~*sonríe* Pero... ¿volverás alguna vez a casa?~
+
+@36   = ~Tal vez. Algún día.~
+
+@37   = ~Pero qué pasa con... Quiero decir, ¿tienes familia?~
+
+@38   = ~Yo... una hermana. Sí.~
+
+@39   = ~Oh... Yo... lo siento. Debes echarla mucho de menos.~
+
+@40   = ~Yo... Ahh, pero tu agradable compañía me hace sentir en casa una vez más. ¡Ven!~
+
+@41   = ~¿Cuáles son?~
+
+@42   = ~¿Te refieres a las estrellas?~
+
+@43   = ~Sí. Tan distantes, y... tan hermosos. ¿Pero qué son? ¿Por qué están ahí?~
+
+@44   = ~Almas, dicen algunos, o espíritus de dioses muertos hace mucho tiempo que vagan eternamente por el vacío. Otros afirman que son otros soles lejanos, cada uno con mundos a su alrededor como el nuestro.~
+
+@45   = ~O no como el nuestro... eso... eso es lo que mi padre pensaba también.~
+
+@46   = ~¿Qué crees que son?~
+
+@47   = ~No lo sé. Creo que... Creo que a veces está bien no saber. Significa que aún queda camino por recorrer, y que hay cosas nuevas esperando a ser descubiertas. Algún día descubriremos la verdad. Mientras tanto, dejaré que mi espíritu se eleve y soñaré con las infinitas posibilidades...~
+
+@48   = ~¡Psst! ¡Aerie!~
+
+@49   = ~¿Neera?~
+
+@50   = ~¿Ves a ese hombre de ahí? ¡Nos está observando!~
+
+@51   = ~¿D-dónde?~
+
+@52   = ~¡No mires! No quiero que sepa que vamos tras él...~
+
+@53   = ~¿Nosotros... somos?~
+
+@54   = ~... Oh, sí, estoy en ti, que beady ojos perilla tener creep ... ¡Ja! No sé por qué se molesta en tratar de ocultarlo. Tan obviamente un villano...~
+
+@55   = ~¿Estás segura de que no estás paranoica?~
+
+@56   = ~La paranoia me ha salvado la vida muchas veces a lo largo de los años. ¡Te digo que este tipo nos está espiando! Podría estar trabajando para los Hechiceros Rojos... ¡tienes que ayudarme a tratar con él!~
+
+@57   = ~Creo que deberíamos tener más pruebas de que realmente es un espía, antes de hacer cualquier trato...~
+
+@58   = ~Bueno, tal vez tengas razón... Bueno, vamos a mantener un ojo en él, por ahora...~
+
+@59   = ~Vale, ¡esta es su habitación! ¡A buscar! Tú revisa esos cajones, y yo echaré un vistazo debajo de la cama.~
+
+@60   = ~*Llora*~
+
+@61   = ~Zapatos... alforja... pantalón... bueno, nada incriminatorio, todavía. No sé... tal vez estaba siendo paranoica...~
+
+@62   = ~Oh, mi...~
+
+@63   = ~¿Qué es? ¿Qué es? ¡¿Qué has encontrado?!~
+
+@64   = ~Tenías razón... realmente nos estaba espiando...~
+
+@65   = ~¡Lo sabía! Entonces, ¿qué es? ¿Notas sobre nuestras actividades? ¿Cartas a sus amos del Mago Rojo?~
+
+@66   = ~Bueno... no exactamente. Echa un vistazo por ti mismo. Parece que es una especie de artista...~
+
+@67   = ~...eso... eso es simplemente asqueroso...~
+
+@68   = ~Oh, no sé... m-mi pecho ha sido exagerado, y los pezones no pueden realmente disparar así, pero yo-yo creo que realmente ha capturado tu espíritu salvaje...~
+
+@69   = ~Aerie... ¡quema esa... cosa! ¡Ahora mismo!~
+
+@70   = ~Me parece una pena, pero... vale...~
+
+@71   = ~Esto es peor de lo que había imaginado... debe ser, como, un fan o algo así...~
+
+@72   = ~¡Oh no! ¡Creo que puedo oírle! ¡Rápido! Sólo... ¡quédate quieto!~
+
+@73   = ~¡Maldita sea!~
+
+@74   = ~*canturrea* Heh... ¡Heheha!~
+
+@75   = ~Aerie... nos acabamos de convertir en ratones. ¡No entiendo por qué lo encuentras tan gracioso!~
+
+@76   = ~Es que... Nunca había visto unos bigotes tan rosados...~
+
+@77   = ~Augh... Mira, vamos a volver de la puerta antes de que se abre y nos aplasta.~
+
+@78   = ~Oh... entonces, seriamos dormilones...~
+
+@79   = ~¡Para! Sólo... detente. Oh no...~
+
+@80   = ~Huh. Bueno, eso fue más fácil de lo que pensé que sería. No sé cómo vamos a deshacernos de nuestras colas aunque...~
+
+@81   = ~Espera... Creo que puedo hacerlo...~
+
+@82   = ~Aerie, ¿alguna vez has querido ver un unicornio?~
+
+@83   = ~Sí, sería hermoso y fascinante de contemplar.~
+
+@84   = ~Leí una vez que para invocar a un unicornio, una "bella doncella debe yacer sola en un campo y, al cabo de un tiempo, vendrá un unicornio'.~
+
+@85   = ~Eso... parece poco probable...~
+
+@86   = ~Bueno, eres justa. Y una doncella, creo. ¿Por qué no lo probamos y vemos?~
+
+@87   = ~Así que... ¿quieres que me tumbe sola, en un campo, y espere a que una bestia cachonda se acerque sigilosamente?~
+
+@88   = ~¿Lo harías?~
+
+@89   = ~No.~
+
+@90   = ~He oído de magos que realizan los más horribles experimentos con los avariel. ¿Alguna vez te ha preocupado?~
+
+@91   = ~No... yo solía serlo. Pero, la verdad es que eran mis alas lo que todos consideraban valioso. Sin ellas, soy... sólo un elfo, supongo.~
+
+@92   = ~A veces desearía perder lo que todo el mundo cree que es valioso de mí...~
+
+@93   = ~¡Oh! Quiero decir... ¡lo que te pasó fue terrible, por supuesto! Sólo estaba... ¡Oh, no! Lo he hecho de nuevo, ¿no?~
+
+@94   = ~Te entiendo, Neera. En mi experiencia, el coste - ser forzado a renunciar a quién y qué eres - no merece la pena.~
+
+@95   = ~Supongo. Pero, te equivocas en una cosa. No eres sólo una elfa. Vales por lo menos una docena de la mayoría de los elfos que he conocido. Te llamaremos... medio gnomo.  ¿Existe tal cosa como un medio-gnomo? No lo sé.~
+
+@96   = ~Una vez en el circo, un truco con una sierra salió mal, y...~
+
+@97   = ~¡Alto! Sheez ... estás oscuro...~
+
+@98   = ~¿Imoen? ¿Te encuentras bien?~
+
+@99   = ~¿Eh? W-wha ... oh, Aerie, ¿verdad? Tu tienes un paso ligero... casi te escabulles.~
+
+@100  = ~¿Estás segura?~
+
+@101  = ~Claro que estoy seguro. Sólo... me entró un poco de viento en el ojo, eso es todo.~
+
+@102  = ~Yo.. Creo que estás tratando de no preocupar a <CHARNAME>. Pero, no tienes que... Quiero decir, sé lo que se siente. Estar encerrado en una jaula, y... sometido. Y que te quiten algo tan importante así. Si alguna vez necesitas hablar, yo... puedo escucharte. Y no te echaría nada en cara.~
+
+@103  = ~Gracias Aerie. Eres muy dulce, pero creo que estoy bien. Tú... en realidad no dices mucho, ¿verdad?~
+
+@104  = ~Bueno, yo... Trato de ser amigo de la gente. Pero supongo que a veces me pierdo en mi propio mundo.~
+
+@105  = ~Eres tímido. No pasa nada. Puedes quedarte conmigo y charlar un rato. Quiero saber todo lo que <CHARNAME> ha estado haciendo mientras he estado fuera. Supongo que estaban perdidos sin mí, ¿verdad?~
+
+@106  = ~Imoen... ¿puedo hablar contigo?~
+
+@107  = ~Oh, Aerie... ¡no tienes que preguntar! Somos amigos, ¿verdad?~
+
+@108  = ~Yo... creo que sí. Pero, ¿los amigos suelen leer el diario de sus amigos sin preguntar primero?~
+
+@109  = ~Por supuesto que no. Sólo los mejores amigos se preocupan lo suficiente como para ser tan entrometidos.~
+
+@110  = ~Bueno, algunas personas podrían verlo como una violación o invasión de su privacidad...~
+
+@111  = ~Bueno, eso es una tontería. Si no querías que nadie viera lo que habías escrito, ¿para qué escribirlo?~
+
+@112  = ~A veces me ayuda a entender las cosas. *suspiro* Supongo que no me importaría demasiado, excepto, ¿tenías que añadir tantas anotaciones?~
+
+@113  = ~Necesitaba aligerarse en algunos puntos. Admitámoslo, puedes ser un poco sensiblero. Pero me gustan las historias de Chiktikka Patasrapidas, y las cosas que escribiste sobre los demás. Todo tan cierto...~
+
+@114  = ~¿Podemos mantener todo eso entre nosotros? ¿Por favor? Me gusta respirar y poder salir de vez en cuando...~
+
+@115  = ~¿Crees que haría algo que metiera en problemas a mi mejor amigo?~
+
+@116  = ~No deliberadamente, estoy seguro. Pero, por favor, ¿puede al menos preguntar en el futuro?~
+
+@117  = ~¿Cómo voy a ayudarte si no sé lo que estás pensando?~
+
+@118  = ~¿Me ayudas? No hace falta. Realmente.~
+
+@119  = ~No. Mira, has sido tan amable, ayudándome después de... ya sabes. Y no puedo dejarlo pasar. Tengo que ayudarte a ti también. Y, creo que ahora he descubierto cuál es tu problema, y cómo puedo resolverlo.~
+
+@120  = ~¿Mi problema? Imoen, m-mi único problema ahora mismo es que revises mis cosas.~
+
+@121  = ~Ahora ambos sabemos que no es así. Mira, lo que he aprendido es esto:~
+
+@122  = ~Había una vez una niña que tenía alas. Amaba su vida y su libertad, tenía la cabeza llena de ideas y preguntas y quería abrir todas las rendijas y puertas del multiverso y echar un vistazo dentro. Pero algo malo le ocurrió a esa niña y casi olvidó quién era. Cómo todo en el mundo solía ser tan vibrante, vivo y colorido.~
+
+@123  = ~Casi me pierdo allí también. ¿Pero sabes qué? Podemos recuperarlos. Ambos podemos. Juntos.~
+
+@124  = ~Eres... una persona muy rara...~
+
+@125  = ~Es por eso que todo el mundo me quiere.~
+
+@126  = ~¡Oww! Hey. ¡Es suficiente! ¿Quién sigue tirándome estas cosas? Quienquiera que sea, será mejor que pare, o... ¡Oww!~
+
+@127  = ~Eek!~
+
+@128  = ~¡Te vi Aerie! ¡No intentes huir!~
+
+@129  = ~¡Yo-yo lo siento Imoen! ¡No tengo elección!~
+
+@130  = ~¿De qué estás hablando?~
+
+@131  = ~Bueno... somos amigos, ¿verdad?~
+
+@132  = ~Eso depende de tu explicación. Más vale que sea buena.~
+
+@133  = ~Verás, como seguidor de Baervan Wildwanderer, en días especiales, como hoy, yo... tengo que gastar bromas y lanzar bellotas a mis amigos.~
+
+@134  = ~¿Qué clase de loca religión de cabeza de chorlito es ésta?~
+
+@135  = ~Es sólo que... es una cosa de gnomos...~
+
+@136  = ~Bueno, podrías avisar a tus amigos de todo esto, para que nosotros también fuéramos armados.~
+
+@137  = ~Oh, y-puedes tomar prestado algo de lo mío...~
+
+@138  = ~¡Oh, gracias! Ahora, quédate quieto...~
+
+@139  = ~Oww... Ouch!~
+
+@140  = ~¡Ahora lo entiendo! ¡Esto es divertido!~
+
+@141  = ~¡Oww! ¡No...! Me debes más chupitos gratis... ¡vuelve aquí!~
+
+@142  = ~A veces me gustaría que te tomaras algunas cosas más en serio.~
+
+@143  = ~¿Todavía te duele haber perdido la pelea de almohadas?~
+
+@144  = ~Yo... realmente no perdí... pero, sólo desearía que te esforzaras más algunas veces. Quiero decir, yo... yo siempre estoy esforzándome y esforzándome al máximo sólo para apenas mantener el ritmo de algunas personas. Pero tú... tú haces que todo parezca tan fácil. Sólo piensa en lo que podrías hacer si realmente te aplicaras.~
+
+@145  = ~Me aplico a las cosas. Por ejemplo, llevo años intentando que la gente empiece a usar la frase "El encanto de <CHARNAME>", como un término de moda para algo que probablemente no existe.~
+
+@146  = ~¿Qué tal "El cerebro de Imoen" en su lugar? Sabes que están ahí escuchando, ¿verdad?~
+
+@147  = ~No te preocupes.~
+
+@148  = ~*suspiro* Creo que puedes ser un poco demasiado despreocupado.~
+
+@149  = ~Bueno, te enfrentarás a <CHARNAME> por mí, ¿verdad?~
+
+@150  = ~He estado deprimido, a veces, pero nunca realmente suicida...~
+
+@151  = ~Vale, vale... te diré una cosa: me tomaré las cosas más en serio si intentas sonreír más a menudo. Eso es justo, ¿verdad?~
+
+@152  = ~Yo... Supongo que puedo intentar.~
+
+@153  = ~Algunas de las cosas que pasan por aquí... Yo sólo... No puedo molestarme en decirlo. Aerie, dilo tú.~
+
+@154  = ~Tú... ¡eres un cabeza de chorlito! Hmph.~
+
+@155  = ~Bien dicho.~
+
+@156  = ~Gracias.~
+
+@157  = ~Sin embargo, no estoy seguro del pisotón.~
+
+@158  = ~Oh, pensé que necesitaba un poco de énfasis extra.~
+
+@159  = ~Hmmm... sí, no lo sé.~
+
+@160  = ~Supongo que todavía tengo mucho que aprender.~
+
+@161  = ~Quédate conmigo. Lo conseguirás.~
+
+@162  = ~No te caigo bien, ¿verdad?~
+
+@163  = ~La verdad es que no.~
+
+@164  = ~¿Porque soy una drow?~
+
+@165  = ~Solía tenerte miedo por esa razón, por todas las historias que había oído sobre las drow mientras crecía. Pero he aprendido mucho desde entonces, sobre las drow y cómo su sociedad las ha hecho. Ya no me asustan.~
+
+@166  = ~No, ahora, simplemente no me gustas porque eres una zorra. Pero admito que no eres tan mala como pensaba. Has demostrado ser leal a <CHARNAME>, por lo menos.~
+
+@167  = ~Bueno, ya que estamos siendo honestos, una vez pensé que era un error para <CHARNAME> permitir que algo tan patéticamente frágil y débil como tú a largo plazo. Pero, tal vez yo era tan culpable como la mayoría de los habitantes de la superficie que he encontrado en sólo juzgar por lo que veía en el exterior.~
+
+@168  = ~Admito que ha resultado útil en ocasiones y que, desde luego, ha superado todas mis expectativas. Aunque para empezar eran excesivamente bajas.~
+
+@169  = ~¿Gracias?~
+
+@170  = ~¿Alcanzamos a los demás?~
+
+@171  = ~¿Por qué no sigues adelante?.~
+
+@172  = ~¿Aún no confías en mí?~
+
+@173  = ~Realmente hay esperanza para ti, aún.~
+
+@174  = ~Jaheira?~
+
+@175  = ~Sí, niña.~
+
+@176  = ~¿Niña? ¿De verdad sigues pensando así de mí?~
+
+@177  = ~Es... una muestra de afecto. Te he visto crecer desde prácticamente una recién nacida en este mundo, al menos, hasta convertirte en una joven fuerte. Ahora, ¿qué era lo que querías?~
+
+@178  = ~Yo... sólo quería disculparme.~
+
+@179  = ~¿Para qué?~
+
+@180  = ~Yo... creo que pude haber dicho cosas, antes, que... eran cosas hirientes. Así que, lo siento.~
+
+@181  = ~Sabes que, la verdad, siempre te he admirado. Por eso fue tan fácil para ti herirme, y yo...~
+
+@182  = ~E intentaste hacerme daño. Lo comprendo. No hay necesidad de disculparse. Y la verdad es que, aunque me sentí herida, también me impresionó el valor que demostraste al enfrentarte a mí en todo.~
+
+@183  = ~Todavía me siento culpable por ello...~
+
+@184  = ~Has aprendido de tus errores, igual que yo. Así que dejémoslos en el pasado, donde pertenecen.~
+
+@185  = ~Lo intentaré. Gracias.~
+
+@186  = ~Y por favor, no tienes que traerme más magdalenas que hayas hecho. Estoy bastante lleno.~
+
+@187  = ~¿Te encuentras bien, Edwin?~
+
+@188  = ~(Ha! AHORA le importa.) *Sniffs* Por supuesto, chica. Todo va de maravilla (aparte de la pequeña molestia de estar a las puertas de la muerte).*estornudos*~
+
+@189  = ~¿Estás... seguro?~
+
+@190  = ~¡ME ESTOY MURIENDO, TONTA!~
+
+@191  = ~Realmente no eres...~
+
+@192  = ~( ¡Bah! Sin compasión ni siquiera de este ñoño tarsiiforme...) Eh, no importa, ahora. Coge esto.~
+
+@193  = ~¿De qué se trata?~
+
+@194  = ~Peticiones para mi funeral. Me gustaría que fuera una ocasión austera y sombría...~
+
+@195  = ~Ajá... y, ¿dónde esperas que encuentre una docena de caballos negros... o una orquesta de cuerda?~
+
+@196  = ~Oh... Sé que puedes ser ingenioso.  Pensarás en algo.~
+
+@197  = ~Edwin, basta. Ya te lo he dicho, no te estás muriendo. Todo lo que tienes es un resfriado.~
+
+@198  = ~¡Para lo cual TÚ afirmas NO tiene cura!~
+
+@199  = ~No puedo malgastar los recursos del partido en algo de lo que te recuperarás perfectamente por ti mismo en uno o dos días.~
+
+@200  = ~Dime, ¿por qué nunca estás enfermo?~
+
+@201  = ~Oh... s-solo, suerte, supongo...~
+
+@202  = ~Tienes un corazón valiente y puro, joven Aerie.~
+
+@203  = ~No soy un ángel, Keldorn. Sólo hago lo mejor que puedo.  Pero, gracias.~
+
+@204  = ~Pero, ¿por qué quieres luchar?~
+
+@205  = ~¿Luchar por?  Supongo que... ¿por mis amigos?~
+
+@206  = ~¿No tienes un objetivo mayor? ¿No deseas ver a las fuerzas del mal purgadas y expulsadas de este mundo?~
+
+@207  = ~Lo hago. Pero, sinceramente, mi objetivo es explorar, ver y comprender el mundo. No intentar cambiarlo todo. Por supuesto, ayudaré cuando pueda.~
+
+@208  = ~¿Y qué hay de los esclavistas? Sabes que otros siguen sufriendo como tú lo hiciste una vez.~
+
+@209  = ~Lo sé. Y lucharé contra ellos dondequiera que los encuentre. Pero no deseo que eso domine mi vida... esa vida es mía, ahora. Ya me han quitado demasiado. De ahora en adelante, seguiré mis sueños y viviré como yo elija.~
+
+@210  = ~Me temo que el camino no será fácil para ti. El mal tiene una manera de forzar nuestras vidas, lo queramos o no.~
+
+@211  = ~Sólo estoy preocupada por ti..~
+
+@212  = ~Lo sé, Aerie. Lo siento.~
+
+@213  = ~Cuando me enteré de la existencia de <CHARNAME>, nunca pensé mucho en ello. Supongo que nunca me lo creí de verdad.~
+
+@214  = ~Pero ahora, después de la cazadora, y de haber estado en el plano de Bhaal... empieza a parecer mucho más real.~
+
+@215  = ~Oye, ¿cómo crees que me siento? No quiero convertirme en un monstruo con más dientes que en el collar de un chamán orco.~
+
+@216  = ~Lo siento. Yo sólo... Quiero ayudar, pero no estoy seguro de cómo puedo...~
+
+@217  = ~Oye... eres mi amigo, ¿verdad? Sólo... sigue haciendo eso. Es todo lo que necesito.~
+
+@218  = ~Por supuesto que lo haré, Imoen. Pase lo que pase.~
+
+@219  = ~Y sonríe para mí, ¿de acuerdo?~
+
+@220  = ~O--okay...~
+
+@221  = ~* bostezos * Hola, Aerie. ¿Qué haces?~
+
+@222  = ~Oh... nada, de verdad. N-nada de nada.~
+
+@223  = ~Hmmm... vamos, Aerie. Sabes que no puedes ocultarme nada. ¿Qué estás tramando realmente aquí?~
+
+@224  = ~Yo... te lo dije, ¡nada! Pero... ¿cómo te sientes? ¿Estás bien?~
+
+@225  = ~Huh... ¿por qué quieres saberlo?~
+
+@226  = ~Sólo... curiosidad. ¿Has estado experimentando dolores de cabeza? ¿Dolor de garganta? ¿Falta de aliento?~
+
+@227  = ~Bueno, mi hombro ha estado un poco rígido. Y mi garganta está un poco seca...~
+
+@228  = ~Oh, mi... Imoen, yo... Lo siento mucho... sabes que yo... Te quiero, como a una hermana. Lo sabes, ¿verdad?~
+
+@229  = ~Ajá... Aerie, ¿por qué estás actuando raro? ¿Qué es lo que pasa?~
+
+@230  = ~Yo... Supongo que deberías saberlo. Verás, los otros notaron que actuabas diferente, y me pidieron que lo investigara.~
+
+@231  = ~No he actuado de manera diferente...~
+
+@232  = ~Bueno, verás, no te darías cuenta porque está dentro de ti, alterando tus percepciones...~
+
+@233  = ~¿Qué? ¡¿Qué hay dentro de mí?!~
+
+@234  = ~Es... una especie de parásito demoníaco. Debe haber estado escondido alrededor del avión de bolsillo... se... se mete dentro de ti mientras duermes, y... y luego...~
+
+@235  = ~...lentamente consume tu cerebro desde dentro. Lo siento, Imoen... Lo siento mucho.~
+
+@236  = ~P-pero... Me siento bien...~
+
+@237  = ~Eso... eso es bueno. Verás, sucederá lentamente y no sentirás nada. Por eso... pensamos en no decírtelo.~
+
+@238  = ~Pero pensé que, como amigo, merecías saber la verdad.~
+
+@239  = ~Aerie, si hay algo metido en la cabeza, ¡tienes que sacarlo! ¡Debe haber algo que puedas hacer! ¿Está en tu libro? ¡Déjame verlo!~
+
+@240  = ~Oh, dioses... eso es asqueroso...~
+
+@241  = ~Lo siento. He investigado todo lo que he podido, pero... He investigado todo lo que he podido, pero... todas las fuentes dicen que una vez dentro, no hay forma de sacarlo sin matarte.~
+
+@242  = ~Entonces, ¿qué, ibas a dejar que pasara? ¡¿Nadie iba a decirme nada?!~
+
+@243  = ~Bueno, para ser honesto, creo que todo el mundo pensó que realmente no echaría de menos su cerebro de todos modos. Nadie más lo haría... *ríe a carcajadas*~
+
+@244  = ~No me lo puedo creer...~
+
+@245  = ~Oye, espera un momento... ¿me estás... me estás gastando alguna broma?~
+
+@246  = ~*Risas* Realmente no pensé que fuera tan buena actriz...~
+
+@247  = ~¡Ohh! ¡Eso... eso fue malo, Aerie!~
+
+@248  = ~Yo tampoco pensé que te lo creerías...~
+
+@249  = ~Yo... ¡Estaba cansado, vale! ¡Ohhh! ¡Voy a recuperarte por esto!~
+
+@250  = ~¡No huyas! Yo te hice, Aerie... ¡Yo también puedo destruirte!~
+
+@251  = ~...Gracias, <CHARNAME>.~
+
+@252  = ~Korgan, por favor, déjame en paz. No quiero causar problemas al grupo porque uno de sus miembros sea un matón borracho y malhablado.~
+
+@253  = ~Bah ... Yo estaba aburrido de ti de todos modos.~
+
+@254  = ~¡Palabras superficiales y sin sentido! Yo tampoco las necesito de ti.~
+
+@255  = ~Es suficiente, Korgan. Aerie no está molestando a nadie. Son tus malditas bravatas las que me dan dolor de cabeza~
+
+@256  = ~......~
+
+@257  = ~Anomen, Aerie sólo intenta apoyarte. Y tiene razón, no necesitas tirar por la borda todas las cosas que te han enseñado.~
+
+@258  = ~*No digas nada*~
+
+@259  = ~¡No, Anomen! ¡Detente!~

@@ -1,10 +1,10 @@
-@0 = ~Will you hold and speak to me a moment? You are the ones who brought down Lehtinan. I have been hoping to find you, though Althkata swallows people like needles in haystacks.~
+@0 = ~Will you hold and speak to me a moment? You are the ones who brought down Lehtinan. I have been hoping to find you, though Athkatla swallows people like needles in haystacks.~
 @1 = ~Who are you, and what do you want with us?~
 @2 = ~If you are another slaver avenger, you best reconsider.~
 @3 = ~You have found me. Now speak.~
-@4 = ~I seek you not to harm you, but for your help. When you took down Lehtinan, you took down one of the buyers of slaves in Althkata, but I think you are capable of making a much larger hole in the underworld's slave market.~
+@4 = ~I seek you not to harm you, but for your help. When you took down Lehtinan, you took down one of the buyers of slaves in Athkatla, but I think you are capable of making a much larger hole in the underworld's slave market.~
 @5 = ~You've already shown it by freeing the slaves in the slave compound, but the mind of the operation is still at large. Lord Praxis.~
-@6 = ~I know how we can target the mind behind the operation, but first, you should help Hendak and strike the heart. He probably told you about a slave compound here in Althkata,
+@6 = ~I know how we can target the mind behind the operation, but first, you should help Hendak and strike the heart. He probably told you about a slave compound here in Athkatla,
 free the slaves there, and then find me in the Crooked Crane near the city gates. We can help see an end to slavery here for good, or at least make a dent that will last a lifetime.~
 @7 = ~So long as Hendak rewards us well, we'll see it done.~
 @8 = ~I'll find you in the Crooked Crane then, when we've cleared the slave compound.~
@@ -15,8 +15,8 @@ free the slaves there, and then find me in the Crooked Crane near the city gates
 @13 = ~My apologies! I was so excited I forgot introductions, though they won't mean much if you don't pull through with the compound. I promise I'll tell you more of myself once you've helped Hendak. I'll be in the Crooked Crane when you're done.~
 @14 = ~The Slave Compound has not yet been liberated. Return when you have saved the slaves.~
 @15 = ~You've done it! I'm sorry if it felt that I needed another test, but I needed to be sure you were willing to go deeper against the slave trade.~
-@16 = ~Let me introduce myself, I am Trent, and I have been watching and spying and finding the best ways to work against the slave trade in Althkata all my life, ever since I was saved from being chained and dragged into it by Lord Praxis's men when I was a boy.~
-@17 = ~You've done more to stop that trade than I could, and I want you to help me stop Lord Praxis. He is the mind behind the entire operation of slaves in Althkata.~
+@16 = ~Let me introduce myself, I am Trent, and I have been watching and spying and finding the best ways to work against the slave trade in Athkatla all my life, ever since I was saved from being chained and dragged into it by Lord Praxis's men when I was a boy.~
+@17 = ~You've done more to stop that trade than I could, and I want you to help me stop Lord Praxis. He is the mind behind the entire operation of slaves in Athkatla.~
 @18 = ~We'll help, but first, we'll need more information on Lord Praxis.~
 @19 = ~And what is in it for us?~
 @20 = ~We don't have time. We have so many other things that are just as important.~
@@ -30,7 +30,7 @@ free the slaves there, and then find me in the Crooked Crane near the city gates
 @28 = ~I can pay you a thousand, up front. I don't have anything else I'm afraid.~
 @29 = ~Forget it. We'll be leaving, then.~
 @30 = ~That will do. What do you need from us?~
-@31 = ~Lord Praxis, as he calls himself, has been operating in Althkata for years. He works extensively with pirates for his slave cargo, and ensures the guards are paid to turn a blind eye to all of it. Most of them are human, taking here locally, but he won't say no to anything exotic if the opportunity arrives.~
+@31 = ~Lord Praxis, as he calls himself, has been operating in Athkatla for years. He works extensively with pirates for his slave cargo, and ensures the guards are paid to turn a blind eye to all of it. Most of them are human, taking here locally, but he won't say no to anything exotic if the opportunity arrives.~
 @32 = ~I've been trying to listen in on them without getting caught, and I've recently gotten word of some artifact he has been deeply interested in. It is a magic rod that allows him to make it even easier to capture people, a one point shop in his hand.~
 @33 = ~Praxis was making an arrangement for the artifact with a traveling merchant named Arben who has it amongst his wares. He's not officially selling it, but Praxis is driving a hard bargain. It's all in this letter. Here. Go to him as soon as you can. He usually stations himself near the ore merchants.~
 @34 = ~I'll be in the Crooked Crane if you change your mind, near the City Gate.~
@@ -59,7 +59,7 @@ free the slaves there, and then find me in the Crooked Crane near the city gates
 @57 = ~No! This puts Praxis one step too close! This bodes quite ill for us all, and I begin to fear we may very well lose this battle against him.~
 @58 = ~But there is still a sliver of hope, if just a sliver.~
 @59 = ~I learned while you were gone that the rod requires a gem, a gem still buried with Arben's ancestors in their tomb, somewhere in the Graveyard District.~
-@60 = ~If we can acquire that gem before the slavers do, I believe it will draw Lord Praxis out to handle the matter personally. Then, we can remove the mind of the slavery operation in Althkata.~
+@60 = ~If we can acquire that gem before the slavers do, I believe it will draw Lord Praxis out to handle the matter personally. Then, we can remove the mind of the slavery operation in Athkatla.~
 @61 = ~We already have the rod. Even if they get the gem, what harm would it do?~
 @62 = ~I won't fail again. The gem is as good as ours.~
 @63 = ~Acquiring the gem allows us to use the rod against Lord Praxis's men. It might come in handy, as well as really make Lord Praxis mad enough to come out from wherever he may be.~
@@ -93,7 +93,7 @@ free the slaves there, and then find me in the Crooked Crane near the city gates
 @91 = ~There's a winged elf in the other cell. I didn't see anyone else.~
 @92 = ~No, thankfully not. I'm the only one they took.~
 @93 = ~Even if some of them escaped, you've destroyed much of them. They'll be no more a remnant.~
-@94 = ~You have made Althkata a far better place. I can take the rod if you have it, and keep it somewhere safe. I promise I won't let it wind up in poor hands.~
+@94 = ~You have made Athkatla a far better place. I can take the rod if you have it, and keep it somewhere safe. I promise I won't let it wind up in poor hands.~
 @95 = ~Here, then. What will you do from here?~
 @96 = ~I'd rather keep it, as additional payment for my service.~
 @97 = ~The rod would be useful for me. May I keep it?~

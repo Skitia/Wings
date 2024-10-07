@@ -1,0 +1,442 @@
+@0    = ~¡Oh, benditos seáis, hijos míos!~
+
+@1    = ~Venid, reuníos y escuchad la palabra del verdadero señor, Ao, que me ha enviado aquí para guiaros.~
+
+@2    = ~Venid a mí con vuestras preguntas, vuestras peticiones, y que a través de mí el Dios supremo escuche vuestras súplicas...~
+
+@3    = ~... a cambio de alguna pequeña ofrenda, claro.~
+
+@4    = ~De uno en uno, ahora. Haz cola y te prometo que escucharé lo que tengas que decir.~
+
+@5    = ~Estoy aquí para conseguir una bendición para la pequeña Rosie.~
+
+@6    = ~¡Oh, Deva! Sólo pido humildemente una bendición para mi bebé...~
+
+@7    = ~Por supuesto... déjame mirar...~
+
+@8    = ~*Desgraciado* (Cielos... ¿cómo no fue destruida esta abominación?)~
+
+@9    = ~... Er, quiero decir... que hermoso niño. ¿Tiene... un nombre?~
+
+@10   = ~Rosie, milord.~
+
+@11   = ~(Con cualquier otro nombre, seguiría apestando.) Pero, ¿qué hay en un nombre? ¿Tienes una moneda? Bien.~
+
+@12   = ~Así que, er... canis, canum... baggio... lusconi. Allí. Está bendecida.~
+
+@13   = ~¿El siguiente?~
+
+@14   = ~¡No puede ser! Oh, pero, ¿qué está haciendo? No, esto... esto no está bien...~
+
+@15   = ~Mis hijos morirán de hambre si las cosas no cambian pronto. Espero que el deva pueda ayudar.~
+
+@16   = ~Amable Deva... Odio preguntar, pero mis cosechas han estado fallando, ¡y tengo siete bocas que alimentar! ¿Hay algo que puedas hacer?~
+
+@17   = ~¡Oh, mi pobre y querida niña! Nunca te avergüences de pedir ayuda en tiempos difíciles.~
+
+@18   = ~Pero recuerda: da y recibirás.~
+
+@19   = ~Ao todavía puede conceder una cosecha rica y abundante ... si fueras a ofrecer un poco de oro.~
+
+@20   = ~Yo... No tengo oro, milord...~
+
+@21   = ~Bueno... piedras preciosas, joyas... debes tener algo valioso que ofrecer...~
+
+@22   = ~Todo lo que tengo es un poco de plata que dejó mi abuela...~
+
+@23   = ~La plata es buena.~
+
+@24   = ~Solo trae eso aquí, y yo volaré hasta Ao y me aseguraré de que sepa del problema.~
+
+@25   = ~Está jodido de muerte.~
+
+@26   = ~Bueno, supongo que no habrá más de nosotros cantando o bailando desnudos alrededor del fuego para él, entonces.~
+
+@27   = ~Déjame en paz... por favor.~
+
+@28   = ~Yo--Yo...~
+
+@29   = ~¿Qué? Bueno fuera con eso. Ao no puede oírte si no hablas.~
+@30   = ~Es... mi chico. Desapareció en las colinas hace casi un mes...~
+
+@31   = ~Oh... Yo... Ya veo...~
+
+@32   = ~Yo sólo... por favor, sólo necesito saber. ¿Está... todavía con nosotros? ¿O su alma?...~
+
+@33   = ~Yo... Yo no...~
+
+@34   = ~Quiero decir, sí... ¡sí! Se lo llevaron, pero a... ¡Athkatla! No pierdas la esperanza... Él vive, todavía.~
+
+@35   = ~Ahora, si... si me disculpas, usar mi clarividencia de esa manera siempre me deja un poco agotado.~
+
+@36   = ~¿Sí, niña? ¿Qué necesitas?~
+
+@37   = ~Nada.~
+
+@38   = ~Menudo chanchullo tienes montado, ¿eh, elfo?~
+
+@39   = ~Si no hay nada, hay otros con ofrendas que debo atender.~
+
+@40   = ~¿Hmmm?  ¿Qué quieres decir?~
+
+@41   = ~Oh, nada. No importa.~
+
+@42   = ~Sé lo que eres en realidad, Deva.~
+
+@43   = ~¿Es así? ¿Y qué piensas hacer con esos conocimientos?~
+
+@44   = ~No puedo permitir que sigas explotando a esta gente.~
+
+@45   = ~Podría exponerte a toda esa gente. Pero, ¿qué te parece si en vez de eso llegamos a un acuerdo?~
+
+@46   = ~Oh, ¿y me expondrás, supongo? ¿Entregarme? Adelante, inténtalo.~
+
+@47   = ~Bueno, admiro tu espíritu emprendedor. Pero me temo, que tendría que decir...~
+
+@48   = ~Dudo que muchos de estos campesinos te crean, y aunque lo hicieran, me largaré antes de que puedan coger sus horcas.~
+
+@49   = ~Y luego, siempre puedo encontrar otro pueblo. Hay todo un mundo de escoria analfabeta ahí fuera esperando a ser abusada y usada.~
+
+@50   = ~Ahora, si realmente no hay nada, hay otros con ofrendas que debo atender.~
+
+@51   = ~*susurra* ¿Cómo... cómo he podido mentirle? A ese pobre hombre... ¡a todos ellos!~
+
+@52   = ~¿Oh? (¿Esa mocosa ha vuelto a sembrar su maliciosa duda? Realmente debo mostrarle cómo se ve el suelo desde lo alto...)~
+
+@53   = ~No sé de qué hablas, niña. Todo lo que hago es llevar esperanza y la palabra de Ao a esta pobre gente.~
+
+@54   = ~¿Y si su hijo no está vivo? ¿Y si lo encuentra muerto? ¿Y si va a Athkatla y se pasa el resto de su vida buscando a alguien que no está allí?~
+
+@55   = ~¡¿Tienes... tienes idea del dolor que estás causando?!~
+
+@56   = ~¿Y quién eres tú para decir que el chico no está vivo?~
+
+@57   = ~Pero no lo sabes, ¿verdad? ¡No sabes nada! ¡Le estás quitando el oro a esta gente y no les das nada!~
+
+@58   = ~Qué blasfemia. ¿Qué te hace pensar que sabes más que esta gente?~
+
+@59   = ~Lo sé. Sé exactamente lo que eres, Avariel, y esto... ¡esto tiene que parar! ¡Ahora mismo!~
+
+@60   = ~¡Ahhh! Ahora veo... hace algún tiempo oí rumores de que uno de los míos estaba enjaulado en algún circo de por aquí. Así que, ¿eras tú?~
+
+@61   = ~Y ahora, mírate... cómo has caído aún más. Un pobre, roto, lisiado, haciendo... ¿qué? ¿Escapando entre la suciedad? ¿Mimetizándote? ¿Fingiendo que eres uno de ellos?~
+
+@62   = ~Pero sabes que nunca lo serás. Puedes parecerte a ellos, pero nunca te entenderán. Tus sentimientos, tus instintos, tu forma de ver el mundo...~
+
+@63   = ~YO... YO... ¡No me importa! ¡Si no detienes esto, le diré a todos la verdad!~
+
+@64   = ~Adelante. A ver si te creen. Lo dudo. Verás, han invertido demasiado en la mentira como para quedar en ridículo por un miserable desliz de una chica.~
+
+@65   = ~Ohhhh... T-tu...!~
+
+@66   = ~¡Ah! Cuidado, ahora... Puede que tú no creas en mí, pero estos campesinos sí. Si levantas una mano contra mí, tendrás que luchar contra ellos también.~
+
+@67   = ~¿De verdad quieres tener que hacer daño a alguna de esas criaturas que aparentemente tanto te importan?~
+
+@68   = ~¿Por qué no corres? ¿Tan rápido como te lleven tus piernecitas?~
+
+@69   = ~OHH!~ [AERIE37]
+
+@70   = ~Realmente no tengo tiempo para hablar contigo.~
+
+@71   = ~*gruñe* Otra vez tú no. ¿No ves que estoy ocupado? ¿Qué es lo que quieres?~
+
+@72   = ~¿No crees que lo que estás haciendo es un poco... inmaduro?~
+
+@73   = ~Oh, eres tan aburrido como todos los ancianos en casa. ¿Qué hay de malo en divertirse inofensivamente y sacar algo de provecho?~
+
+@74   = ~Pero debes saber que serás descubierto, eventualmente.~
+
+@75   = ~Entonces volaré y encontraré más campesinos ignorantes con los que jugar. Es una pena que no puedas seguirme.~
+
+@76   = ~Sí. Lástima...~
+
+@77   = ~Entonces, Deva... ¿a qué dios dijiste que servías?~
+
+@78   = ~(¿De verdad quieres jugar a este juego? Bien...)~
+
+@79   = ~Pues... el más grande de todos los dioses, el dios supremo, Ao, ¡por supuesto!~
+
+@80   = ~Oh. Pero, perdona mi ignorancia, pero, siempre pensé que Ao rehuía el culto.~
+
+@81   = ~Que nunca escucha ni responde a las plegarias, y no acepta ofrendas de ningún tipo.~
+
+@82   = ~'¿De qué va todo esto?~
+
+@83   = ~Por favor. Niños, ¿a quién van a creer?~
+
+@84   = ~¿Esta chica mortal, obviamente sólo está aquí para sembrar el miedo y la duda en vuestros corazones?~
+
+@85   = ~¿O yo, que he cenado con los mismísimos dioses?~
+
+@86   = ~Es cierto que Ao una vez dio la espalda a este mundo. Pero, después de hablarlo, estuvo de acuerdo conmigo en que era hora de volver a dar a conocer su nombre.~
+
+@87   = ~Y así, me ha enviado aquí para ser su mensajero.~
+
+@88   = ~Entonces, ¿te habrán concedido grandes poderes?~
+
+@89   = ~S-sí... sí, por supuesto.~
+
+@90   = ~Entonces seguro que te será fácil curar a este chico~
+
+@91   = ~Yo... Me siento un poco mejor. ¡Gracias señora!~
+
+@92   = ~* tos * Yo... lo siento. * tos* C-no puedo hablar ahora mismo...~
+
+@93   = ~*tos**tos**truco*~
+
+@94   = ~Espero que el Deva pueda hacer que mejore de nuevo... antes de que sea demasiado tarde.~
+
+@95   = ~¡Por favor, Deva! Por favor ... mi hijo está muy enfermo, cada día más débil.~
+
+@96   = ~No tengo mucho, pero sé que con tu poder, tú... ¡Por favor!~
+
+@97   = ~Adelante, Raptair. Cúralo... si puedes.~
+
+@98   = ~Yo... por supuesto...~
+
+@99   = ~Escucha, niña, escucha atentamente mis palabras. Hay... una corrupción dentro de ti. En tu pecho, cubriendo tus pulmones.~
+
+@100  = ~¿Te lo imaginas? Es como una alfombra de ceniza. Ahora, imagina que todo se desmorona, dejando al descubierto tus pulmones sanos y rosados, y exhala las cenizas por la boca...~
+
+@101  = ~Yo-Yo... *tos**truco**tos*~
+
+@102  = ~Je... Yo... yo, eh... normalmente digo unas palabras así y se sienten mejor...~
+
+@103  = ~Eso podría funcionar con un dolor de cabeza, o un esguince de tobillo. Pero este chico está muy enfermo. Necesita ayuda de verdad, Raptair, no sólo tus palabras.~
+
+@104  = ~Intenta quedarte quieta, niña. Yo... Trataré de curarte.~
+
+@105  = ~Está bien, hombrecito. Deberías mejorar ahora, pero deberías ir a casa y descansar.~
+
+@106  = ~Yo... ¡no sé cómo agradecértelo! Traje esto para dárselo a la deva...~
+
+@107  = ~No... por favor, ¡no tienes que darme nada!~
+
+@108  = ~Por favor, todos... ¡escuchen! Ese hombre les ha estado mintiendo. Él no ha sido enviado por Ao, o cualquier dios.~
+
+@109  = ~Él es... sólo un elfo, como yo. Él... sólo aprendió algunos trucos de magia, eso es todo.~
+
+@110  = ~Supongo, ahora que lo pienso, que las orejas delatan un poco...~
+
+@111  = ~Bueno, verás, Ao a menudo elige usar a otros para hacer su trabajo, incluso no creyentes...~
+
+@112  = ~Ah, y hablando del viejo A... ¡sí, creo que le oigo llamarme!~
+
+@113  = ~Tengo que volar, ahora. ¡Hasta la vista, campesinos!~
+
+@114  = ~¡Es-espera!~
+
+@115  = ~No lo creo. ¡Adiós!~
+
+@116  = ~Sí. Lástima, de verdad. Sé que estábamos siendo abusados y explotados y todo eso, pero... algo de eso fue divertido mientras duró.~
+
+@117  = ~*suspira* ¿Y ahora qué?~
+
+@118  = ~¿Una cerveza?~
+
+@119  = ~Sí, está bien.~
+
+@120  = ~¡Ohh! ¡Ese... ese es!~
+
+@121  = ~*suspiro* Se ha ido... Puede que nunca encuentre otro...~
+
+@122  = ~Todavía podríamos golpearlo...~
+
+@123  = ~Sé que fue duro para ti, pero hiciste lo correcto.~
+
+@124  = ~Ha sido una gran actuación.~
+
+@125  = ~No!~
+
+@126  = ~Lo siento, <CHARNAME>. Sé que lo que hizo estuvo mal, y que merece ser castigado, pero...~
+
+@127  = ~No he visto a otro de los míos desde que era un niña. No puedo... si... si no hubiera emprendido el vuelo enseguida, tal vez...~
+
+@128  = ~No lo sé.~
+
+@129  = ~Lo sé, <CHARNAME>. Pero esperaba... que si no se hubiera dado a la fuga de inmediato, tal vez...~
+
+@130  = ~Hablar así, delante de toda esa gente... ¡Creo que fue lo más aterrador que he hecho!~
+
+@131  = ~Pero, sabía que estabas ahí, <CHARNAME>, justo detrás de mí. No creo que lo hubiera conseguido si no hubieras estado.~
+
+@132  = ~Gracias.~
+
+@133  = ~Supongo que no tiene sentido darle vueltas. Dudo que podamos alcanzarlo ahora, de todos modos, a menos que se detenga en algún lugar para descansar sus alas.~
+
+@134  = ~Mil once... mil doce... mil... ¿hm?~
+
+@135  = ~Oh. Eres tú.~
+
+@136  = ~¿No ves que estoy ocupado? No tengo tiempo para ti.~
+
+@137  = ~Como si no lo hubiera pensado.~
+
+@138  = ~Son... mascotas. Todos se divierten jugando con ellos.~
+
+@139  = ~Yo... te veré ahí fuera. Tal vez...~
+
+@140  = ~¡Espera, por favor! No vuelvas a salir volando. Sólo quiero hablar. Tú... tú puedes ayudarme...~
+
+@141  = ~Bueno, ¡qué idea más intrigante!~
+
+@142  = ~Quiero decir, tenía algo muy dulce aquí, hasta que llegaste y arruinaste toda mi diversión. Y ahora quieres mi ayuda.~
+
+@143  = ~¿Estás seguro de que tu densidad no es la razón por la que no puedes volar?~
+
+@144  = ~Lo que estabas haciendo estaba mal. No me disculparé por ponerle fin. Pero te ofrezco la oportunidad de hacer algo bien para variar.~
+
+@145  = ~Yo... No puedo ir a casa, pero... ¡Tengo que saber si mis padres están bien! Tú... tú podrías averiguarlo, y, si lo están, tal vez hacerles saber que estoy viva. ¡Por favor!~
+
+@146  = ~Supongo que sí. ¿En qué ciudad están?~
+
+@147  = ~Faenya-Dail.~
+
+@148  = ~Nunca lo había oído.~
+
+@149  = ~¡Pero debe haber avariel en otras ciudades que sepan cómo encontrarlo!~
+
+@150  = ~Seguro que las hay. Pero el tiempo y los gastos que conllevan no me merecen la pena. Tengo otras cosas que hacer.~
+
+@151  = ~Si lo que quieres es oro, he ahorrado un poco mientras viajaba con <CHARNAME>. ¡Por favor!~
+
+@152  = ~Aunque estuviera interesado en tu oferta, que no lo estoy, pero aunque lo estuviera, ¿has pensado en los sentimientos de tus padres?~
+
+@153  = ~Si están vivos, ¿no crees que te habrían dado por muerto hace tiempo? ¿Crees que sería realmente justo para ellos reaparecer después de todo este tiempo, y ellos habiendo seguido adelante?~
+
+@154  = ~Y lisiado, nada menos. ¿De verdad quieres romperles el corazón otra vez?~
+
+@155  = ~Mejor olvídate de ellos e intenta seguir con tu vida, tal y como es.~
+
+@156  = ~Yo-Yo... *Llora*~
+
+@157  = ~... Yo... ¡Nunca imaginé que uno de los míos pudiera ser tan cruel y despiadado!~
+
+@158  = ~¿Cuándo fue la última vez que conociste a uno? De todos modos, palos y piedras y todo eso.~
+
+@159  = ~Piedras... sí... Tengo unos cuantos, como sucede.~
+
+@160  = ~Sabes que es imposible que te vayas cargado con todas esas bolsas. ¡Será mejor que devuelvas todo eso a la gente a la que se lo quitaste!~
+
+@161  = ~¡Él... él... escapó otra vez!~
+
+@162  = ~Ohhh, yo-yo... ¡Sólo quiero golpear algo!~
+
+@163  = ~Adelante.~
+
+@164  = ~Cálmate, Aerie.~
+
+@165  = ~Sé cómo te sientes.~
+
+@166  = ~Aerie, aunque no puedas volver a volar, te prometo que encontraremos la forma de contactar con tus padres.~
+
+@167  = ~HAA!~
+
+@168  = ~¿Te sientes mejor?~
+
+@169  = ~El primero de los míos que encuentro en años, y él... él sólo prueba que los cerdos pueden volar...~
+
+@170  = ~Lo siento, <CHARNAME>. Sé que tengo que tratar de mantener la cabeza nivelada sobre esto.~
+
+@171  = ~No... ahora me duele también la mano.~
+
+@172  = ~*suspiro* Parece que se escapó con todas las ofrendas de los aldeanos también.~
+
+@173  = ~No hay mucho que podamos hacer al respecto. Dudo que se detenga a esperarnos una segunda vez.~
+
+@174  = ~Espera... hay... hay algo aquí...~
+
+@175  = ~¿Algún tipo de gema? Creo que debe haber venido de esa criatura que matamos. Está caliente...~
+
+@176  = ~Obviamente.~
+
+@177  = ~Podría ser valioso. Mejor dámelo.~
+
+@178  = ~Quizás deberías dejarlo.~
+
+@179  = ~Qué extraño. No parece que se esté enfriando... de hecho, creo que se está calentando...~
+
+@180  = ~Aerie?~
+
+@181  = ~Oh... Lo siento, <CHARNAME>. Si no le importa, me gustaría llevármelo con nosotros, para... para poder examinarlo un poco más. Nunca he visto o leído sobre algo como esto...~
+
+@182  = ~Me siento... extrañamente atraído por ella. L-como que es... es probablemente tonto.~
+
+@183  = ~Seguro.... Si lo deseas.~
+
+@184  = ~Bien. Pero si es valioso, lo vendo.~
+
+@185  = ~Podría pertenecer a alguien.~
+
+@186  = ~No lo sé, Aerie. Podría ser peligroso.~
+
+@187  = ~Bueno, podemos preguntar por ahí mientras tanto, ¿no?~
+
+@188  = ~Okay, Bien.~
+
+@189  = ~No... Creo que es demasiado arriesgado.~
+
+@190  = ~Pero, sé que hay algún tipo de poder aquí... poder que podría ayudarnos...~
+
+@191  = ~¡Oh, no! No quiero que se repita todo el fiasco del pergamino de Nether...~
+
+@192  = ~Vale, Aerie. Si estás segura de que sabes lo que estás haciendo.~
+
+@193  = ~Supongo que un hobby te mantendrá distraído de todos tus otros problemas.~
+
+@194  = ~Bien. Si te hace callar, toma la maldita gema.~
+
+@195  = ~No. Esa es mi respuesta final.~
+
+@196  = ~Gracias, <CHARNAME>.~
+
+@197  = ~*Suspira* Muy bien entonces, <CHARNAME>. Voy a respetar su juicio sobre este.~
+
+@198  = ~Te prometo que tendré mucho más cuidado. No haré nada a menos que esté segura de que es seguro, y después de pedirte permiso, por supuesto. Por favor?~
+
+@199  = ~Mi pueblo es tan aislacionista que podrían pasar años o incluso décadas de búsqueda antes de que encontremos otro rastro de ellos...~
+
+@200  = ~Oh, lo siento, <CHARNAME>. Tienes razón. Al menos no tengo que perder la esperanza de ello. No tienes que preocuparte.~
+
+@201  = ~Además, he estado fuera tanto tiempo que no importa si tengo que esperar un poco más. Y hemos hecho lo correcto para el pueblo, ¿no?~
+//New Content
+@202 = ~¡Vaya, vaya, vaya! Los dioses por fin me han escuchado y me han enviado a mis salvadores.~
+
+@203 = ~¿Por qué estás mirando? ¿Te llama la atención? Me lo dicen mucho.~
+
+@204 = ~Pensamos que estarías un poco más agradecido, ¡sobre todo después de la jugarreta que nos hiciste!~
+
+@205 = ~Lo sentimos. Estás a salvo ahora, así que vamos a estar fuera de su pelo.~
+
+@206 = ~Ahora que todo esto ha terminado, ¡podemos recuperar el dinero!~
+
+@207 = ~<CHARNAME>, ¡espera! Sé que fue hiriente la última vez, pero no deberíamos.~
+
+@208 = ~Estoy de acuerdo. Los dioses no lo verían con buenos ojos.~
+
+@209 = ~¡Jajaja! Esto ha sido todo un espectáculo, pero me aburro, ¡tengo cosas que hacer! Adiós.~
+
+@210 = ~Adiós, Raptair. Por favor, ten más cuidado con la gente de aquí. No son todos malos pero...~
+
+@211 = ~Sí, sí. ¿Cómo dijiste que te llamabas?~
+
+@212 = ~Yo-yo soy Aerie, Raptair.~
+
+@213 = ~Aerie de Faenya-Dail, lo recuerdo. Te estabas arrastrando para que alguien buscara a tus padres, ¿no? ...creo que haré eso.~
+
+@214 = ~¿Lo harás? ¿En serio?~
+
+@215 = ~Bueno, estar en una situación en la que puede que nunca vea a mi propia familia me ha hecho reconsiderar profundamente algunas de mis acciones. Es un inconveniente, pero me salvaste la vida y es costumbre pagarte.~
+
+@216 = ~Aunque seguramente les vuelva a romper el corazón, ¡quizás les ayude el hecho de que me salvaste a mí, Raptair! Si encuentro a tu madre y a tu padre, Aerie, en Faenya-Dail, te encontraré a ti. Si no, bueno, ¡adiós!~
+
+@217 = ~Muchísimas gracias, Raptair. Espero volver a verte.~
+
+@218 = ~¿Agradecido? Ah, sí. Gracias, gracias. Ahora asumo que estás saciado.~
+
+@219 = ~Espera, ¿cuál era tu nombre?~
+
+@220 = ~Esto ha sido todo un espectáculo, pero me aburro, y tú no eres muy entretenido. De todas formas tengo cosas que hacer, ¡adiós!~
+
+@221 = ~¡Bien! Me gusta mi pelo no alborotado por campesinos, por así decirlo. ¡Adiós!~
