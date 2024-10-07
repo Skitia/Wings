@@ -34,17 +34,17 @@ END
 
 CHAIN X3WTRent T.2 
 @12 
-DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")MoveBetweenAreas("AR0022",[342.375],SE)~ 
+DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")EscapeArea()~ 
 EXIT 
 
 CHAIN X3WTRent T.3 
 @11 
-DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")MoveBetweenAreas("AR0022",[342.375],SE)~ 
+DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")EscapeArea()~ 
 EXIT 
 
 CHAIN X3WTRent T.4
 @13
-DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")MoveBetweenAreas("AR0022",[342.375],SE)~ 
+DO ~AddJournalEntry(@10003,QUEST)PlaySound("ACT_07")EscapeArea()~ 
 EXIT 
 
 CHAIN IF ~Global("X3WingsQuest","GLOBAL",7)!Global("FreeSlaves","GLOBAL",1)~ THEN X3WTrent NotReady 
@@ -123,7 +123,7 @@ IF ~!AreaCheck("AR0400")~ EXTERN X3WTrent T.Stay
 
 CHAIN X3WTrent T.Crooked 
 @34 
-DO ~PlaySound("ACT_07")MoveBetweenAreas("AR0022",[342.375],SE)~
+DO ~PlaySound("ACT_07")EscapeArea()~
 EXIT 
 
 CHAIN X3WTrent T.Stay 
@@ -132,7 +132,7 @@ EXIT
 
 CHAIN X3WTrent T.MeetCrooked 
 @51 
-DO ~PlaySound("ACT_07")MoveBetweenAreas("AR0022",[342.375],SE)AddJournalEntry(@10004,QUEST)~
+DO ~PlaySound("ACT_07")AddJournalEntry(@10004,QUEST)EscapeArea()~
 EXIT 
 
 

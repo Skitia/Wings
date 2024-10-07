@@ -46,7 +46,7 @@ END
 
 
 CHAIN AerieJ PLM.1
-@720 // ~You can't promise me that. Althkata is big, <CHARNAME>. Unless she crosses into our way again, how will we ever find her?~
+@720 // ~You can't promise me that. Athkatla is big, <CHARNAME>. Unless she crosses into our way again, how will we ever find her?~
 END 
 ++ @723 + PLM.4 // ~We won't know unless we try, Aerie.~
 ++ @724 + PLM.5 // ~If she wants us dead, I'm sure she'll want to make sure it's done right.~
@@ -917,13 +917,13 @@ CombatCounter(0)
   IF ~~ THEN REPLY @222 GOTO B2#AerW4a
   IF ~~ THEN REPLY @223 GOTO B2#AerW4b
   IF ~OR(2)
-Global("chapter","GLOBAL",%bg2_chapter_2%)
-Global("chapter","GLOBAL",%bg2_chapter_3%)~ THEN REPLY @224 GOTO B2#AerW4c
+Global("Chapter","GLOBAL",%bg2_chapter_2%)
+Global("Chapter","GLOBAL",%bg2_chapter_3%)~ THEN REPLY @224 GOTO B2#AerW4c
   IF ~OR(4)
-Global("chapter","GLOBAL",%bg2_chapter_4%)
-Global("chapter","GLOBAL",%bg2_chapter_5%)
-Global("chapter","GLOBAL",%bg2_chapter_6%)
-Global("chapter","GLOBAL",%bg2_chapter_7%)~ THEN REPLY @224 GOTO B2#AerW4d
+Global("Chapter","GLOBAL",%bg2_chapter_4%)
+Global("Chapter","GLOBAL",%bg2_chapter_5%)
+Global("Chapter","GLOBAL",%bg2_chapter_6%)
+Global("Chapter","GLOBAL",%bg2_chapter_7%)~ THEN REPLY @224 GOTO B2#AerW4d
 END
 
 IF ~~ THEN BEGIN B2#AerW4a

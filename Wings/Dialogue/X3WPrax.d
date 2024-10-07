@@ -66,7 +66,7 @@ EXIT
 
 CHAIN X3WPrax NoDeal
 @21
-DO ~ActionOverride("X3WLara",Enemy())Enemy()~
+DO ~CreateItem("X3WRod",1,1,1)ActionOverride("X3WLara",Enemy())Enemy()~
 EXIT 
 
 CHAIN X3WPrax TrentDeadTrade
