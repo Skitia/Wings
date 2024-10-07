@@ -1,3 +1,11 @@
+IF
+GlobalGT("X3WingsQuest","GLOBAL",6)
+Global("X3WTrentSpawn","AR0022",0)
+THEN RESPONSE #100
+SetGlobal("X3WTrentSpawn","AR0022",1)
+CreateCreature("X3WTrent",[342.375],SE)
+END
+
 IF 
 Global("X3WingsQuest","GLOBAL",16)
 Global("X3WAmbushSpawn","AR0022",0)
