@@ -78,8 +78,8 @@ DO ~SetGlobal("X3WingsQuest","GLOBAL",9)~
 == MAZZYJ IF ~IsValidForPartyDialogue("Mazzy")~ THEN @40
 == ANOMENJ IF ~IsValidForPartyDialogue("Anomen")~ THEN @36 
 END 
-IF ~AreaCheck("AR0400")~ EXTERN X3WTrent T.MeetCrooked 
-IF ~!AreaCheck("AR0400")~ EXTERN X3WTrent T.MeetHere
+IF ~!AreaCheck("AR0022")~ EXTERN X3WTrent T.MeetCrooked 
+IF ~AreaCheck("AR0022")~ EXTERN X3WTrent T.MeetHere
 
 
 
@@ -118,8 +118,8 @@ CHAIN X3WTrent T.NoTime
 @21 
 == MINSCJ IF ~IsValidForPartyDialogue("Minsc")~ THEN @39
 END
-IF ~AreaCheck("AR0400")~ EXTERN X3WTrent T.Crooked 
-IF ~!AreaCheck("AR0400")~ EXTERN X3WTrent T.Stay
+IF ~!AreaCheck("AR0022")~ EXTERN X3WTrent T.Crooked 
+IF ~AreaCheck("AR0022")~ EXTERN X3WTrent T.Stay
 
 CHAIN X3WTrent T.Crooked 
 @34 
